@@ -1,0 +1,950 @@
+2024-10-03 10:39:10,244 - basicLogger - INFO - Received event energy_usage request with a trace id of afbc550b-aef7-4f94-9c51-2b362c73cff8
+2024-10-03 10:39:10,245 - basicLogger - INFO - Returned event energy_usage response (ID: afbc550b-aef7-4f94-9c51-2b362c73cff8) with status 201
+2024-10-03 10:39:10,429 - basicLogger - INFO - Received event energy_usage request with a trace id of c013b411-9ebf-4d0f-aac6-b308cd6fe720
+2024-10-03 10:39:10,431 - basicLogger - INFO - Returned event energy_usage response (ID: c013b411-9ebf-4d0f-aac6-b308cd6fe720) with status 201
+2024-10-03 10:39:10,608 - basicLogger - INFO - Received event energy_usage request with a trace id of 91e1fcbd-2a1b-4e4e-aafb-621542d2ae40
+2024-10-03 10:39:10,608 - basicLogger - INFO - Returned event energy_usage response (ID: 91e1fcbd-2a1b-4e4e-aafb-621542d2ae40) with status 201
+2024-10-03 10:39:10,816 - basicLogger - INFO - Received event energy_usage request with a trace id of d9d1fa11-60a5-4174-b1b3-397811e9672b
+2024-10-03 10:39:10,817 - basicLogger - INFO - Returned event energy_usage response (ID: d9d1fa11-60a5-4174-b1b3-397811e9672b) with status 201
+2024-10-03 10:39:10,990 - basicLogger - INFO - Received event energy_usage request with a trace id of 7ec54ae7-b167-4a46-8e81-491af351c2ec
+2024-10-03 10:39:10,991 - basicLogger - INFO - Returned event energy_usage response (ID: 7ec54ae7-b167-4a46-8e81-491af351c2ec) with status 201
+2024-10-03 10:39:12,323 - basicLogger - INFO - Received event temperature_change request with a trace id of aa544474-5c73-4f4d-8fca-d0b587712c21
+2024-10-03 10:39:12,325 - basicLogger - INFO - Returned event temperature_change response (ID: aa544474-5c73-4f4d-8fca-d0b587712c21) with status 201
+2024-10-03 10:39:12,500 - basicLogger - INFO - Received event temperature_change request with a trace id of d3f132b1-756b-4d4b-8d13-7801df758aba
+2024-10-03 10:39:12,502 - basicLogger - INFO - Returned event temperature_change response (ID: d3f132b1-756b-4d4b-8d13-7801df758aba) with status 201
+2024-10-03 10:39:12,673 - basicLogger - INFO - Received event temperature_change request with a trace id of c573760b-572e-4664-92f4-d689f0855385
+2024-10-03 10:39:12,674 - basicLogger - INFO - Returned event temperature_change response (ID: c573760b-572e-4664-92f4-d689f0855385) with status 201
+2024-10-03 10:39:12,892 - basicLogger - INFO - Received event temperature_change request with a trace id of a0ca4b44-7978-40ef-8dbd-46db1b4e4f38
+2024-10-03 10:39:12,893 - basicLogger - INFO - Returned event temperature_change response (ID: a0ca4b44-7978-40ef-8dbd-46db1b4e4f38) with status 201
+2024-10-03 10:39:13,077 - basicLogger - INFO - Received event temperature_change request with a trace id of 6ed4d605-a1fc-41a4-8afc-c344751408bf
+2024-10-03 10:39:13,079 - basicLogger - INFO - Returned event temperature_change response (ID: 6ed4d605-a1fc-41a4-8afc-c344751408bf) with status 201
+2024-10-03 10:40:02,712 - basicLogger - INFO - Received event temperature_change request with a trace id of 92aa077e-03bd-4e51-b107-a85c915ba3ec
+2024-10-03 10:40:02,713 - basicLogger - INFO - Returned event temperature_change response (ID: 92aa077e-03bd-4e51-b107-a85c915ba3ec) with status 201
+2024-10-03 10:40:02,929 - basicLogger - INFO - Received event temperature_change request with a trace id of 1d94fffc-07c0-4f8d-9c5b-0abda3e6bc7a
+2024-10-03 10:40:02,930 - basicLogger - INFO - Returned event temperature_change response (ID: 1d94fffc-07c0-4f8d-9c5b-0abda3e6bc7a) with status 201
+2024-10-03 10:40:03,114 - basicLogger - INFO - Received event temperature_change request with a trace id of 5a373d12-fe26-4c23-b088-aedf9732bfde
+2024-10-03 10:40:03,115 - basicLogger - INFO - Returned event temperature_change response (ID: 5a373d12-fe26-4c23-b088-aedf9732bfde) with status 201
+2024-10-03 10:40:03,332 - basicLogger - INFO - Received event temperature_change request with a trace id of a2448546-ac82-40de-8c16-8c324f64f141
+2024-10-03 10:40:03,333 - basicLogger - INFO - Returned event temperature_change response (ID: a2448546-ac82-40de-8c16-8c324f64f141) with status 201
+2024-10-03 10:40:03,515 - basicLogger - INFO - Received event temperature_change request with a trace id of 0d378f13-53a4-4d7c-9e2f-8fa9b8e38955
+2024-10-03 10:40:03,515 - basicLogger - INFO - Returned event temperature_change response (ID: 0d378f13-53a4-4d7c-9e2f-8fa9b8e38955) with status 201
+2024-10-03 10:46:01,720 - basicLogger - INFO - Received event energy_usage request with a trace id of b090d2f1-cb28-41a8-8e28-9806a76a42d4
+2024-10-03 10:46:01,939 - basicLogger - INFO - Received event energy_usage request with a trace id of 3ba1632a-8882-4de9-bc6b-5ea120d90403
+2024-10-03 10:46:02,140 - basicLogger - INFO - Received event energy_usage request with a trace id of 2c96d24f-73f2-47f5-95b8-a75dcb2d424d
+2024-10-03 10:46:02,327 - basicLogger - INFO - Received event energy_usage request with a trace id of c059b54d-4bdb-453a-bb83-876f12a3082f
+2024-10-03 10:46:02,526 - basicLogger - INFO - Received event energy_usage request with a trace id of 09c79b36-2e19-49f4-8f88-908e1df49690
+2024-10-03 10:46:04,027 - basicLogger - INFO - Returned event energy_usage response (ID: b090d2f1-cb28-41a8-8e28-9806a76a42d4) with status 201
+2024-10-03 10:46:04,034 - basicLogger - INFO - Received event temperature_change request with a trace id of 503182a7-643b-4bf9-8400-16a456189ad7
+2024-10-03 10:46:04,041 - basicLogger - INFO - Returned event energy_usage response (ID: 3ba1632a-8882-4de9-bc6b-5ea120d90403) with status 201
+2024-10-03 10:46:04,046 - basicLogger - INFO - Received event temperature_change request with a trace id of ff222efc-08ae-4c35-89c0-660b33e66d60
+2024-10-03 10:46:04,220 - basicLogger - INFO - Returned event energy_usage response (ID: 2c96d24f-73f2-47f5-95b8-a75dcb2d424d) with status 201
+2024-10-03 10:46:04,225 - basicLogger - INFO - Received event temperature_change request with a trace id of bfe5db44-8e91-4fb4-9d85-498e98b5444f
+2024-10-03 10:46:04,399 - basicLogger - INFO - Returned event energy_usage response (ID: c059b54d-4bdb-453a-bb83-876f12a3082f) with status 201
+2024-10-03 10:46:04,407 - basicLogger - INFO - Received event temperature_change request with a trace id of 82fc7b9d-04d7-4c3f-8ba7-9a8a6d5a8c38
+2024-10-03 10:46:04,622 - basicLogger - INFO - Returned event energy_usage response (ID: 09c79b36-2e19-49f4-8f88-908e1df49690) with status 201
+2024-10-03 10:46:04,629 - basicLogger - INFO - Received event temperature_change request with a trace id of d3c78ab7-7a4b-41be-bee1-d51f8fb6dcb2
+2024-10-03 10:46:06,093 - basicLogger - INFO - Returned event temperature_change response (ID: 503182a7-643b-4bf9-8400-16a456189ad7) with status 201
+2024-10-03 10:46:06,116 - basicLogger - INFO - Returned event temperature_change response (ID: ff222efc-08ae-4c35-89c0-660b33e66d60) with status 201
+2024-10-03 10:46:06,292 - basicLogger - INFO - Returned event temperature_change response (ID: bfe5db44-8e91-4fb4-9d85-498e98b5444f) with status 201
+2024-10-03 10:46:06,491 - basicLogger - INFO - Returned event temperature_change response (ID: 82fc7b9d-04d7-4c3f-8ba7-9a8a6d5a8c38) with status 201
+2024-10-03 10:46:06,716 - basicLogger - INFO - Returned event temperature_change response (ID: d3c78ab7-7a4b-41be-bee1-d51f8fb6dcb2) with status 201
+2024-10-03 10:49:45,551 - basicLogger - INFO - Received event energy_usage request with a trace id of d3f00bdd-4ee5-4a53-95b0-1b9a8cfbd3d9
+2024-10-03 10:49:45,768 - basicLogger - INFO - Received event energy_usage request with a trace id of 96af42cf-f174-4a84-9106-c1a73dc9a51f
+2024-10-03 10:49:45,957 - basicLogger - INFO - Received event energy_usage request with a trace id of a0863417-76d6-4ef8-8a6a-a8aae4bdeaa8
+2024-10-03 10:49:46,159 - basicLogger - INFO - Received event energy_usage request with a trace id of 07ff5c3b-4ede-4202-a14c-46835dadb7f4
+2024-10-03 10:49:46,361 - basicLogger - INFO - Received event energy_usage request with a trace id of 62f4fe17-c588-46e2-b2b4-75c2f29c3483
+2024-10-03 10:49:47,638 - basicLogger - INFO - Returned event energy_usage response (ID: d3f00bdd-4ee5-4a53-95b0-1b9a8cfbd3d9) with status 201
+2024-10-03 10:49:47,644 - basicLogger - INFO - Received event temperature_change request with a trace id of ac3d3bd6-89a4-486a-a4d4-8b2f51e7cd6e
+2024-10-03 10:49:47,853 - basicLogger - INFO - Returned event energy_usage response (ID: 96af42cf-f174-4a84-9106-c1a73dc9a51f) with status 201
+2024-10-03 10:49:47,861 - basicLogger - INFO - Received event temperature_change request with a trace id of 73891053-5325-48f8-ba00-d7c674fa2fa1
+2024-10-03 10:49:48,017 - basicLogger - INFO - Returned event energy_usage response (ID: a0863417-76d6-4ef8-8a6a-a8aae4bdeaa8) with status 201
+2024-10-03 10:49:48,028 - basicLogger - INFO - Received event temperature_change request with a trace id of 9372df41-0bda-4b8d-9024-cabf9de19694
+2024-10-03 10:49:48,269 - basicLogger - INFO - Returned event energy_usage response (ID: 07ff5c3b-4ede-4202-a14c-46835dadb7f4) with status 201
+2024-10-03 10:49:48,275 - basicLogger - INFO - Received event temperature_change request with a trace id of 8913986f-dd71-461d-a11d-3a3df47c6431
+2024-10-03 10:49:48,441 - basicLogger - INFO - Returned event energy_usage response (ID: 62f4fe17-c588-46e2-b2b4-75c2f29c3483) with status 201
+2024-10-03 10:49:48,447 - basicLogger - INFO - Received event temperature_change request with a trace id of 4ed1cfd8-20ab-4216-861d-a18761f8af2a
+2024-10-03 10:49:49,719 - basicLogger - INFO - Returned event temperature_change response (ID: ac3d3bd6-89a4-486a-a4d4-8b2f51e7cd6e) with status 201
+2024-10-03 10:49:49,950 - basicLogger - INFO - Returned event temperature_change response (ID: 73891053-5325-48f8-ba00-d7c674fa2fa1) with status 201
+2024-10-03 10:49:50,102 - basicLogger - INFO - Returned event temperature_change response (ID: 9372df41-0bda-4b8d-9024-cabf9de19694) with status 201
+2024-10-03 10:49:50,354 - basicLogger - INFO - Returned event temperature_change response (ID: 8913986f-dd71-461d-a11d-3a3df47c6431) with status 201
+2024-10-03 10:49:50,527 - basicLogger - INFO - Returned event temperature_change response (ID: 4ed1cfd8-20ab-4216-861d-a18761f8af2a) with status 201
+2024-10-03 10:51:13,566 - basicLogger - INFO - Received event energy_usage request with a trace id of 1e7bcd6b-8776-4ce0-ba52-03f214da9874
+2024-10-03 10:51:13,775 - basicLogger - INFO - Received event energy_usage request with a trace id of a8ab1b2f-8037-44cd-981d-ff32f2351e2e
+2024-10-03 10:51:13,975 - basicLogger - INFO - Received event energy_usage request with a trace id of bd62d79b-d446-484c-97aa-599d90ac0b95
+2024-10-03 10:51:14,180 - basicLogger - INFO - Received event energy_usage request with a trace id of b8cfbaee-9221-48d2-8858-b76fc1c11af5
+2024-10-03 10:51:14,382 - basicLogger - INFO - Received event energy_usage request with a trace id of de1618ea-ecbe-49bd-9804-748bc8837a14
+2024-10-03 10:51:15,634 - basicLogger - INFO - Returned event energy_usage response (ID: 1e7bcd6b-8776-4ce0-ba52-03f214da9874) with status 201
+2024-10-03 10:51:15,643 - basicLogger - INFO - Received event temperature_change request with a trace id of f57b58b6-dd1b-4234-a8fa-85a2ad87ccbb
+2024-10-03 10:51:15,854 - basicLogger - INFO - Returned event energy_usage response (ID: a8ab1b2f-8037-44cd-981d-ff32f2351e2e) with status 201
+2024-10-03 10:51:15,860 - basicLogger - INFO - Received event temperature_change request with a trace id of dc063f3e-4ed1-49fa-b43e-378e555752fe
+2024-10-03 10:51:16,036 - basicLogger - INFO - Returned event energy_usage response (ID: bd62d79b-d446-484c-97aa-599d90ac0b95) with status 201
+2024-10-03 10:51:16,042 - basicLogger - INFO - Received event temperature_change request with a trace id of a106ea15-44ef-4dee-b2e4-70d4ce54a034
+2024-10-03 10:51:16,260 - basicLogger - INFO - Returned event energy_usage response (ID: b8cfbaee-9221-48d2-8858-b76fc1c11af5) with status 201
+2024-10-03 10:51:16,268 - basicLogger - INFO - Received event temperature_change request with a trace id of a47873f7-7a0a-4364-b3f0-d206b482f838
+2024-10-03 10:51:16,478 - basicLogger - INFO - Returned event energy_usage response (ID: de1618ea-ecbe-49bd-9804-748bc8837a14) with status 201
+2024-10-03 10:51:16,488 - basicLogger - INFO - Received event temperature_change request with a trace id of ffe175d5-33f5-40e8-a234-aef82c24adfb
+2024-10-03 10:51:17,705 - basicLogger - INFO - Returned event temperature_change response (ID: f57b58b6-dd1b-4234-a8fa-85a2ad87ccbb) with status 201
+2024-10-03 10:51:17,940 - basicLogger - INFO - Returned event temperature_change response (ID: dc063f3e-4ed1-49fa-b43e-378e555752fe) with status 201
+2024-10-03 10:51:18,127 - basicLogger - INFO - Returned event temperature_change response (ID: a106ea15-44ef-4dee-b2e4-70d4ce54a034) with status 201
+2024-10-03 10:51:18,355 - basicLogger - INFO - Returned event temperature_change response (ID: a47873f7-7a0a-4364-b3f0-d206b482f838) with status 201
+2024-10-03 10:51:18,572 - basicLogger - INFO - Returned event temperature_change response (ID: ffe175d5-33f5-40e8-a234-aef82c24adfb) with status 201
+2024-10-03 10:53:56,112 - basicLogger - INFO - Received event energy_usage request with a trace id of 281c1ff8-0737-4690-89ea-eb6162fdb518
+2024-10-03 10:53:56,322 - basicLogger - INFO - Received event energy_usage request with a trace id of 6f9b98cd-2153-4f6c-b655-8495b4d37557
+2024-10-03 10:53:56,507 - basicLogger - INFO - Received event energy_usage request with a trace id of 9074d4d2-42ba-464a-a3e9-df7ea6549ef3
+2024-10-03 10:53:56,712 - basicLogger - INFO - Received event energy_usage request with a trace id of c1329733-42b2-45c3-bde5-227de59478df
+2024-10-03 10:53:56,919 - basicLogger - INFO - Received event energy_usage request with a trace id of 3995446f-7126-4236-9348-ecac94c34b0e
+2024-10-03 10:53:58,213 - basicLogger - INFO - Returned event energy_usage response (ID: 281c1ff8-0737-4690-89ea-eb6162fdb518) with status 201
+2024-10-03 10:53:58,222 - basicLogger - INFO - Received event temperature_change request with a trace id of b93389b3-5763-443b-b348-92d75005552b
+2024-10-03 10:53:58,395 - basicLogger - INFO - Returned event energy_usage response (ID: 6f9b98cd-2153-4f6c-b655-8495b4d37557) with status 201
+2024-10-03 10:53:58,406 - basicLogger - INFO - Received event temperature_change request with a trace id of 6dc05e48-df3e-4712-bdb9-6fe2fa95ad86
+2024-10-03 10:53:58,587 - basicLogger - INFO - Returned event energy_usage response (ID: 9074d4d2-42ba-464a-a3e9-df7ea6549ef3) with status 201
+2024-10-03 10:53:58,600 - basicLogger - INFO - Received event temperature_change request with a trace id of 6e6f3e06-acc9-4317-8e59-4568153347f0
+2024-10-03 10:53:58,784 - basicLogger - INFO - Returned event energy_usage response (ID: c1329733-42b2-45c3-bde5-227de59478df) with status 201
+2024-10-03 10:53:58,795 - basicLogger - INFO - Received event temperature_change request with a trace id of d41aaa7c-110c-43e9-9292-6df652d3df04
+2024-10-03 10:53:58,997 - basicLogger - INFO - Returned event energy_usage response (ID: 3995446f-7126-4236-9348-ecac94c34b0e) with status 201
+2024-10-03 10:53:59,003 - basicLogger - INFO - Received event temperature_change request with a trace id of 3185b872-c528-4b9d-9289-c9861c4d307e
+2024-10-03 10:54:00,300 - basicLogger - INFO - Returned event temperature_change response (ID: b93389b3-5763-443b-b348-92d75005552b) with status 201
+2024-10-03 10:54:00,484 - basicLogger - INFO - Returned event temperature_change response (ID: 6dc05e48-df3e-4712-bdb9-6fe2fa95ad86) with status 201
+2024-10-03 10:54:00,692 - basicLogger - INFO - Returned event temperature_change response (ID: 6e6f3e06-acc9-4317-8e59-4568153347f0) with status 201
+2024-10-03 10:54:00,865 - basicLogger - INFO - Returned event temperature_change response (ID: d41aaa7c-110c-43e9-9292-6df652d3df04) with status 201
+2024-10-03 10:54:01,084 - basicLogger - INFO - Returned event temperature_change response (ID: 3185b872-c528-4b9d-9289-c9861c4d307e) with status 201
+2024-10-03 10:55:40,982 - basicLogger - INFO - Received event energy_usage request with a trace id of c5c65209-c366-4141-bbe0-5df2d0bd39bd
+2024-10-03 10:55:41,187 - basicLogger - INFO - Received event energy_usage request with a trace id of d1c2b481-e0b6-4664-a4da-5b4e784753a3
+2024-10-03 10:55:41,390 - basicLogger - INFO - Received event energy_usage request with a trace id of 9748b6fe-3375-4761-8982-b2e8423fdfcb
+2024-10-03 10:55:41,594 - basicLogger - INFO - Received event energy_usage request with a trace id of 5cf7b12a-6d47-4c5e-a107-8fd3352921b9
+2024-10-03 10:55:41,796 - basicLogger - INFO - Received event energy_usage request with a trace id of 78b34443-56c2-4df3-b6b0-0be0beb862e2
+2024-10-03 10:55:43,044 - basicLogger - INFO - Returned event energy_usage response (ID: c5c65209-c366-4141-bbe0-5df2d0bd39bd) with status 201
+2024-10-03 10:55:43,050 - basicLogger - INFO - Received event temperature_change request with a trace id of e2cccce7-875e-4fd6-8cea-440795f9a759
+2024-10-03 10:55:43,275 - basicLogger - INFO - Returned event energy_usage response (ID: d1c2b481-e0b6-4664-a4da-5b4e784753a3) with status 201
+2024-10-03 10:55:43,285 - basicLogger - INFO - Received event temperature_change request with a trace id of fc9f6255-3ed5-4110-84e9-7fe5d89dd857
+2024-10-03 10:55:43,462 - basicLogger - INFO - Returned event energy_usage response (ID: 9748b6fe-3375-4761-8982-b2e8423fdfcb) with status 201
+2024-10-03 10:55:43,466 - basicLogger - INFO - Received event temperature_change request with a trace id of ffaed740-0d3a-4b9f-bb21-cc3340be7993
+2024-10-03 10:55:43,725 - basicLogger - INFO - Returned event energy_usage response (ID: 5cf7b12a-6d47-4c5e-a107-8fd3352921b9) with status 201
+2024-10-03 10:55:43,729 - basicLogger - INFO - Received event temperature_change request with a trace id of 3b972af0-ac8b-4ed1-b319-8b6e830ed329
+2024-10-03 10:55:43,878 - basicLogger - INFO - Returned event energy_usage response (ID: 78b34443-56c2-4df3-b6b0-0be0beb862e2) with status 201
+2024-10-03 10:55:43,885 - basicLogger - INFO - Received event temperature_change request with a trace id of 1b970032-a445-4a99-af1b-65844068a44e
+2024-10-03 10:55:45,116 - basicLogger - INFO - Returned event temperature_change response (ID: e2cccce7-875e-4fd6-8cea-440795f9a759) with status 201
+2024-10-03 10:55:45,356 - basicLogger - INFO - Returned event temperature_change response (ID: fc9f6255-3ed5-4110-84e9-7fe5d89dd857) with status 201
+2024-10-03 10:55:45,528 - basicLogger - INFO - Returned event temperature_change response (ID: ffaed740-0d3a-4b9f-bb21-cc3340be7993) with status 201
+2024-10-03 10:55:45,825 - basicLogger - INFO - Returned event temperature_change response (ID: 3b972af0-ac8b-4ed1-b319-8b6e830ed329) with status 201
+2024-10-03 10:55:45,961 - basicLogger - INFO - Returned event temperature_change response (ID: 1b970032-a445-4a99-af1b-65844068a44e) with status 201
+2024-10-03 10:56:58,504 - basicLogger - INFO - Received event energy_usage request with a trace id of 40f4d8c7-4b0d-46db-8c08-7a1a41ee3229
+2024-10-03 10:56:58,718 - basicLogger - INFO - Received event energy_usage request with a trace id of 6a43aaad-558a-4949-8956-56212c81d97a
+2024-10-03 10:56:58,919 - basicLogger - INFO - Received event energy_usage request with a trace id of 5cb368e3-e625-419d-a556-27a3d4bd6a01
+2024-10-03 10:56:59,119 - basicLogger - INFO - Received event energy_usage request with a trace id of 55310c86-b14b-4cd8-9741-e18209710670
+2024-10-03 10:56:59,322 - basicLogger - INFO - Received event energy_usage request with a trace id of 5cd198b3-ccaf-4923-8549-37c41efcede4
+2024-10-03 10:57:00,557 - basicLogger - INFO - Returned event energy_usage response (ID: 40f4d8c7-4b0d-46db-8c08-7a1a41ee3229) with status 201
+2024-10-03 10:57:00,563 - basicLogger - INFO - Received event temperature_change request with a trace id of a8f86b9a-6b04-4db6-a48f-298c8be5b371
+2024-10-03 10:57:00,803 - basicLogger - INFO - Returned event energy_usage response (ID: 6a43aaad-558a-4949-8956-56212c81d97a) with status 201
+2024-10-03 10:57:00,809 - basicLogger - INFO - Received event temperature_change request with a trace id of 1615546d-878a-4d98-9ea4-b8f65bd9c73f
+2024-10-03 10:57:01,006 - basicLogger - INFO - Returned event energy_usage response (ID: 5cb368e3-e625-419d-a556-27a3d4bd6a01) with status 201
+2024-10-03 10:57:01,018 - basicLogger - INFO - Received event temperature_change request with a trace id of 3d616e96-0582-4392-9dc2-4731f9a53475
+2024-10-03 10:57:01,219 - basicLogger - INFO - Returned event energy_usage response (ID: 55310c86-b14b-4cd8-9741-e18209710670) with status 201
+2024-10-03 10:57:01,230 - basicLogger - INFO - Received event temperature_change request with a trace id of f5bf3ddb-a00e-4741-8251-247ac4fa5be6
+2024-10-03 10:57:01,420 - basicLogger - INFO - Returned event energy_usage response (ID: 5cd198b3-ccaf-4923-8549-37c41efcede4) with status 201
+2024-10-03 10:57:01,430 - basicLogger - INFO - Received event temperature_change request with a trace id of 2477c209-a2b3-4dd3-b133-d81e039131ff
+2024-10-03 10:57:02,629 - basicLogger - INFO - Returned event temperature_change response (ID: a8f86b9a-6b04-4db6-a48f-298c8be5b371) with status 201
+2024-10-03 10:57:02,879 - basicLogger - INFO - Returned event temperature_change response (ID: 1615546d-878a-4d98-9ea4-b8f65bd9c73f) with status 201
+2024-10-03 10:57:03,084 - basicLogger - INFO - Returned event temperature_change response (ID: 3d616e96-0582-4392-9dc2-4731f9a53475) with status 201
+2024-10-03 10:57:03,303 - basicLogger - INFO - Returned event temperature_change response (ID: f5bf3ddb-a00e-4741-8251-247ac4fa5be6) with status 201
+2024-10-03 10:57:03,505 - basicLogger - INFO - Returned event temperature_change response (ID: 2477c209-a2b3-4dd3-b133-d81e039131ff) with status 201
+2024-10-03 10:57:37,106 - basicLogger - INFO - Received event energy_usage request with a trace id of 60600e49-15ba-4577-a0e7-c1e0b403715a
+2024-10-03 10:57:37,316 - basicLogger - INFO - Received event energy_usage request with a trace id of b8750df2-e95d-4c0d-8ce0-08895d7a84e8
+2024-10-03 10:57:37,520 - basicLogger - INFO - Received event energy_usage request with a trace id of 3ded6f30-f6f4-4707-8eea-5ca723f810c3
+2024-10-03 10:57:37,720 - basicLogger - INFO - Received event energy_usage request with a trace id of a46acc77-df43-4b60-b899-3a6f0298a573
+2024-10-03 10:57:37,922 - basicLogger - INFO - Received event energy_usage request with a trace id of 905d5b17-b86d-4b3c-943d-fcb4b14a4d90
+2024-10-03 10:57:39,216 - basicLogger - INFO - Returned event energy_usage response (ID: 60600e49-15ba-4577-a0e7-c1e0b403715a) with status 201
+2024-10-03 10:57:39,222 - basicLogger - INFO - Received event temperature_change request with a trace id of 19a5cfbf-cd79-4d6a-8f22-a9cf54ff0d7e
+2024-10-03 10:57:39,403 - basicLogger - INFO - Returned event energy_usage response (ID: b8750df2-e95d-4c0d-8ce0-08895d7a84e8) with status 201
+2024-10-03 10:57:39,411 - basicLogger - INFO - Received event temperature_change request with a trace id of 35b9d747-efff-4011-940e-9ac8bc223e19
+2024-10-03 10:57:39,608 - basicLogger - INFO - Returned event energy_usage response (ID: 3ded6f30-f6f4-4707-8eea-5ca723f810c3) with status 201
+2024-10-03 10:57:39,618 - basicLogger - INFO - Received event temperature_change request with a trace id of df361bf3-4b47-45a4-83b2-d71f530d6703
+2024-10-03 10:57:39,811 - basicLogger - INFO - Returned event energy_usage response (ID: a46acc77-df43-4b60-b899-3a6f0298a573) with status 201
+2024-10-03 10:57:39,817 - basicLogger - INFO - Received event temperature_change request with a trace id of b53d4453-0bdd-45bb-8226-7b1fe2d831aa
+2024-10-03 10:57:40,021 - basicLogger - INFO - Returned event energy_usage response (ID: 905d5b17-b86d-4b3c-943d-fcb4b14a4d90) with status 201
+2024-10-03 10:57:40,029 - basicLogger - INFO - Received event temperature_change request with a trace id of 83c73452-ff32-4b4b-bed5-5f82869d64ff
+2024-10-03 10:57:41,306 - basicLogger - INFO - Returned event temperature_change response (ID: 19a5cfbf-cd79-4d6a-8f22-a9cf54ff0d7e) with status 201
+2024-10-03 10:57:41,481 - basicLogger - INFO - Returned event temperature_change response (ID: 35b9d747-efff-4011-940e-9ac8bc223e19) with status 201
+2024-10-03 10:57:41,703 - basicLogger - INFO - Returned event temperature_change response (ID: df361bf3-4b47-45a4-83b2-d71f530d6703) with status 201
+2024-10-03 10:57:41,895 - basicLogger - INFO - Returned event temperature_change response (ID: b53d4453-0bdd-45bb-8226-7b1fe2d831aa) with status 201
+2024-10-03 10:57:42,102 - basicLogger - INFO - Returned event temperature_change response (ID: 83c73452-ff32-4b4b-bed5-5f82869d64ff) with status 201
+2024-10-03 10:59:02,565 - basicLogger - INFO - Received event energy_usage request with a trace id of 9509aeaf-8d3e-42d4-8a02-ee5f4d86c2e4
+2024-10-03 10:59:02,780 - basicLogger - INFO - Received event energy_usage request with a trace id of a69dd5eb-16ac-4eb1-be6d-32f610cfe110
+2024-10-03 10:59:02,983 - basicLogger - INFO - Received event energy_usage request with a trace id of 8faa2b45-eed9-4e57-9ea4-0b99596ac2dc
+2024-10-03 10:59:03,166 - basicLogger - INFO - Received event energy_usage request with a trace id of 7dc08aa1-c0be-4acc-a745-ea5eff5545cb
+2024-10-03 10:59:03,372 - basicLogger - INFO - Received event energy_usage request with a trace id of 5f683950-3e53-41aa-9f4c-2cf3ad644f90
+2024-10-03 10:59:04,654 - basicLogger - INFO - Returned event energy_usage response (ID: 9509aeaf-8d3e-42d4-8a02-ee5f4d86c2e4) with status 201
+2024-10-03 10:59:04,662 - basicLogger - INFO - Received event temperature_change request with a trace id of fea77d8f-79d1-41be-a455-c4e38eac09f8
+2024-10-03 10:59:04,838 - basicLogger - INFO - Returned event energy_usage response (ID: a69dd5eb-16ac-4eb1-be6d-32f610cfe110) with status 201
+2024-10-03 10:59:04,847 - basicLogger - INFO - Received event temperature_change request with a trace id of 7a7a3d1d-8d89-4332-acdd-06ebb65ada41
+2024-10-03 10:59:05,033 - basicLogger - INFO - Returned event energy_usage response (ID: 8faa2b45-eed9-4e57-9ea4-0b99596ac2dc) with status 201
+2024-10-03 10:59:05,039 - basicLogger - INFO - Received event temperature_change request with a trace id of 67df7ab8-5276-44c0-bc8e-ff72f1eeeae8
+2024-10-03 10:59:05,240 - basicLogger - INFO - Returned event energy_usage response (ID: 7dc08aa1-c0be-4acc-a745-ea5eff5545cb) with status 201
+2024-10-03 10:59:05,251 - basicLogger - INFO - Received event temperature_change request with a trace id of d7a9cbcb-5892-43a0-b9de-afad34e79f47
+2024-10-03 10:59:05,443 - basicLogger - INFO - Returned event energy_usage response (ID: 5f683950-3e53-41aa-9f4c-2cf3ad644f90) with status 201
+2024-10-03 10:59:05,455 - basicLogger - INFO - Received event temperature_change request with a trace id of 3175fbbe-3ad9-4305-93db-a14f15b4965a
+2024-10-03 10:59:06,731 - basicLogger - INFO - Returned event temperature_change response (ID: fea77d8f-79d1-41be-a455-c4e38eac09f8) with status 201
+2024-10-03 10:59:06,901 - basicLogger - INFO - Returned event temperature_change response (ID: 7a7a3d1d-8d89-4332-acdd-06ebb65ada41) with status 201
+2024-10-03 10:59:07,103 - basicLogger - INFO - Returned event temperature_change response (ID: 67df7ab8-5276-44c0-bc8e-ff72f1eeeae8) with status 201
+2024-10-03 10:59:07,308 - basicLogger - INFO - Returned event temperature_change response (ID: d7a9cbcb-5892-43a0-b9de-afad34e79f47) with status 201
+2024-10-03 10:59:07,519 - basicLogger - INFO - Returned event temperature_change response (ID: 3175fbbe-3ad9-4305-93db-a14f15b4965a) with status 201
+2024-10-03 11:02:52,213 - basicLogger - INFO - Received event energy_usage request with a trace id of c202fdbd-3b04-4fe7-812f-35501437b0c3
+2024-10-03 11:02:52,426 - basicLogger - INFO - Received event energy_usage request with a trace id of 4e5a5fe8-d76b-40a3-8d5e-6222191366cf
+2024-10-03 11:02:52,630 - basicLogger - INFO - Received event energy_usage request with a trace id of c38ba460-285d-45cf-8442-5336b8cbee5f
+2024-10-03 11:02:52,818 - basicLogger - INFO - Received event energy_usage request with a trace id of fb2dc408-eebe-49b2-922e-37917e1009b5
+2024-10-03 11:02:53,018 - basicLogger - INFO - Received event energy_usage request with a trace id of fd1634bc-7914-4078-9a5b-03a3974a25d1
+2024-10-03 11:02:54,283 - basicLogger - INFO - Returned event energy_usage response (ID: c202fdbd-3b04-4fe7-812f-35501437b0c3) with status 201
+2024-10-03 11:02:54,294 - basicLogger - INFO - Received event temperature_change request with a trace id of 01ce7c9d-0670-4753-932f-cf982c78dd13
+2024-10-03 11:02:54,482 - basicLogger - INFO - Returned event energy_usage response (ID: 4e5a5fe8-d76b-40a3-8d5e-6222191366cf) with status 201
+2024-10-03 11:02:54,493 - basicLogger - INFO - Received event temperature_change request with a trace id of 3153aaf6-4736-476c-a8ec-51cc7894b8b4
+2024-10-03 11:02:54,683 - basicLogger - INFO - Returned event energy_usage response (ID: c38ba460-285d-45cf-8442-5336b8cbee5f) with status 201
+2024-10-03 11:02:54,695 - basicLogger - INFO - Received event temperature_change request with a trace id of 71f77250-1702-48a0-89e2-2d1cbe3e78a7
+2024-10-03 11:02:54,884 - basicLogger - INFO - Returned event energy_usage response (ID: fb2dc408-eebe-49b2-922e-37917e1009b5) with status 201
+2024-10-03 11:02:54,894 - basicLogger - INFO - Received event temperature_change request with a trace id of 23497fe6-da6e-428e-b98e-44a7cc68c206
+2024-10-03 11:02:55,081 - basicLogger - INFO - Returned event energy_usage response (ID: fd1634bc-7914-4078-9a5b-03a3974a25d1) with status 201
+2024-10-03 11:02:55,088 - basicLogger - INFO - Received event temperature_change request with a trace id of a1670be0-859b-4f5b-bfed-e997e0a6e9ea
+2024-10-03 11:02:56,366 - basicLogger - INFO - Returned event temperature_change response (ID: 01ce7c9d-0670-4753-932f-cf982c78dd13) with status 201
+2024-10-03 11:02:56,410 - basicLogger - INFO - Received event energy_usage request with a trace id of b67fd24e-7728-4b1b-a092-e2135cb2ee80
+2024-10-03 11:02:56,537 - basicLogger - INFO - Returned event temperature_change response (ID: 3153aaf6-4736-476c-a8ec-51cc7894b8b4) with status 201
+2024-10-03 11:02:56,551 - basicLogger - INFO - Received event energy_usage request with a trace id of 9f363f09-d800-4755-82c0-6d992a411e95
+2024-10-03 11:02:56,758 - basicLogger - INFO - Returned event temperature_change response (ID: 71f77250-1702-48a0-89e2-2d1cbe3e78a7) with status 201
+2024-10-03 11:02:56,771 - basicLogger - INFO - Received event energy_usage request with a trace id of 591e9c85-c507-4cb3-9723-8682ba0fd2f1
+2024-10-03 11:02:56,949 - basicLogger - INFO - Returned event temperature_change response (ID: 23497fe6-da6e-428e-b98e-44a7cc68c206) with status 201
+2024-10-03 11:02:56,957 - basicLogger - INFO - Received event energy_usage request with a trace id of 3603e2fe-8407-44e7-aeba-beb0a34187c9
+2024-10-03 11:02:57,157 - basicLogger - INFO - Returned event temperature_change response (ID: a1670be0-859b-4f5b-bfed-e997e0a6e9ea) with status 201
+2024-10-03 11:02:57,167 - basicLogger - INFO - Received event energy_usage request with a trace id of fb7e51d8-7ec7-4b0f-bca1-416abbafc174
+2024-10-03 11:02:58,496 - basicLogger - INFO - Returned event energy_usage response (ID: b67fd24e-7728-4b1b-a092-e2135cb2ee80) with status 201
+2024-10-03 11:02:58,507 - basicLogger - INFO - Received event temperature_change request with a trace id of cf8c22f0-6c4e-4746-b967-d753f504d82c
+2024-10-03 11:02:58,610 - basicLogger - INFO - Returned event energy_usage response (ID: 9f363f09-d800-4755-82c0-6d992a411e95) with status 201
+2024-10-03 11:02:58,617 - basicLogger - INFO - Received event temperature_change request with a trace id of 2e39fe01-e7d4-40ee-8944-6c9c1d10c1d2
+2024-10-03 11:02:58,840 - basicLogger - INFO - Returned event energy_usage response (ID: 591e9c85-c507-4cb3-9723-8682ba0fd2f1) with status 201
+2024-10-03 11:02:58,852 - basicLogger - INFO - Received event temperature_change request with a trace id of a19fb2ea-09dc-4082-8d60-9b12d3b1ccb3
+2024-10-03 11:02:59,025 - basicLogger - INFO - Returned event energy_usage response (ID: 3603e2fe-8407-44e7-aeba-beb0a34187c9) with status 201
+2024-10-03 11:02:59,033 - basicLogger - INFO - Received event temperature_change request with a trace id of 7cdc750e-1499-4e78-bc15-fb9f7faf94cc
+2024-10-03 11:02:59,226 - basicLogger - INFO - Returned event energy_usage response (ID: fb7e51d8-7ec7-4b0f-bca1-416abbafc174) with status 201
+2024-10-03 11:02:59,236 - basicLogger - INFO - Received event temperature_change request with a trace id of e9c8a527-5fbe-453b-b9c6-657735a87cd2
+2024-10-03 11:03:00,580 - basicLogger - INFO - Returned event temperature_change response (ID: cf8c22f0-6c4e-4746-b967-d753f504d82c) with status 201
+2024-10-03 11:03:00,594 - basicLogger - INFO - Received event energy_usage request with a trace id of 4e500661-e2ec-41fb-9a2d-658e1f9303ac
+2024-10-03 11:03:00,689 - basicLogger - INFO - Returned event temperature_change response (ID: 2e39fe01-e7d4-40ee-8944-6c9c1d10c1d2) with status 201
+2024-10-03 11:03:00,700 - basicLogger - INFO - Received event energy_usage request with a trace id of 37ad7472-6188-42fb-b7c7-6e6f247c7cdb
+2024-10-03 11:03:00,921 - basicLogger - INFO - Returned event temperature_change response (ID: a19fb2ea-09dc-4082-8d60-9b12d3b1ccb3) with status 201
+2024-10-03 11:03:00,933 - basicLogger - INFO - Received event energy_usage request with a trace id of 80119dc7-42f9-4b88-9c3c-50e9ec3d4e11
+2024-10-03 11:03:01,107 - basicLogger - INFO - Returned event temperature_change response (ID: 7cdc750e-1499-4e78-bc15-fb9f7faf94cc) with status 201
+2024-10-03 11:03:01,118 - basicLogger - INFO - Received event energy_usage request with a trace id of 4a11b874-9954-4da3-8087-37d7e5e70c1b
+2024-10-03 11:03:01,310 - basicLogger - INFO - Returned event temperature_change response (ID: e9c8a527-5fbe-453b-b9c6-657735a87cd2) with status 201
+2024-10-03 11:03:01,323 - basicLogger - INFO - Received event energy_usage request with a trace id of 1dae4e1a-a9d5-45c3-9eab-543086c8b6b1
+2024-10-03 11:03:02,658 - basicLogger - INFO - Returned event energy_usage response (ID: 4e500661-e2ec-41fb-9a2d-658e1f9303ac) with status 201
+2024-10-03 11:03:02,667 - basicLogger - INFO - Received event temperature_change request with a trace id of fecc32df-c278-4ab4-90ce-c5e6ea55ee39
+2024-10-03 11:03:02,763 - basicLogger - INFO - Returned event energy_usage response (ID: 37ad7472-6188-42fb-b7c7-6e6f247c7cdb) with status 201
+2024-10-03 11:03:02,769 - basicLogger - INFO - Received event temperature_change request with a trace id of 9ff0bf8a-969e-4aad-a302-5335ca2b3a0a
+2024-10-03 11:03:02,992 - basicLogger - INFO - Returned event energy_usage response (ID: 80119dc7-42f9-4b88-9c3c-50e9ec3d4e11) with status 201
+2024-10-03 11:03:03,002 - basicLogger - INFO - Received event temperature_change request with a trace id of 272c7cc0-720f-4312-b545-607ced8cd62c
+2024-10-03 11:03:03,197 - basicLogger - INFO - Returned event energy_usage response (ID: 4a11b874-9954-4da3-8087-37d7e5e70c1b) with status 201
+2024-10-03 11:03:03,209 - basicLogger - INFO - Received event temperature_change request with a trace id of deeaf7c7-00c1-499a-8f7c-c0329efb89fc
+2024-10-03 11:03:03,395 - basicLogger - INFO - Returned event energy_usage response (ID: 1dae4e1a-a9d5-45c3-9eab-543086c8b6b1) with status 201
+2024-10-03 11:03:03,405 - basicLogger - INFO - Received event temperature_change request with a trace id of 942c143b-128c-400c-988b-3a20bfa7a341
+2024-10-03 11:03:04,726 - basicLogger - INFO - Returned event temperature_change response (ID: fecc32df-c278-4ab4-90ce-c5e6ea55ee39) with status 201
+2024-10-03 11:03:04,733 - basicLogger - INFO - Received event energy_usage request with a trace id of c6dacbfb-9e6f-4523-b4cb-adc194ce3adc
+2024-10-03 11:03:04,842 - basicLogger - INFO - Returned event temperature_change response (ID: 9ff0bf8a-969e-4aad-a302-5335ca2b3a0a) with status 201
+2024-10-03 11:03:04,856 - basicLogger - INFO - Received event energy_usage request with a trace id of 4731ed50-9a1b-4953-bc25-90f50e16734f
+2024-10-03 11:03:05,072 - basicLogger - INFO - Returned event temperature_change response (ID: 272c7cc0-720f-4312-b545-607ced8cd62c) with status 201
+2024-10-03 11:03:05,085 - basicLogger - INFO - Received event energy_usage request with a trace id of 51e2c2d6-4edf-4342-a4cd-c247d4ae3e36
+2024-10-03 11:03:05,278 - basicLogger - INFO - Returned event temperature_change response (ID: deeaf7c7-00c1-499a-8f7c-c0329efb89fc) with status 201
+2024-10-03 11:03:05,290 - basicLogger - INFO - Received event energy_usage request with a trace id of 0d4c5439-409e-4cf0-9560-9e14f0b77009
+2024-10-03 11:03:05,463 - basicLogger - INFO - Returned event temperature_change response (ID: 942c143b-128c-400c-988b-3a20bfa7a341) with status 201
+2024-10-03 11:03:05,475 - basicLogger - INFO - Received event energy_usage request with a trace id of 59fa3ccc-998b-4366-b64d-5c28a4acf9eb
+2024-10-03 11:03:06,800 - basicLogger - INFO - Returned event energy_usage response (ID: c6dacbfb-9e6f-4523-b4cb-adc194ce3adc) with status 201
+2024-10-03 11:03:06,810 - basicLogger - INFO - Received event temperature_change request with a trace id of fa49d726-99e4-4391-86d9-39ba278aa214
+2024-10-03 11:03:06,915 - basicLogger - INFO - Returned event energy_usage response (ID: 4731ed50-9a1b-4953-bc25-90f50e16734f) with status 201
+2024-10-03 11:03:06,921 - basicLogger - INFO - Received event temperature_change request with a trace id of 681b7119-cdd0-4923-9c00-3deb5c673804
+2024-10-03 11:03:07,157 - basicLogger - INFO - Returned event energy_usage response (ID: 51e2c2d6-4edf-4342-a4cd-c247d4ae3e36) with status 201
+2024-10-03 11:03:07,165 - basicLogger - INFO - Received event temperature_change request with a trace id of ce17f492-eb95-4454-af97-b51031a99996
+2024-10-03 11:03:07,408 - basicLogger - INFO - Returned event energy_usage response (ID: 0d4c5439-409e-4cf0-9560-9e14f0b77009) with status 201
+2024-10-03 11:03:07,413 - basicLogger - INFO - Received event temperature_change request with a trace id of fbddd7ef-95ec-4e94-8376-2bb0bea9d192
+2024-10-03 11:03:07,517 - basicLogger - INFO - Returned event energy_usage response (ID: 59fa3ccc-998b-4366-b64d-5c28a4acf9eb) with status 201
+2024-10-03 11:03:07,526 - basicLogger - INFO - Received event temperature_change request with a trace id of cad1eb25-3e31-4e50-a287-dc2d83780ddb
+2024-10-03 11:03:08,884 - basicLogger - INFO - Returned event temperature_change response (ID: fa49d726-99e4-4391-86d9-39ba278aa214) with status 201
+2024-10-03 11:03:08,897 - basicLogger - INFO - Received event energy_usage request with a trace id of d302ec44-0319-44da-a150-73f48fc69f25
+2024-10-03 11:03:08,994 - basicLogger - INFO - Returned event temperature_change response (ID: 681b7119-cdd0-4923-9c00-3deb5c673804) with status 201
+2024-10-03 11:03:09,006 - basicLogger - INFO - Received event energy_usage request with a trace id of cf8d7fb5-9f6a-43c3-92ff-5c42ba8f3e8d
+2024-10-03 11:03:09,242 - basicLogger - INFO - Returned event temperature_change response (ID: ce17f492-eb95-4454-af97-b51031a99996) with status 201
+2024-10-03 11:03:09,254 - basicLogger - INFO - Received event energy_usage request with a trace id of c60f8815-b108-44f8-b2a8-ed2bb0c9ad35
+2024-10-03 11:03:09,462 - basicLogger - INFO - Returned event temperature_change response (ID: fbddd7ef-95ec-4e94-8376-2bb0bea9d192) with status 201
+2024-10-03 11:03:09,467 - basicLogger - INFO - Received event energy_usage request with a trace id of c6ade39b-3d92-4713-93cc-e2bf59d28c07
+2024-10-03 11:03:09,597 - basicLogger - INFO - Returned event temperature_change response (ID: cad1eb25-3e31-4e50-a287-dc2d83780ddb) with status 201
+2024-10-03 11:03:09,607 - basicLogger - INFO - Received event energy_usage request with a trace id of 2be2ce9e-9180-4b5a-8af8-697e25bcdb2a
+2024-10-03 11:03:10,967 - basicLogger - INFO - Returned event energy_usage response (ID: d302ec44-0319-44da-a150-73f48fc69f25) with status 201
+2024-10-03 11:03:10,979 - basicLogger - INFO - Received event temperature_change request with a trace id of 2ae622f1-4b72-4690-baf2-cf849bc2e3cc
+2024-10-03 11:03:11,065 - basicLogger - INFO - Returned event energy_usage response (ID: cf8d7fb5-9f6a-43c3-92ff-5c42ba8f3e8d) with status 201
+2024-10-03 11:03:11,071 - basicLogger - INFO - Received event temperature_change request with a trace id of 0962ffbe-79bd-4c34-9e88-a812efbac650
+2024-10-03 11:03:11,325 - basicLogger - INFO - Returned event energy_usage response (ID: c60f8815-b108-44f8-b2a8-ed2bb0c9ad35) with status 201
+2024-10-03 11:03:11,334 - basicLogger - INFO - Received event temperature_change request with a trace id of ce38e0ba-f652-4bce-b2b6-58e17fc84732
+2024-10-03 11:03:11,541 - basicLogger - INFO - Returned event energy_usage response (ID: c6ade39b-3d92-4713-93cc-e2bf59d28c07) with status 201
+2024-10-03 11:03:11,552 - basicLogger - INFO - Received event temperature_change request with a trace id of fa96dce8-921e-489a-8ef6-c7d59975cf77
+2024-10-03 11:03:11,677 - basicLogger - INFO - Returned event energy_usage response (ID: 2be2ce9e-9180-4b5a-8af8-697e25bcdb2a) with status 201
+2024-10-03 11:03:11,686 - basicLogger - INFO - Received event temperature_change request with a trace id of bb24a58e-8a51-4f50-9f20-0ea2323bd832
+2024-10-03 11:03:13,045 - basicLogger - INFO - Returned event temperature_change response (ID: 2ae622f1-4b72-4690-baf2-cf849bc2e3cc) with status 201
+2024-10-03 11:03:13,147 - basicLogger - INFO - Returned event temperature_change response (ID: 0962ffbe-79bd-4c34-9e88-a812efbac650) with status 201
+2024-10-03 11:03:13,413 - basicLogger - INFO - Returned event temperature_change response (ID: ce38e0ba-f652-4bce-b2b6-58e17fc84732) with status 201
+2024-10-03 11:03:13,632 - basicLogger - INFO - Returned event temperature_change response (ID: fa96dce8-921e-489a-8ef6-c7d59975cf77) with status 201
+2024-10-03 11:03:13,739 - basicLogger - INFO - Returned event temperature_change response (ID: bb24a58e-8a51-4f50-9f20-0ea2323bd832) with status 201
+2024-10-10 11:50:45,813 - basicLogger - INFO - Received event energy_usage request with a trace id of 70455919-0039-4c43-9b80-86e5a3a55700
+2024-10-10 11:50:46,129 - basicLogger - INFO - Received event energy_usage request with a trace id of 96e9e142-ee1b-4e15-9310-be42c09e1179
+2024-10-10 11:50:47,974 - basicLogger - INFO - Returned event energy_usage response (ID: 70455919-0039-4c43-9b80-86e5a3a55700) with status 201
+2024-10-10 11:50:48,004 - basicLogger - INFO - Received event temperature_change request with a trace id of 3df2429c-401d-4165-905d-1f50c5397719
+2024-10-10 11:50:48,195 - basicLogger - INFO - Returned event energy_usage response (ID: 96e9e142-ee1b-4e15-9310-be42c09e1179) with status 201
+2024-10-10 11:50:48,207 - basicLogger - INFO - Received event temperature_change request with a trace id of 73b9e8ae-f323-4cb4-8188-62992bd72c9c
+2024-10-10 11:50:50,072 - basicLogger - INFO - Returned event temperature_change response (ID: 3df2429c-401d-4165-905d-1f50c5397719) with status 201
+2024-10-10 11:50:50,085 - basicLogger - INFO - Received event energy_usage request with a trace id of f5b79160-5611-423b-a0ac-571c02008d22
+2024-10-10 11:50:50,283 - basicLogger - INFO - Returned event temperature_change response (ID: 73b9e8ae-f323-4cb4-8188-62992bd72c9c) with status 201
+2024-10-10 11:50:50,294 - basicLogger - INFO - Received event energy_usage request with a trace id of e113db86-f669-4e77-84e9-c7a071780820
+2024-10-10 11:50:52,162 - basicLogger - INFO - Returned event energy_usage response (ID: f5b79160-5611-423b-a0ac-571c02008d22) with status 201
+2024-10-10 11:50:52,173 - basicLogger - INFO - Received event temperature_change request with a trace id of 5b275533-8119-432d-9e80-27c622c62f08
+2024-10-10 11:50:52,366 - basicLogger - INFO - Returned event energy_usage response (ID: e113db86-f669-4e77-84e9-c7a071780820) with status 201
+2024-10-10 11:50:52,377 - basicLogger - INFO - Received event temperature_change request with a trace id of 07eb701a-82e5-4524-ba72-3995febbc63d
+2024-10-10 11:50:54,238 - basicLogger - INFO - Returned event temperature_change response (ID: 5b275533-8119-432d-9e80-27c622c62f08) with status 201
+2024-10-10 11:50:54,249 - basicLogger - INFO - Received event energy_usage request with a trace id of a1174dfd-9c6a-4422-b7ba-9560cbf43985
+2024-10-10 11:50:54,440 - basicLogger - INFO - Returned event temperature_change response (ID: 07eb701a-82e5-4524-ba72-3995febbc63d) with status 201
+2024-10-10 11:50:54,452 - basicLogger - INFO - Received event energy_usage request with a trace id of 2dc8f296-2b1c-4d5d-85f6-6f1212c418c8
+2024-10-10 11:50:56,321 - basicLogger - INFO - Returned event energy_usage response (ID: a1174dfd-9c6a-4422-b7ba-9560cbf43985) with status 201
+2024-10-10 11:50:56,334 - basicLogger - INFO - Received event temperature_change request with a trace id of 52065b5c-fca7-4c28-9589-7a97484db40f
+2024-10-10 11:50:56,524 - basicLogger - INFO - Returned event energy_usage response (ID: 2dc8f296-2b1c-4d5d-85f6-6f1212c418c8) with status 201
+2024-10-10 11:50:56,537 - basicLogger - INFO - Received event temperature_change request with a trace id of feeccecc-404a-4215-937e-4de88cdc4e80
+2024-10-10 11:50:58,402 - basicLogger - INFO - Returned event temperature_change response (ID: 52065b5c-fca7-4c28-9589-7a97484db40f) with status 201
+2024-10-10 11:50:58,414 - basicLogger - INFO - Received event energy_usage request with a trace id of 737b18b7-72a2-4262-8e44-07c12d2f0dc1
+2024-10-10 11:50:58,606 - basicLogger - INFO - Returned event temperature_change response (ID: feeccecc-404a-4215-937e-4de88cdc4e80) with status 201
+2024-10-10 11:50:58,618 - basicLogger - INFO - Received event energy_usage request with a trace id of 0b6166e9-49e1-4c55-9f5e-308e580cf05d
+2024-10-10 11:51:00,457 - basicLogger - INFO - Returned event energy_usage response (ID: 737b18b7-72a2-4262-8e44-07c12d2f0dc1) with status 201
+2024-10-10 11:51:00,474 - basicLogger - INFO - Received event temperature_change request with a trace id of 494dfbef-0e85-4fb9-96ec-c70c5eac97ca
+2024-10-10 11:51:00,668 - basicLogger - INFO - Returned event energy_usage response (ID: 0b6166e9-49e1-4c55-9f5e-308e580cf05d) with status 201
+2024-10-10 11:51:00,679 - basicLogger - INFO - Received event temperature_change request with a trace id of fc9ce055-7dda-4b59-b258-62c1fd991f55
+2024-10-10 11:51:02,537 - basicLogger - INFO - Returned event temperature_change response (ID: 494dfbef-0e85-4fb9-96ec-c70c5eac97ca) with status 201
+2024-10-10 11:51:02,550 - basicLogger - INFO - Received event energy_usage request with a trace id of f1cc56ab-395c-49fd-8a4d-6c18f65aac3d
+2024-10-10 11:51:02,742 - basicLogger - INFO - Returned event temperature_change response (ID: fc9ce055-7dda-4b59-b258-62c1fd991f55) with status 201
+2024-10-10 11:51:02,754 - basicLogger - INFO - Received event energy_usage request with a trace id of b38c9228-65c6-4b92-a717-b50bafc01a2a
+2024-10-10 11:51:04,608 - basicLogger - INFO - Returned event energy_usage response (ID: f1cc56ab-395c-49fd-8a4d-6c18f65aac3d) with status 201
+2024-10-10 11:51:04,616 - basicLogger - INFO - Received event temperature_change request with a trace id of 6d4dee6e-01bf-4c47-b2b1-d8375d817711
+2024-10-10 11:51:04,819 - basicLogger - INFO - Returned event energy_usage response (ID: b38c9228-65c6-4b92-a717-b50bafc01a2a) with status 201
+2024-10-10 11:51:04,830 - basicLogger - INFO - Received event temperature_change request with a trace id of b5473c15-9d40-4647-b89b-04074ae90ed6
+2024-10-10 11:51:06,685 - basicLogger - INFO - Returned event temperature_change response (ID: 6d4dee6e-01bf-4c47-b2b1-d8375d817711) with status 201
+2024-10-10 11:51:06,699 - basicLogger - INFO - Received event energy_usage request with a trace id of cc5ceb7a-c3ab-4509-8294-c7b69694c6fa
+2024-10-10 11:51:06,902 - basicLogger - INFO - Returned event temperature_change response (ID: b5473c15-9d40-4647-b89b-04074ae90ed6) with status 201
+2024-10-10 11:51:06,913 - basicLogger - INFO - Received event energy_usage request with a trace id of 6e3fbc06-b4a4-42f2-a3ed-970e50a7fb6a
+2024-10-10 11:51:08,764 - basicLogger - INFO - Returned event energy_usage response (ID: cc5ceb7a-c3ab-4509-8294-c7b69694c6fa) with status 201
+2024-10-10 11:51:08,775 - basicLogger - INFO - Received event temperature_change request with a trace id of 6fb5b0f0-a8b5-42a9-a933-636ed9f0a413
+2024-10-10 11:51:08,955 - basicLogger - INFO - Returned event energy_usage response (ID: 6e3fbc06-b4a4-42f2-a3ed-970e50a7fb6a) with status 201
+2024-10-10 11:51:08,963 - basicLogger - INFO - Received event temperature_change request with a trace id of 212a0f65-e60a-4ac5-ab83-5e77fad456b8
+2024-10-10 11:51:10,802 - basicLogger - INFO - Returned event temperature_change response (ID: 6fb5b0f0-a8b5-42a9-a933-636ed9f0a413) with status 201
+2024-10-10 11:51:10,807 - basicLogger - INFO - Received event energy_usage request with a trace id of 5f87df64-a4e4-46f4-a9f6-9484cdae0d9d
+2024-10-10 11:51:11,004 - basicLogger - INFO - Returned event temperature_change response (ID: 212a0f65-e60a-4ac5-ab83-5e77fad456b8) with status 201
+2024-10-10 11:51:11,011 - basicLogger - INFO - Received event energy_usage request with a trace id of f08ee690-1e53-450e-8211-c6cb5a56eba2
+2024-10-10 11:51:12,888 - basicLogger - INFO - Returned event energy_usage response (ID: 5f87df64-a4e4-46f4-a9f6-9484cdae0d9d) with status 201
+2024-10-10 11:51:12,897 - basicLogger - INFO - Received event temperature_change request with a trace id of 7d93df43-f759-48f7-86b6-a2f0a296cbe7
+2024-10-10 11:51:13,091 - basicLogger - INFO - Returned event energy_usage response (ID: f08ee690-1e53-450e-8211-c6cb5a56eba2) with status 201
+2024-10-10 11:51:13,100 - basicLogger - INFO - Received event temperature_change request with a trace id of 5dc27732-6693-4398-ad20-e762671b632f
+2024-10-10 11:51:14,959 - basicLogger - INFO - Returned event temperature_change response (ID: 7d93df43-f759-48f7-86b6-a2f0a296cbe7) with status 201
+2024-10-10 11:51:14,967 - basicLogger - INFO - Received event energy_usage request with a trace id of ac722fb2-5894-42a2-9bd5-137cb1447f71
+2024-10-10 11:51:15,141 - basicLogger - INFO - Returned event temperature_change response (ID: 5dc27732-6693-4398-ad20-e762671b632f) with status 201
+2024-10-10 11:51:15,149 - basicLogger - INFO - Received event energy_usage request with a trace id of 19f4b791-fb44-464a-9de2-1d2a96963370
+2024-10-10 11:51:17,041 - basicLogger - INFO - Returned event energy_usage response (ID: ac722fb2-5894-42a2-9bd5-137cb1447f71) with status 201
+2024-10-10 11:51:17,052 - basicLogger - INFO - Received event temperature_change request with a trace id of 9cf1e46a-b898-4780-8acd-06c171a5c4a0
+2024-10-10 11:51:17,199 - basicLogger - INFO - Returned event energy_usage response (ID: 19f4b791-fb44-464a-9de2-1d2a96963370) with status 201
+2024-10-10 11:51:17,210 - basicLogger - INFO - Received event temperature_change request with a trace id of fa52cd95-69a8-4b70-b987-c51eab9b6d92
+2024-10-10 11:51:19,126 - basicLogger - INFO - Returned event temperature_change response (ID: 9cf1e46a-b898-4780-8acd-06c171a5c4a0) with status 201
+2024-10-10 11:51:19,135 - basicLogger - INFO - Received event energy_usage request with a trace id of 65e2e83b-cabf-483c-8c62-6d518d6b3134
+2024-10-10 11:51:19,270 - basicLogger - INFO - Returned event temperature_change response (ID: fa52cd95-69a8-4b70-b987-c51eab9b6d92) with status 201
+2024-10-10 11:51:19,281 - basicLogger - INFO - Received event energy_usage request with a trace id of 7ab1ecad-92e0-44a9-bd0c-1345b8f25272
+2024-10-10 11:51:21,193 - basicLogger - INFO - Returned event energy_usage response (ID: 65e2e83b-cabf-483c-8c62-6d518d6b3134) with status 201
+2024-10-10 11:51:21,202 - basicLogger - INFO - Received event temperature_change request with a trace id of 97bf07f8-17cd-43ab-97e1-d8b1caa5d543
+2024-10-10 11:51:21,336 - basicLogger - INFO - Returned event energy_usage response (ID: 7ab1ecad-92e0-44a9-bd0c-1345b8f25272) with status 201
+2024-10-10 11:51:21,344 - basicLogger - INFO - Received event temperature_change request with a trace id of 7b8862d9-130d-4ce8-85f5-0dd05db2bceb
+2024-10-10 11:51:23,271 - basicLogger - INFO - Returned event temperature_change response (ID: 97bf07f8-17cd-43ab-97e1-d8b1caa5d543) with status 201
+2024-10-10 11:51:23,282 - basicLogger - INFO - Received event energy_usage request with a trace id of 5711ef62-5c00-4ce2-ae10-57a00fcb3748
+2024-10-10 11:51:23,398 - basicLogger - INFO - Returned event temperature_change response (ID: 7b8862d9-130d-4ce8-85f5-0dd05db2bceb) with status 201
+2024-10-10 11:51:23,408 - basicLogger - INFO - Received event energy_usage request with a trace id of 54ae68df-37fb-4f99-89af-c8617d0cdfd0
+2024-10-10 11:51:25,340 - basicLogger - INFO - Returned event energy_usage response (ID: 5711ef62-5c00-4ce2-ae10-57a00fcb3748) with status 201
+2024-10-10 11:51:25,344 - basicLogger - INFO - Received event temperature_change request with a trace id of 988f4c0d-a268-42b2-90fe-3d53ca5dee8c
+2024-10-10 11:51:25,480 - basicLogger - INFO - Returned event energy_usage response (ID: 54ae68df-37fb-4f99-89af-c8617d0cdfd0) with status 201
+2024-10-10 11:51:25,490 - basicLogger - INFO - Received event temperature_change request with a trace id of a197e610-cae8-4bfd-94dd-aa5db13c7539
+2024-10-10 11:51:27,410 - basicLogger - INFO - Returned event temperature_change response (ID: 988f4c0d-a268-42b2-90fe-3d53ca5dee8c) with status 201
+2024-10-10 11:51:27,563 - basicLogger - INFO - Returned event temperature_change response (ID: a197e610-cae8-4bfd-94dd-aa5db13c7539) with status 201
+2024-10-10 11:56:23,155 - basicLogger - INFO - Received event energy_usage request with a trace id of a4598a6c-797d-4c5d-b67d-c469da5f3c0c
+2024-10-10 11:56:23,659 - basicLogger - INFO - Received event energy_usage request with a trace id of 0563f2c4-7ac3-40b3-8e98-39f687ea2d4f
+2024-10-10 11:56:25,226 - basicLogger - INFO - Returned event energy_usage response (ID: a4598a6c-797d-4c5d-b67d-c469da5f3c0c) with status 201
+2024-10-10 11:56:25,231 - basicLogger - INFO - Received event temperature_change request with a trace id of 3404b9fd-bf14-4752-beee-051ab9755873
+2024-10-10 11:56:25,726 - basicLogger - INFO - Returned event energy_usage response (ID: 0563f2c4-7ac3-40b3-8e98-39f687ea2d4f) with status 201
+2024-10-10 11:56:25,734 - basicLogger - INFO - Received event temperature_change request with a trace id of 09a743b9-bfa9-4b69-afe9-b4a4f06100a0
+2024-10-10 11:56:27,310 - basicLogger - INFO - Returned event temperature_change response (ID: 3404b9fd-bf14-4752-beee-051ab9755873) with status 201
+2024-10-10 11:56:27,318 - basicLogger - INFO - Received event energy_usage request with a trace id of 27f1d65a-3086-406f-8ae7-fb7921a3ddb4
+2024-10-10 11:56:27,809 - basicLogger - INFO - Returned event temperature_change response (ID: 09a743b9-bfa9-4b69-afe9-b4a4f06100a0) with status 201
+2024-10-10 11:56:27,819 - basicLogger - INFO - Received event energy_usage request with a trace id of 77042559-64a0-4536-a1d9-fbaeed9d882d
+2024-10-10 11:56:29,382 - basicLogger - INFO - Returned event energy_usage response (ID: 27f1d65a-3086-406f-8ae7-fb7921a3ddb4) with status 201
+2024-10-10 11:56:29,390 - basicLogger - INFO - Received event temperature_change request with a trace id of 0f712c29-7b3c-45c0-bb71-9e1a0298689a
+2024-10-10 11:56:29,880 - basicLogger - INFO - Returned event energy_usage response (ID: 77042559-64a0-4536-a1d9-fbaeed9d882d) with status 201
+2024-10-10 11:56:29,889 - basicLogger - INFO - Received event temperature_change request with a trace id of 55e775bb-5d8d-4733-b081-8593843a83ef
+2024-10-10 11:56:31,465 - basicLogger - INFO - Returned event temperature_change response (ID: 0f712c29-7b3c-45c0-bb71-9e1a0298689a) with status 201
+2024-10-10 11:56:31,470 - basicLogger - INFO - Received event energy_usage request with a trace id of 9e245ea2-f9f5-4225-8c96-5777e9c935aa
+2024-10-10 11:56:31,963 - basicLogger - INFO - Returned event temperature_change response (ID: 55e775bb-5d8d-4733-b081-8593843a83ef) with status 201
+2024-10-10 11:56:31,973 - basicLogger - INFO - Received event energy_usage request with a trace id of 3d73c92d-a3fb-48e9-bc65-698fd9a3a42c
+2024-10-10 11:56:33,550 - basicLogger - INFO - Returned event energy_usage response (ID: 9e245ea2-f9f5-4225-8c96-5777e9c935aa) with status 201
+2024-10-10 11:56:33,558 - basicLogger - INFO - Received event temperature_change request with a trace id of 97d4cd90-24ae-40b8-9008-77477aea964e
+2024-10-10 11:56:34,034 - basicLogger - INFO - Returned event energy_usage response (ID: 3d73c92d-a3fb-48e9-bc65-698fd9a3a42c) with status 201
+2024-10-10 11:56:34,038 - basicLogger - INFO - Received event temperature_change request with a trace id of ce97cf99-5f36-48e9-a2bd-adf1d9c79341
+2024-10-10 11:56:35,617 - basicLogger - INFO - Returned event temperature_change response (ID: 97d4cd90-24ae-40b8-9008-77477aea964e) with status 201
+2024-10-10 11:56:35,626 - basicLogger - INFO - Received event energy_usage request with a trace id of 2e0f45a4-fce9-44b7-830b-6d241f6fa261
+2024-10-10 11:56:36,100 - basicLogger - INFO - Returned event temperature_change response (ID: ce97cf99-5f36-48e9-a2bd-adf1d9c79341) with status 201
+2024-10-10 11:56:36,107 - basicLogger - INFO - Received event energy_usage request with a trace id of e8638ee3-c4ae-4b4f-a39a-72c3de885fb6
+2024-10-10 11:56:37,695 - basicLogger - INFO - Returned event energy_usage response (ID: 2e0f45a4-fce9-44b7-830b-6d241f6fa261) with status 201
+2024-10-10 11:56:37,705 - basicLogger - INFO - Received event temperature_change request with a trace id of 8a26ab09-fe7a-471f-8aee-c42c8b791c04
+2024-10-10 11:56:38,184 - basicLogger - INFO - Returned event energy_usage response (ID: e8638ee3-c4ae-4b4f-a39a-72c3de885fb6) with status 201
+2024-10-10 11:56:38,191 - basicLogger - INFO - Received event temperature_change request with a trace id of 19d8fb6d-a459-4912-9ae4-44b96298c214
+2024-10-10 11:56:39,786 - basicLogger - INFO - Returned event temperature_change response (ID: 8a26ab09-fe7a-471f-8aee-c42c8b791c04) with status 201
+2024-10-10 11:56:39,797 - basicLogger - INFO - Received event energy_usage request with a trace id of 2661c702-a475-4287-88ee-0be83213e384
+2024-10-10 11:56:40,252 - basicLogger - INFO - Returned event temperature_change response (ID: 19d8fb6d-a459-4912-9ae4-44b96298c214) with status 201
+2024-10-10 11:56:40,262 - basicLogger - INFO - Received event energy_usage request with a trace id of b76b8a18-5f68-4203-8989-ce413d73e980
+2024-10-10 11:56:41,858 - basicLogger - INFO - Returned event energy_usage response (ID: 2661c702-a475-4287-88ee-0be83213e384) with status 201
+2024-10-10 11:56:41,868 - basicLogger - INFO - Received event temperature_change request with a trace id of 3003c3ad-da2c-4879-8cbf-c30210b329ec
+2024-10-10 11:56:42,309 - basicLogger - INFO - Returned event energy_usage response (ID: b76b8a18-5f68-4203-8989-ce413d73e980) with status 201
+2024-10-10 11:56:42,317 - basicLogger - INFO - Received event temperature_change request with a trace id of 96fc1d44-485f-4578-b628-b77e9245f5f1
+2024-10-10 11:56:43,940 - basicLogger - INFO - Returned event temperature_change response (ID: 3003c3ad-da2c-4879-8cbf-c30210b329ec) with status 201
+2024-10-10 11:56:43,948 - basicLogger - INFO - Received event energy_usage request with a trace id of d9e3e5c5-c231-412d-b915-303c9b5c233b
+2024-10-10 11:56:44,393 - basicLogger - INFO - Returned event temperature_change response (ID: 96fc1d44-485f-4578-b628-b77e9245f5f1) with status 201
+2024-10-10 11:56:44,404 - basicLogger - INFO - Received event energy_usage request with a trace id of 19ee84f6-d870-4e10-883f-ecc7ec5d7747
+2024-10-10 11:56:46,002 - basicLogger - INFO - Returned event energy_usage response (ID: d9e3e5c5-c231-412d-b915-303c9b5c233b) with status 201
+2024-10-10 11:56:46,009 - basicLogger - INFO - Received event temperature_change request with a trace id of 6bf6c08c-5ac5-4efb-bb51-a40d30a371c1
+2024-10-10 11:56:46,441 - basicLogger - INFO - Returned event energy_usage response (ID: 19ee84f6-d870-4e10-883f-ecc7ec5d7747) with status 201
+2024-10-10 11:56:46,449 - basicLogger - INFO - Received event temperature_change request with a trace id of 8278267f-0562-478d-a431-eac99b3e190b
+2024-10-10 11:56:48,059 - basicLogger - INFO - Returned event temperature_change response (ID: 6bf6c08c-5ac5-4efb-bb51-a40d30a371c1) with status 201
+2024-10-10 11:56:48,067 - basicLogger - INFO - Received event energy_usage request with a trace id of 3e3421e3-9427-43fc-b812-6a40172dda58
+2024-10-10 11:56:48,516 - basicLogger - INFO - Returned event temperature_change response (ID: 8278267f-0562-478d-a431-eac99b3e190b) with status 201
+2024-10-10 11:56:48,525 - basicLogger - INFO - Received event energy_usage request with a trace id of d1c52fac-29de-48df-a327-1f0875f465e8
+2024-10-10 11:56:50,126 - basicLogger - INFO - Returned event energy_usage response (ID: 3e3421e3-9427-43fc-b812-6a40172dda58) with status 201
+2024-10-10 11:56:50,137 - basicLogger - INFO - Received event temperature_change request with a trace id of f170013e-2fa2-41a3-84f3-cb864a2371db
+2024-10-10 11:56:50,595 - basicLogger - INFO - Returned event energy_usage response (ID: d1c52fac-29de-48df-a327-1f0875f465e8) with status 201
+2024-10-10 11:56:50,606 - basicLogger - INFO - Received event temperature_change request with a trace id of 14c14013-00d4-4ff2-a9e2-c5ea05380895
+2024-10-10 11:56:52,214 - basicLogger - INFO - Returned event temperature_change response (ID: f170013e-2fa2-41a3-84f3-cb864a2371db) with status 201
+2024-10-10 11:56:52,223 - basicLogger - INFO - Received event energy_usage request with a trace id of 1771d29f-e3b0-42e6-bc39-e2d9cba3209b
+2024-10-10 11:56:52,683 - basicLogger - INFO - Returned event temperature_change response (ID: 14c14013-00d4-4ff2-a9e2-c5ea05380895) with status 201
+2024-10-10 11:56:52,692 - basicLogger - INFO - Received event energy_usage request with a trace id of 3ec9dbcd-3d03-4f42-a14d-d59f84d90b29
+2024-10-10 11:56:54,298 - basicLogger - INFO - Returned event energy_usage response (ID: 1771d29f-e3b0-42e6-bc39-e2d9cba3209b) with status 201
+2024-10-10 11:56:54,305 - basicLogger - INFO - Received event temperature_change request with a trace id of f100329c-9f82-4528-8701-4a170d4cd588
+2024-10-10 11:56:54,760 - basicLogger - INFO - Returned event energy_usage response (ID: 3ec9dbcd-3d03-4f42-a14d-d59f84d90b29) with status 201
+2024-10-10 11:56:54,768 - basicLogger - INFO - Received event temperature_change request with a trace id of 1bd0bd8c-a85c-435d-9c63-eeeea5ced1e7
+2024-10-10 11:56:56,374 - basicLogger - INFO - Returned event temperature_change response (ID: f100329c-9f82-4528-8701-4a170d4cd588) with status 201
+2024-10-10 11:56:56,383 - basicLogger - INFO - Received event energy_usage request with a trace id of 276df75b-d1ac-4d88-b6cc-65c542922a57
+2024-10-10 11:56:56,836 - basicLogger - INFO - Returned event temperature_change response (ID: 1bd0bd8c-a85c-435d-9c63-eeeea5ced1e7) with status 201
+2024-10-10 11:56:56,843 - basicLogger - INFO - Received event energy_usage request with a trace id of 97d60a4c-f620-4d6c-a968-343b2bedefec
+2024-10-10 11:56:58,461 - basicLogger - INFO - Returned event energy_usage response (ID: 276df75b-d1ac-4d88-b6cc-65c542922a57) with status 201
+2024-10-10 11:56:58,467 - basicLogger - INFO - Received event temperature_change request with a trace id of 15da06dd-464e-4a3c-84e7-abf42619e9b5
+2024-10-10 11:56:58,908 - basicLogger - INFO - Returned event energy_usage response (ID: 97d60a4c-f620-4d6c-a968-343b2bedefec) with status 201
+2024-10-10 11:56:58,913 - basicLogger - INFO - Received event temperature_change request with a trace id of 584c4264-0c8b-4710-bb78-0d0d0fff3b1e
+2024-10-10 11:57:00,535 - basicLogger - INFO - Returned event temperature_change response (ID: 15da06dd-464e-4a3c-84e7-abf42619e9b5) with status 201
+2024-10-10 11:57:00,542 - basicLogger - INFO - Received event energy_usage request with a trace id of 445a87a9-3a18-43fb-958e-86cfed24c994
+2024-10-10 11:57:00,969 - basicLogger - INFO - Returned event temperature_change response (ID: 584c4264-0c8b-4710-bb78-0d0d0fff3b1e) with status 201
+2024-10-10 11:57:00,979 - basicLogger - INFO - Received event energy_usage request with a trace id of 2836384d-cb85-434b-aa6b-bc725cd7be62
+2024-10-10 11:57:02,622 - basicLogger - INFO - Returned event energy_usage response (ID: 445a87a9-3a18-43fb-958e-86cfed24c994) with status 201
+2024-10-10 11:57:02,631 - basicLogger - INFO - Received event temperature_change request with a trace id of 8e935860-1765-466c-84f2-f78edd54ebef
+2024-10-10 11:57:03,057 - basicLogger - INFO - Returned event energy_usage response (ID: 2836384d-cb85-434b-aa6b-bc725cd7be62) with status 201
+2024-10-10 11:57:03,065 - basicLogger - INFO - Received event temperature_change request with a trace id of ee7fbeb3-5975-401f-8630-582229795139
+2024-10-10 11:57:04,705 - basicLogger - INFO - Returned event temperature_change response (ID: 8e935860-1765-466c-84f2-f78edd54ebef) with status 201
+2024-10-10 11:57:05,144 - basicLogger - INFO - Returned event temperature_change response (ID: ee7fbeb3-5975-401f-8630-582229795139) with status 201
+2024-10-10 12:33:32,689 - basicLogger - INFO - Received event energy_usage request with a trace id of a93a338f-616e-4828-933f-03fc9dc7889b
+2024-10-10 12:33:33,198 - basicLogger - INFO - Received event energy_usage request with a trace id of ec9488f5-284d-426d-a446-c2a11384279e
+2024-10-10 12:33:34,828 - basicLogger - INFO - Returned event energy_usage response (ID: a93a338f-616e-4828-933f-03fc9dc7889b) with status 201
+2024-10-10 12:33:34,839 - basicLogger - INFO - Received event temperature_change request with a trace id of 1e93632d-c710-48aa-a892-def66e862b19
+2024-10-10 12:33:35,259 - basicLogger - INFO - Returned event energy_usage response (ID: ec9488f5-284d-426d-a446-c2a11384279e) with status 201
+2024-10-10 12:33:35,263 - basicLogger - INFO - Received event temperature_change request with a trace id of 21230eed-d08f-4fe0-9cfa-317784fb4003
+2024-10-10 12:33:36,920 - basicLogger - INFO - Returned event temperature_change response (ID: 1e93632d-c710-48aa-a892-def66e862b19) with status 201
+2024-10-10 12:33:36,930 - basicLogger - INFO - Received event energy_usage request with a trace id of 17b1370a-e8c8-41a0-bebf-26d09616448d
+2024-10-10 12:33:37,333 - basicLogger - INFO - Returned event temperature_change response (ID: 21230eed-d08f-4fe0-9cfa-317784fb4003) with status 201
+2024-10-10 12:33:37,343 - basicLogger - INFO - Received event energy_usage request with a trace id of 0f3cca98-cdc0-4306-8856-76ab36a1f746
+2024-10-10 12:33:38,994 - basicLogger - INFO - Returned event energy_usage response (ID: 17b1370a-e8c8-41a0-bebf-26d09616448d) with status 201
+2024-10-10 12:33:38,999 - basicLogger - INFO - Received event temperature_change request with a trace id of 27d41341-0c9e-449f-b5e2-5c371ca37418
+2024-10-10 12:33:39,421 - basicLogger - INFO - Returned event energy_usage response (ID: 0f3cca98-cdc0-4306-8856-76ab36a1f746) with status 201
+2024-10-10 12:33:39,429 - basicLogger - INFO - Received event temperature_change request with a trace id of 3175257e-b235-4c6c-9457-3f3f7a12788c
+2024-10-10 12:33:41,036 - basicLogger - INFO - Returned event temperature_change response (ID: 27d41341-0c9e-449f-b5e2-5c371ca37418) with status 201
+2024-10-10 12:33:41,042 - basicLogger - INFO - Received event energy_usage request with a trace id of 78351447-17d7-4cbb-93d5-87c312f6cb9c
+2024-10-10 12:33:41,476 - basicLogger - INFO - Returned event temperature_change response (ID: 3175257e-b235-4c6c-9457-3f3f7a12788c) with status 201
+2024-10-10 12:33:41,483 - basicLogger - INFO - Received event energy_usage request with a trace id of 33d9c5df-b4c9-42be-b642-715e86d97c44
+2024-10-10 12:33:43,087 - basicLogger - INFO - Returned event energy_usage response (ID: 78351447-17d7-4cbb-93d5-87c312f6cb9c) with status 201
+2024-10-10 12:33:43,096 - basicLogger - INFO - Received event temperature_change request with a trace id of 70d0b4d2-8b06-4ea8-90a0-55c85abe44ac
+2024-10-10 12:33:43,539 - basicLogger - INFO - Returned event energy_usage response (ID: 33d9c5df-b4c9-42be-b642-715e86d97c44) with status 201
+2024-10-10 12:33:43,549 - basicLogger - INFO - Received event temperature_change request with a trace id of 086f8809-a48a-44df-aaec-617df0181f47
+2024-10-10 12:33:45,152 - basicLogger - INFO - Returned event temperature_change response (ID: 70d0b4d2-8b06-4ea8-90a0-55c85abe44ac) with status 201
+2024-10-10 12:33:45,157 - basicLogger - INFO - Received event energy_usage request with a trace id of cf4894f4-1b90-4964-a811-0099411b4a10
+2024-10-10 12:33:45,614 - basicLogger - INFO - Returned event temperature_change response (ID: 086f8809-a48a-44df-aaec-617df0181f47) with status 201
+2024-10-10 12:33:45,625 - basicLogger - INFO - Received event energy_usage request with a trace id of a09bc37c-4933-4eb9-a43a-5ee87b4ff8e0
+2024-10-10 12:33:47,214 - basicLogger - INFO - Returned event energy_usage response (ID: cf4894f4-1b90-4964-a811-0099411b4a10) with status 201
+2024-10-10 12:33:47,222 - basicLogger - INFO - Received event temperature_change request with a trace id of 4ecaffaf-5579-420e-9865-3efaa96ccb7e
+2024-10-10 12:33:47,699 - basicLogger - INFO - Returned event energy_usage response (ID: a09bc37c-4933-4eb9-a43a-5ee87b4ff8e0) with status 201
+2024-10-10 12:33:47,703 - basicLogger - INFO - Received event temperature_change request with a trace id of b8970d4d-c1a6-4081-90bc-25348187e107
+2024-10-10 12:33:49,279 - basicLogger - INFO - Returned event temperature_change response (ID: 4ecaffaf-5579-420e-9865-3efaa96ccb7e) with status 201
+2024-10-10 12:33:49,283 - basicLogger - INFO - Received event energy_usage request with a trace id of fe0a5145-35e5-439e-9503-5c0506340041
+2024-10-10 12:33:49,769 - basicLogger - INFO - Returned event temperature_change response (ID: b8970d4d-c1a6-4081-90bc-25348187e107) with status 201
+2024-10-10 12:33:49,778 - basicLogger - INFO - Received event energy_usage request with a trace id of efa1d508-7b9e-4743-a570-dc3708da2c16
+2024-10-10 12:33:51,354 - basicLogger - INFO - Returned event energy_usage response (ID: fe0a5145-35e5-439e-9503-5c0506340041) with status 201
+2024-10-10 12:33:51,359 - basicLogger - INFO - Received event temperature_change request with a trace id of a9880454-7296-4cf3-a2de-b415ba7c74eb
+2024-10-10 12:33:51,854 - basicLogger - INFO - Returned event energy_usage response (ID: efa1d508-7b9e-4743-a570-dc3708da2c16) with status 201
+2024-10-10 12:33:51,862 - basicLogger - INFO - Received event temperature_change request with a trace id of 7b27a6b6-4d3f-4d34-bdee-d286b52dc720
+2024-10-10 12:33:53,416 - basicLogger - INFO - Returned event temperature_change response (ID: a9880454-7296-4cf3-a2de-b415ba7c74eb) with status 201
+2024-10-10 12:33:53,424 - basicLogger - INFO - Received event energy_usage request with a trace id of 67af838e-3cb0-4b67-b61b-851e312b88e4
+2024-10-10 12:33:53,930 - basicLogger - INFO - Returned event temperature_change response (ID: 7b27a6b6-4d3f-4d34-bdee-d286b52dc720) with status 201
+2024-10-10 12:33:53,940 - basicLogger - INFO - Received event energy_usage request with a trace id of 0b9723d0-d4d1-43ef-aff9-7abc4aada98d
+2024-10-10 12:33:55,494 - basicLogger - INFO - Returned event energy_usage response (ID: 67af838e-3cb0-4b67-b61b-851e312b88e4) with status 201
+2024-10-10 12:33:55,499 - basicLogger - INFO - Received event temperature_change request with a trace id of d80ab66c-828e-4939-8fa5-4786942c171d
+2024-10-10 12:33:56,015 - basicLogger - INFO - Returned event energy_usage response (ID: 0b9723d0-d4d1-43ef-aff9-7abc4aada98d) with status 201
+2024-10-10 12:33:56,023 - basicLogger - INFO - Received event temperature_change request with a trace id of 003f82dc-0946-4fff-a66b-2c5af93d06bb
+2024-10-10 12:33:57,559 - basicLogger - INFO - Returned event temperature_change response (ID: d80ab66c-828e-4939-8fa5-4786942c171d) with status 201
+2024-10-10 12:33:57,567 - basicLogger - INFO - Received event energy_usage request with a trace id of ca3edc01-0910-47d3-b61e-67c0aa9e27cd
+2024-10-10 12:33:58,083 - basicLogger - INFO - Returned event temperature_change response (ID: 003f82dc-0946-4fff-a66b-2c5af93d06bb) with status 201
+2024-10-10 12:33:58,094 - basicLogger - INFO - Received event energy_usage request with a trace id of d8612285-8472-49f5-8ed0-09f8adeb22c3
+2024-10-10 12:33:59,636 - basicLogger - INFO - Returned event energy_usage response (ID: ca3edc01-0910-47d3-b61e-67c0aa9e27cd) with status 201
+2024-10-10 12:33:59,641 - basicLogger - INFO - Received event temperature_change request with a trace id of e84e5d7b-f2b7-4a9c-8a88-21a2f726ead4
+2024-10-10 12:34:00,172 - basicLogger - INFO - Returned event energy_usage response (ID: d8612285-8472-49f5-8ed0-09f8adeb22c3) with status 201
+2024-10-10 12:34:00,182 - basicLogger - INFO - Received event temperature_change request with a trace id of de28ba97-cf67-4a04-b28f-19256a21f94f
+2024-10-10 12:34:01,685 - basicLogger - INFO - Returned event temperature_change response (ID: e84e5d7b-f2b7-4a9c-8a88-21a2f726ead4) with status 201
+2024-10-10 12:34:01,696 - basicLogger - INFO - Received event energy_usage request with a trace id of 3bc4210d-ebae-48f6-bea0-c292010c82b1
+2024-10-10 12:34:02,218 - basicLogger - INFO - Returned event temperature_change response (ID: de28ba97-cf67-4a04-b28f-19256a21f94f) with status 201
+2024-10-10 12:34:02,228 - basicLogger - INFO - Received event energy_usage request with a trace id of 3115c7b0-06eb-4be1-8f6e-4c64e46fc862
+2024-10-10 12:34:03,760 - basicLogger - INFO - Returned event energy_usage response (ID: 3bc4210d-ebae-48f6-bea0-c292010c82b1) with status 201
+2024-10-10 12:34:03,770 - basicLogger - INFO - Received event temperature_change request with a trace id of 1e59d6ee-bf3f-4456-9950-ef7ec5c2c0f2
+2024-10-10 12:34:04,289 - basicLogger - INFO - Returned event energy_usage response (ID: 3115c7b0-06eb-4be1-8f6e-4c64e46fc862) with status 201
+2024-10-10 12:34:04,299 - basicLogger - INFO - Received event temperature_change request with a trace id of 065e072c-faf8-4125-93cd-a165732f17a4
+2024-10-10 12:34:05,804 - basicLogger - INFO - Returned event temperature_change response (ID: 1e59d6ee-bf3f-4456-9950-ef7ec5c2c0f2) with status 201
+2024-10-10 12:34:05,812 - basicLogger - INFO - Received event energy_usage request with a trace id of 57af4c24-e957-4dc2-a37d-bd558f56cf8e
+2024-10-10 12:34:06,328 - basicLogger - INFO - Returned event temperature_change response (ID: 065e072c-faf8-4125-93cd-a165732f17a4) with status 201
+2024-10-10 12:34:06,333 - basicLogger - INFO - Received event energy_usage request with a trace id of f8c993d5-d7dd-47f6-9462-1809ba4560ef
+2024-10-10 12:34:07,844 - basicLogger - INFO - Returned event energy_usage response (ID: 57af4c24-e957-4dc2-a37d-bd558f56cf8e) with status 201
+2024-10-10 12:34:07,853 - basicLogger - INFO - Received event temperature_change request with a trace id of b2bbd9e2-cd2d-4b80-8b0b-d434df68be97
+2024-10-10 12:34:08,402 - basicLogger - INFO - Returned event energy_usage response (ID: f8c993d5-d7dd-47f6-9462-1809ba4560ef) with status 201
+2024-10-10 12:34:08,413 - basicLogger - INFO - Received event temperature_change request with a trace id of 14392913-c4af-47b4-beb8-39cc49522274
+2024-10-10 12:34:09,928 - basicLogger - INFO - Returned event temperature_change response (ID: b2bbd9e2-cd2d-4b80-8b0b-d434df68be97) with status 201
+2024-10-10 12:34:09,934 - basicLogger - INFO - Received event energy_usage request with a trace id of ed73c2ec-ea50-4edc-971c-285931997bda
+2024-10-10 12:34:10,491 - basicLogger - INFO - Returned event temperature_change response (ID: 14392913-c4af-47b4-beb8-39cc49522274) with status 201
+2024-10-10 12:34:10,497 - basicLogger - INFO - Received event energy_usage request with a trace id of 898fe320-d573-402b-98cb-24951322d76b
+2024-10-10 12:34:11,980 - basicLogger - INFO - Returned event energy_usage response (ID: ed73c2ec-ea50-4edc-971c-285931997bda) with status 201
+2024-10-10 12:34:11,990 - basicLogger - INFO - Received event temperature_change request with a trace id of 1a6ccb9a-962a-4187-b607-42b781fdb330
+2024-10-10 12:34:12,571 - basicLogger - INFO - Returned event energy_usage response (ID: 898fe320-d573-402b-98cb-24951322d76b) with status 201
+2024-10-10 12:34:12,580 - basicLogger - INFO - Received event temperature_change request with a trace id of fe596783-28b5-445b-b409-fb9288d4e39a
+2024-10-10 12:34:14,063 - basicLogger - INFO - Returned event temperature_change response (ID: 1a6ccb9a-962a-4187-b607-42b781fdb330) with status 201
+2024-10-10 12:34:14,659 - basicLogger - INFO - Returned event temperature_change response (ID: fe596783-28b5-445b-b409-fb9288d4e39a) with status 201
+2024-10-10 16:12:02,410 - basicLogger - INFO - Received event energy_usage request with a trace id of 9e28e156-86bf-4660-a6e8-656e817c68e8
+2024-10-10 16:12:02,410 - basicLogger - INFO - Received event energy_usage request with a trace id of 8070691f-091c-4885-834e-870e3285919f
+2024-10-10 16:12:02,592 - basicLogger - INFO - Received event energy_usage request with a trace id of f0194f4c-52cd-486f-a748-b14ae1b852bf
+2024-10-10 16:12:02,790 - basicLogger - INFO - Received event energy_usage request with a trace id of 86d6b884-5d79-4597-a21c-b35ff21aa6df
+2024-10-10 16:12:02,993 - basicLogger - INFO - Received event energy_usage request with a trace id of 0ba10156-c869-4311-a116-54e52e88d0c6
+2024-10-10 16:12:04,567 - basicLogger - INFO - Returned event energy_usage response (ID: 8070691f-091c-4885-834e-870e3285919f) with status 201
+2024-10-10 16:12:04,570 - basicLogger - INFO - Returned event energy_usage response (ID: 9e28e156-86bf-4660-a6e8-656e817c68e8) with status 201
+2024-10-10 16:12:04,590 - basicLogger - INFO - Received event temperature_change request with a trace id of 1feec26b-3920-411b-aca0-dcf9d42b387d
+2024-10-10 16:12:04,591 - basicLogger - INFO - Received event temperature_change request with a trace id of 6b7d4a36-aff2-4aee-9dc8-07ade3210b9b
+2024-10-10 16:12:04,659 - basicLogger - INFO - Returned event energy_usage response (ID: f0194f4c-52cd-486f-a748-b14ae1b852bf) with status 201
+2024-10-10 16:12:04,669 - basicLogger - INFO - Received event temperature_change request with a trace id of 65265fec-5f47-4072-829e-34b09011b5b8
+2024-10-10 16:12:04,861 - basicLogger - INFO - Returned event energy_usage response (ID: 86d6b884-5d79-4597-a21c-b35ff21aa6df) with status 201
+2024-10-10 16:12:04,871 - basicLogger - INFO - Received event temperature_change request with a trace id of 9c729fcf-df9f-46e2-84c3-40a7f4a26619
+2024-10-10 16:12:05,063 - basicLogger - INFO - Returned event energy_usage response (ID: 0ba10156-c869-4311-a116-54e52e88d0c6) with status 201
+2024-10-10 16:12:05,072 - basicLogger - INFO - Received event temperature_change request with a trace id of fb71e5a3-fcd3-4d63-a7ce-96371f36c7c5
+2024-10-10 16:12:06,677 - basicLogger - INFO - Returned event temperature_change response (ID: 6b7d4a36-aff2-4aee-9dc8-07ade3210b9b) with status 201
+2024-10-10 16:12:06,680 - basicLogger - INFO - Returned event temperature_change response (ID: 1feec26b-3920-411b-aca0-dcf9d42b387d) with status 201
+2024-10-10 16:12:06,700 - basicLogger - INFO - Received event energy_usage request with a trace id of 68d498c3-a16a-4e0b-aefe-056769c7a39e
+2024-10-10 16:12:06,700 - basicLogger - INFO - Received event energy_usage request with a trace id of f6ffbb3d-1717-4646-a189-c96724c5eddc
+2024-10-10 16:12:06,724 - basicLogger - INFO - Returned event temperature_change response (ID: 65265fec-5f47-4072-829e-34b09011b5b8) with status 201
+2024-10-10 16:12:06,731 - basicLogger - INFO - Received event energy_usage request with a trace id of a57c815b-20c0-4e90-998d-5624d7677b40
+2024-10-10 16:12:06,933 - basicLogger - INFO - Returned event temperature_change response (ID: 9c729fcf-df9f-46e2-84c3-40a7f4a26619) with status 201
+2024-10-10 16:12:06,943 - basicLogger - INFO - Received event energy_usage request with a trace id of e51fd196-b482-49ca-b7df-593a4c2a980b
+2024-10-10 16:12:07,156 - basicLogger - INFO - Returned event temperature_change response (ID: fb71e5a3-fcd3-4d63-a7ce-96371f36c7c5) with status 201
+2024-10-10 16:12:07,170 - basicLogger - INFO - Received event energy_usage request with a trace id of f1b9d7d3-eb53-4887-8c16-eacaf99745f1
+2024-10-10 16:12:08,774 - basicLogger - INFO - Returned event energy_usage response (ID: f6ffbb3d-1717-4646-a189-c96724c5eddc) with status 201
+2024-10-10 16:12:08,778 - basicLogger - INFO - Returned event energy_usage response (ID: 68d498c3-a16a-4e0b-aefe-056769c7a39e) with status 201
+2024-10-10 16:12:08,787 - basicLogger - INFO - Received event temperature_change request with a trace id of 2fa25421-da6f-40a6-bb63-311383a4bc84
+2024-10-10 16:12:08,791 - basicLogger - INFO - Received event temperature_change request with a trace id of 22891dbd-c4c7-4127-ac17-3c3c8dd55ba0
+2024-10-10 16:12:08,799 - basicLogger - INFO - Returned event energy_usage response (ID: a57c815b-20c0-4e90-998d-5624d7677b40) with status 201
+2024-10-10 16:12:08,807 - basicLogger - INFO - Received event temperature_change request with a trace id of b1fa1a77-881d-4ce1-9b53-3f02b68cf646
+2024-10-10 16:12:09,003 - basicLogger - INFO - Returned event energy_usage response (ID: e51fd196-b482-49ca-b7df-593a4c2a980b) with status 201
+2024-10-10 16:12:09,013 - basicLogger - INFO - Received event temperature_change request with a trace id of 88265cc8-5737-4683-a4ed-64883660e8c0
+2024-10-10 16:12:09,235 - basicLogger - INFO - Returned event energy_usage response (ID: f1b9d7d3-eb53-4887-8c16-eacaf99745f1) with status 201
+2024-10-10 16:12:09,241 - basicLogger - INFO - Received event temperature_change request with a trace id of d761a7b3-e36b-4c3b-a066-7fbb4a7d6114
+2024-10-10 16:12:10,874 - basicLogger - INFO - Returned event temperature_change response (ID: b1fa1a77-881d-4ce1-9b53-3f02b68cf646) with status 201
+2024-10-10 16:12:10,876 - basicLogger - INFO - Returned event temperature_change response (ID: 2fa25421-da6f-40a6-bb63-311383a4bc84) with status 201
+2024-10-10 16:12:10,886 - basicLogger - INFO - Received event energy_usage request with a trace id of 3fe94a3c-0812-49f2-a779-d16f4f85b537
+2024-10-10 16:12:10,887 - basicLogger - INFO - Received event energy_usage request with a trace id of 109e6a7d-c6e1-4f53-84de-ef475792ca75
+2024-10-10 16:12:10,895 - basicLogger - INFO - Returned event temperature_change response (ID: 22891dbd-c4c7-4127-ac17-3c3c8dd55ba0) with status 201
+2024-10-10 16:12:10,904 - basicLogger - INFO - Received event energy_usage request with a trace id of 457c53f9-9da7-46d8-b7ff-482932f41fed
+2024-10-10 16:12:11,071 - basicLogger - INFO - Returned event temperature_change response (ID: 88265cc8-5737-4683-a4ed-64883660e8c0) with status 201
+2024-10-10 16:12:11,082 - basicLogger - INFO - Received event energy_usage request with a trace id of 27b1f07f-3586-4d19-810b-5354acae20ec
+2024-10-10 16:12:11,304 - basicLogger - INFO - Returned event temperature_change response (ID: d761a7b3-e36b-4c3b-a066-7fbb4a7d6114) with status 201
+2024-10-10 16:12:11,314 - basicLogger - INFO - Received event energy_usage request with a trace id of 07dbad28-5868-4373-9f7a-cb47c004befb
+2024-10-10 16:12:12,950 - basicLogger - INFO - Returned event energy_usage response (ID: 109e6a7d-c6e1-4f53-84de-ef475792ca75) with status 201
+2024-10-10 16:12:12,953 - basicLogger - INFO - Returned event energy_usage response (ID: 3fe94a3c-0812-49f2-a779-d16f4f85b537) with status 201
+2024-10-10 16:12:12,957 - basicLogger - INFO - Returned event energy_usage response (ID: 457c53f9-9da7-46d8-b7ff-482932f41fed) with status 201
+2024-10-10 16:12:12,964 - basicLogger - INFO - Received event temperature_change request with a trace id of b8ddfc1a-4bf0-4924-8ecc-4bb33b989ba8
+2024-10-10 16:12:12,965 - basicLogger - INFO - Received event temperature_change request with a trace id of 28f96fab-27a1-4e80-9b0f-f247fea027e0
+2024-10-10 16:12:12,976 - basicLogger - INFO - Received event temperature_change request with a trace id of f5445942-61ab-4ed2-88b3-ce3e8f2f4bbc
+2024-10-10 16:12:13,163 - basicLogger - INFO - Returned event energy_usage response (ID: 27b1f07f-3586-4d19-810b-5354acae20ec) with status 201
+2024-10-10 16:12:13,172 - basicLogger - INFO - Received event temperature_change request with a trace id of 4b548dd2-edba-4e6d-8691-fc85c3ffda75
+2024-10-10 16:12:13,377 - basicLogger - INFO - Returned event energy_usage response (ID: 07dbad28-5868-4373-9f7a-cb47c004befb) with status 201
+2024-10-10 16:12:13,386 - basicLogger - INFO - Received event temperature_change request with a trace id of 22d9f444-e1f1-4b37-bae3-1b438f8f1682
+2024-10-10 16:12:15,041 - basicLogger - INFO - Returned event temperature_change response (ID: 28f96fab-27a1-4e80-9b0f-f247fea027e0) with status 201
+2024-10-10 16:12:15,045 - basicLogger - INFO - Returned event temperature_change response (ID: f5445942-61ab-4ed2-88b3-ce3e8f2f4bbc) with status 201
+2024-10-10 16:12:15,045 - basicLogger - INFO - Returned event temperature_change response (ID: b8ddfc1a-4bf0-4924-8ecc-4bb33b989ba8) with status 201
+2024-10-10 16:12:15,059 - basicLogger - INFO - Received event energy_usage request with a trace id of 5f5a096f-fa1f-4aec-ac7d-8fd2ca5421a1
+2024-10-10 16:12:15,060 - basicLogger - INFO - Received event energy_usage request with a trace id of 927939dd-ce31-4b71-bece-e0f6128355f6
+2024-10-10 16:12:15,062 - basicLogger - INFO - Received event energy_usage request with a trace id of 4ec90982-d8cd-464f-981d-7e8a97f51616
+2024-10-10 16:12:15,234 - basicLogger - INFO - Returned event temperature_change response (ID: 4b548dd2-edba-4e6d-8691-fc85c3ffda75) with status 201
+2024-10-10 16:12:15,243 - basicLogger - INFO - Received event energy_usage request with a trace id of e1246ca3-cac8-459a-bbfe-15e9a48dde9f
+2024-10-10 16:12:15,450 - basicLogger - INFO - Returned event temperature_change response (ID: 22d9f444-e1f1-4b37-bae3-1b438f8f1682) with status 201
+2024-10-10 16:12:15,457 - basicLogger - INFO - Received event energy_usage request with a trace id of 1a4c3eb3-6933-4d35-b2d4-e653e6884f3d
+2024-10-10 16:12:17,123 - basicLogger - INFO - Returned event energy_usage response (ID: 5f5a096f-fa1f-4aec-ac7d-8fd2ca5421a1) with status 201
+2024-10-10 16:12:17,132 - basicLogger - INFO - Returned event energy_usage response (ID: 927939dd-ce31-4b71-bece-e0f6128355f6) with status 201
+2024-10-10 16:12:17,133 - basicLogger - INFO - Received event temperature_change request with a trace id of 63c324e8-3235-43c9-93bb-63c7de5cf301
+2024-10-10 16:12:17,138 - basicLogger - INFO - Returned event energy_usage response (ID: 4ec90982-d8cd-464f-981d-7e8a97f51616) with status 201
+2024-10-10 16:12:17,149 - basicLogger - INFO - Received event temperature_change request with a trace id of c458510f-b265-4950-8903-6d8ee3ba67fb
+2024-10-10 16:12:17,154 - basicLogger - INFO - Received event temperature_change request with a trace id of 7663232c-3bd0-4ae0-9014-5821612880bd
+2024-10-10 16:12:17,327 - basicLogger - INFO - Returned event energy_usage response (ID: e1246ca3-cac8-459a-bbfe-15e9a48dde9f) with status 201
+2024-10-10 16:12:17,339 - basicLogger - INFO - Received event temperature_change request with a trace id of 60cd2c26-443e-4b94-aa8b-cc78f88c1f64
+2024-10-10 16:12:17,526 - basicLogger - INFO - Returned event energy_usage response (ID: 1a4c3eb3-6933-4d35-b2d4-e653e6884f3d) with status 201
+2024-10-10 16:12:17,537 - basicLogger - INFO - Received event temperature_change request with a trace id of 53cc3388-281f-4ad6-8c52-b1797ef759ac
+2024-10-10 16:12:19,177 - basicLogger - INFO - Returned event temperature_change response (ID: 63c324e8-3235-43c9-93bb-63c7de5cf301) with status 201
+2024-10-10 16:12:19,187 - basicLogger - INFO - Received event energy_usage request with a trace id of db62b92e-5fbd-409b-a986-fa5100723f67
+2024-10-10 16:12:19,212 - basicLogger - INFO - Returned event temperature_change response (ID: 7663232c-3bd0-4ae0-9014-5821612880bd) with status 201
+2024-10-10 16:12:19,215 - basicLogger - INFO - Returned event temperature_change response (ID: c458510f-b265-4950-8903-6d8ee3ba67fb) with status 201
+2024-10-10 16:12:19,226 - basicLogger - INFO - Received event energy_usage request with a trace id of 0655aa6d-d7bf-46ad-871a-244513f8e0f6
+2024-10-10 16:12:19,228 - basicLogger - INFO - Received event energy_usage request with a trace id of bbb63a16-20b7-4e02-bde2-7124e041fe03
+2024-10-10 16:12:19,394 - basicLogger - INFO - Returned event temperature_change response (ID: 60cd2c26-443e-4b94-aa8b-cc78f88c1f64) with status 201
+2024-10-10 16:12:19,404 - basicLogger - INFO - Received event energy_usage request with a trace id of 24516957-2bc5-4bae-a300-b04efcb97518
+2024-10-10 16:12:19,610 - basicLogger - INFO - Returned event temperature_change response (ID: 53cc3388-281f-4ad6-8c52-b1797ef759ac) with status 201
+2024-10-10 16:12:19,619 - basicLogger - INFO - Received event energy_usage request with a trace id of 1d4de011-0169-4a6c-8d2f-45487242b903
+2024-10-10 16:12:21,249 - basicLogger - INFO - Returned event energy_usage response (ID: db62b92e-5fbd-409b-a986-fa5100723f67) with status 201
+2024-10-10 16:12:21,255 - basicLogger - INFO - Received event temperature_change request with a trace id of 0034178a-cc09-449c-b240-f5ca3b707919
+2024-10-10 16:12:21,300 - basicLogger - INFO - Returned event energy_usage response (ID: 0655aa6d-d7bf-46ad-871a-244513f8e0f6) with status 201
+2024-10-10 16:12:21,304 - basicLogger - INFO - Returned event energy_usage response (ID: bbb63a16-20b7-4e02-bde2-7124e041fe03) with status 201
+2024-10-10 16:12:21,314 - basicLogger - INFO - Received event temperature_change request with a trace id of 403f9210-37e6-44b6-9ed8-6e8bcce93ec8
+2024-10-10 16:12:21,314 - basicLogger - INFO - Received event temperature_change request with a trace id of 9996cf5e-032f-4b0f-9ad7-be471e7a3239
+2024-10-10 16:12:21,468 - basicLogger - INFO - Returned event energy_usage response (ID: 24516957-2bc5-4bae-a300-b04efcb97518) with status 201
+2024-10-10 16:12:21,478 - basicLogger - INFO - Received event temperature_change request with a trace id of c62f5fbe-b55c-48ce-92ce-20adcb60c04f
+2024-10-10 16:12:21,706 - basicLogger - INFO - Returned event energy_usage response (ID: 1d4de011-0169-4a6c-8d2f-45487242b903) with status 201
+2024-10-10 16:12:21,714 - basicLogger - INFO - Received event temperature_change request with a trace id of a9cee9db-a9e8-4760-99d3-76c43508921e
+2024-10-10 16:12:23,309 - basicLogger - INFO - Returned event temperature_change response (ID: 0034178a-cc09-449c-b240-f5ca3b707919) with status 201
+2024-10-10 16:12:23,378 - basicLogger - INFO - Returned event temperature_change response (ID: 9996cf5e-032f-4b0f-9ad7-be471e7a3239) with status 201
+2024-10-10 16:12:23,380 - basicLogger - INFO - Returned event temperature_change response (ID: 403f9210-37e6-44b6-9ed8-6e8bcce93ec8) with status 201
+2024-10-10 16:12:23,543 - basicLogger - INFO - Returned event temperature_change response (ID: c62f5fbe-b55c-48ce-92ce-20adcb60c04f) with status 201
+2024-10-10 16:12:23,777 - basicLogger - INFO - Returned event temperature_change response (ID: a9cee9db-a9e8-4760-99d3-76c43508921e) with status 201
+2024-10-17 08:33:31,365 - basicLogger - INFO - Received event energy_usage request with a trace id of 27b98dd9-8809-4cc9-9783-e9b1a2c1d639
+2024-10-17 08:33:31,377 - basicLogger - INFO - Received event energy_usage request with a trace id of 46785715-bd6e-45cd-acfc-1f143658a731
+2024-10-17 08:33:31,581 - basicLogger - INFO - Received event energy_usage request with a trace id of bd60b7d0-adee-4234-8ec2-04e419885ce7
+2024-10-17 08:33:31,769 - basicLogger - INFO - Received event energy_usage request with a trace id of b0c9a803-06fb-41b5-a8ab-d36279041806
+2024-10-17 08:33:31,977 - basicLogger - INFO - Received event energy_usage request with a trace id of 10bfc5a3-67b0-4511-8b03-c6c339eeb7d9
+2024-10-17 08:33:35,621 - basicLogger - INFO - Received event temperature_change request with a trace id of 60d6c54a-58c4-49c7-80f3-d1753e06ad94
+2024-10-17 08:33:35,621 - basicLogger - INFO - Received event temperature_change request with a trace id of dc2a30c5-8bbd-4432-b906-11766779d2e4
+2024-10-17 08:33:35,693 - basicLogger - INFO - Received event temperature_change request with a trace id of e7685132-78d0-4afd-b659-8b464f7fb9e1
+2024-10-17 08:33:35,837 - basicLogger - INFO - Received event temperature_change request with a trace id of 1799ca30-9072-4957-84a1-ac63fd12b3fe
+2024-10-17 08:33:36,084 - basicLogger - INFO - Received event temperature_change request with a trace id of 870a6c7b-6e6a-4822-9470-9f759acc4a74
+2024-10-17 08:33:39,703 - basicLogger - INFO - Received event energy_usage request with a trace id of 9e4f47e6-047a-4efc-beaf-56930a48bb68
+2024-10-17 08:33:39,716 - basicLogger - INFO - Received event energy_usage request with a trace id of 8bab0f78-e636-46ce-ac14-c97f37b1b96d
+2024-10-17 08:33:39,771 - basicLogger - INFO - Received event energy_usage request with a trace id of 72c0eff4-e955-408c-87c8-82f04dde3795
+2024-10-17 08:33:39,900 - basicLogger - INFO - Received event energy_usage request with a trace id of 7e98a6aa-287e-418c-acd0-875dd6251147
+2024-10-17 08:33:40,177 - basicLogger - INFO - Received event energy_usage request with a trace id of 1c82cd58-13d9-4a1f-8295-bee6ed344224
+2024-10-17 08:33:43,779 - basicLogger - INFO - Received event temperature_change request with a trace id of 62e0c477-1cc8-486b-86b9-44efc7e4c0bf
+2024-10-17 08:33:43,796 - basicLogger - INFO - Received event temperature_change request with a trace id of 7d91bfd3-ab87-45c5-b196-3bc383bf0aa1
+2024-10-17 08:33:43,839 - basicLogger - INFO - Received event temperature_change request with a trace id of 8aaf5d0d-bda2-4a11-86d1-5159f6229c89
+2024-10-17 08:33:43,999 - basicLogger - INFO - Received event temperature_change request with a trace id of dc76fdf5-2fa4-44dd-aab2-d49e127b57af
+2024-10-17 08:33:44,239 - basicLogger - INFO - Received event temperature_change request with a trace id of 8bbcb516-55fa-4d25-b39b-0f09a40e5626
+2024-10-17 08:34:05,475 - basicLogger - INFO - Received event energy_usage request with a trace id of b3d6bdc6-dcbc-4240-9dcc-2f771293865f
+2024-10-17 08:34:05,675 - basicLogger - INFO - Received event energy_usage request with a trace id of 071b0232-4c26-43e0-af02-08b05bc7c218
+2024-10-17 08:34:05,879 - basicLogger - INFO - Received event energy_usage request with a trace id of 7daaf398-0f53-4191-b7f6-6df2330fc229
+2024-10-17 08:34:06,082 - basicLogger - INFO - Received event energy_usage request with a trace id of 51a140ae-9058-4a61-849c-9ecacf980cf9
+2024-10-17 08:34:06,288 - basicLogger - INFO - Received event energy_usage request with a trace id of f310649a-d976-4aaf-844c-ab77331aaaa4
+2024-10-17 08:34:07,533 - basicLogger - INFO - Returned event energy_usage response (ID: b3d6bdc6-dcbc-4240-9dcc-2f771293865f) with status 201
+2024-10-17 08:34:07,537 - basicLogger - INFO - Received event temperature_change request with a trace id of f2debc6b-5a55-484b-9db3-027f886ee084
+2024-10-17 08:34:07,711 - basicLogger - INFO - Returned event energy_usage response (ID: 071b0232-4c26-43e0-af02-08b05bc7c218) with status 201
+2024-10-17 08:34:07,719 - basicLogger - INFO - Received event temperature_change request with a trace id of 49c4abc6-c146-4e26-a7fe-d6c477be9caa
+2024-10-17 08:34:07,919 - basicLogger - INFO - Returned event energy_usage response (ID: 7daaf398-0f53-4191-b7f6-6df2330fc229) with status 201
+2024-10-17 08:34:07,925 - basicLogger - INFO - Received event temperature_change request with a trace id of 6ff529fc-053e-4c68-91f1-77a02310fc8c
+2024-10-17 08:34:08,120 - basicLogger - INFO - Returned event energy_usage response (ID: 51a140ae-9058-4a61-849c-9ecacf980cf9) with status 201
+2024-10-17 08:34:08,126 - basicLogger - INFO - Received event temperature_change request with a trace id of 4d5dc944-5936-4210-89db-55f66247e2b2
+2024-10-17 08:34:08,340 - basicLogger - INFO - Returned event energy_usage response (ID: f310649a-d976-4aaf-844c-ab77331aaaa4) with status 201
+2024-10-17 08:34:08,347 - basicLogger - INFO - Received event temperature_change request with a trace id of bf48723b-2014-4bd7-be3b-c9c0fa396f35
+2024-10-17 08:34:09,585 - basicLogger - INFO - Returned event temperature_change response (ID: f2debc6b-5a55-484b-9db3-027f886ee084) with status 201
+2024-10-17 08:34:09,593 - basicLogger - INFO - Received event energy_usage request with a trace id of 4f9ab678-10ff-4fbc-b3c8-b92f777d9b4d
+2024-10-17 08:34:09,779 - basicLogger - INFO - Returned event temperature_change response (ID: 49c4abc6-c146-4e26-a7fe-d6c477be9caa) with status 201
+2024-10-17 08:34:09,789 - basicLogger - INFO - Received event energy_usage request with a trace id of 379bea8e-449d-4c22-afdc-865f710e1a5e
+2024-10-17 08:34:09,977 - basicLogger - INFO - Returned event temperature_change response (ID: 6ff529fc-053e-4c68-91f1-77a02310fc8c) with status 201
+2024-10-17 08:34:09,985 - basicLogger - INFO - Received event energy_usage request with a trace id of 36781a56-e5d3-4d45-90f6-6b3053f325ce
+2024-10-17 08:34:10,172 - basicLogger - INFO - Returned event temperature_change response (ID: 4d5dc944-5936-4210-89db-55f66247e2b2) with status 201
+2024-10-17 08:34:10,181 - basicLogger - INFO - Received event energy_usage request with a trace id of b92c7061-9d8b-4143-9a71-246991dc0cbc
+2024-10-17 08:34:10,403 - basicLogger - INFO - Returned event temperature_change response (ID: bf48723b-2014-4bd7-be3b-c9c0fa396f35) with status 201
+2024-10-17 08:34:10,410 - basicLogger - INFO - Received event energy_usage request with a trace id of 1d6aba61-2615-4c66-8da8-84de3f3c8185
+2024-10-17 08:34:11,637 - basicLogger - INFO - Returned event energy_usage response (ID: 4f9ab678-10ff-4fbc-b3c8-b92f777d9b4d) with status 201
+2024-10-17 08:34:11,643 - basicLogger - INFO - Received event temperature_change request with a trace id of 864828b1-e325-4a16-973f-1f98d24306c9
+2024-10-17 08:34:11,858 - basicLogger - INFO - Returned event energy_usage response (ID: 379bea8e-449d-4c22-afdc-865f710e1a5e) with status 201
+2024-10-17 08:34:11,865 - basicLogger - INFO - Received event temperature_change request with a trace id of f3147a23-2d9e-444d-aa0c-55ecf140984e
+2024-10-17 08:34:12,044 - basicLogger - INFO - Returned event energy_usage response (ID: 36781a56-e5d3-4d45-90f6-6b3053f325ce) with status 201
+2024-10-17 08:34:12,052 - basicLogger - INFO - Received event temperature_change request with a trace id of 9ab7cde2-b89c-4ec1-9d1a-a4690679139f
+2024-10-17 08:34:12,230 - basicLogger - INFO - Returned event energy_usage response (ID: b92c7061-9d8b-4143-9a71-246991dc0cbc) with status 201
+2024-10-17 08:34:12,238 - basicLogger - INFO - Received event temperature_change request with a trace id of 4befbb03-b8bc-4917-9e87-9bca7301b924
+2024-10-17 08:34:12,450 - basicLogger - INFO - Returned event energy_usage response (ID: 1d6aba61-2615-4c66-8da8-84de3f3c8185) with status 201
+2024-10-17 08:34:12,459 - basicLogger - INFO - Received event temperature_change request with a trace id of fe7e0cae-c1c6-4d4f-a685-795ea35612f3
+2024-10-17 08:34:13,699 - basicLogger - INFO - Returned event temperature_change response (ID: 864828b1-e325-4a16-973f-1f98d24306c9) with status 201
+2024-10-17 08:34:13,708 - basicLogger - INFO - Received event energy_usage request with a trace id of d17e647d-42c4-4d33-abb0-f2d09322e6fc
+2024-10-17 08:34:13,900 - basicLogger - INFO - Returned event temperature_change response (ID: f3147a23-2d9e-444d-aa0c-55ecf140984e) with status 201
+2024-10-17 08:34:13,906 - basicLogger - INFO - Received event energy_usage request with a trace id of c2c2bb69-042c-4b67-a07b-845f80458f42
+2024-10-17 08:34:14,110 - basicLogger - INFO - Returned event temperature_change response (ID: 9ab7cde2-b89c-4ec1-9d1a-a4690679139f) with status 201
+2024-10-17 08:34:14,119 - basicLogger - INFO - Received event energy_usage request with a trace id of 326c5456-59a9-4098-820b-06dbbcf6219f
+2024-10-17 08:34:14,299 - basicLogger - INFO - Returned event temperature_change response (ID: 4befbb03-b8bc-4917-9e87-9bca7301b924) with status 201
+2024-10-17 08:34:14,309 - basicLogger - INFO - Received event energy_usage request with a trace id of 92e28756-9342-4bf2-8db8-5247c3ee1010
+2024-10-17 08:34:14,501 - basicLogger - INFO - Returned event temperature_change response (ID: fe7e0cae-c1c6-4d4f-a685-795ea35612f3) with status 201
+2024-10-17 08:34:14,511 - basicLogger - INFO - Received event energy_usage request with a trace id of 3b108a2d-d9b2-4b01-b4d1-258f271a8cb6
+2024-10-17 08:34:15,751 - basicLogger - INFO - Returned event energy_usage response (ID: d17e647d-42c4-4d33-abb0-f2d09322e6fc) with status 201
+2024-10-17 08:34:15,760 - basicLogger - INFO - Received event temperature_change request with a trace id of bf3282d2-710e-41e0-b15b-a1b82a84ad9c
+2024-10-17 08:34:15,949 - basicLogger - INFO - Returned event energy_usage response (ID: c2c2bb69-042c-4b67-a07b-845f80458f42) with status 201
+2024-10-17 08:34:15,955 - basicLogger - INFO - Received event temperature_change request with a trace id of 0e7f4e78-79fc-4c48-a582-28e9477e9e12
+2024-10-17 08:34:16,164 - basicLogger - INFO - Returned event energy_usage response (ID: 326c5456-59a9-4098-820b-06dbbcf6219f) with status 201
+2024-10-17 08:34:16,169 - basicLogger - INFO - Received event temperature_change request with a trace id of f82b7dc1-2803-4b49-a7d0-8c2cb95bdec5
+2024-10-17 08:34:16,353 - basicLogger - INFO - Returned event energy_usage response (ID: 92e28756-9342-4bf2-8db8-5247c3ee1010) with status 201
+2024-10-17 08:34:16,358 - basicLogger - INFO - Received event temperature_change request with a trace id of 2719f0e7-cc27-4282-b4cb-3d1b3ac21454
+2024-10-17 08:34:16,540 - basicLogger - INFO - Returned event energy_usage response (ID: 3b108a2d-d9b2-4b01-b4d1-258f271a8cb6) with status 201
+2024-10-17 08:34:16,546 - basicLogger - INFO - Received event temperature_change request with a trace id of 8de8336c-e6ad-4abb-96fd-a754750c8010
+2024-10-17 08:34:17,818 - basicLogger - INFO - Returned event temperature_change response (ID: bf3282d2-710e-41e0-b15b-a1b82a84ad9c) with status 201
+2024-10-17 08:34:17,824 - basicLogger - INFO - Received event energy_usage request with a trace id of c57ccb95-6465-412e-ae07-2406a96713fc
+2024-10-17 08:34:17,987 - basicLogger - INFO - Returned event temperature_change response (ID: 0e7f4e78-79fc-4c48-a582-28e9477e9e12) with status 201
+2024-10-17 08:34:17,993 - basicLogger - INFO - Received event energy_usage request with a trace id of 3a02233e-5ab7-436d-a7c3-5eef586fa982
+2024-10-17 08:34:18,190 - basicLogger - INFO - Returned event temperature_change response (ID: f82b7dc1-2803-4b49-a7d0-8c2cb95bdec5) with status 201
+2024-10-17 08:34:18,201 - basicLogger - INFO - Received event energy_usage request with a trace id of 17e309ce-2368-45a3-9805-c6b26ca5bafd
+2024-10-17 08:34:18,399 - basicLogger - INFO - Returned event temperature_change response (ID: 2719f0e7-cc27-4282-b4cb-3d1b3ac21454) with status 201
+2024-10-17 08:34:18,409 - basicLogger - INFO - Received event energy_usage request with a trace id of d06d87d1-a284-40c7-b8e7-8f0ede9d9af8
+2024-10-17 08:34:18,581 - basicLogger - INFO - Returned event temperature_change response (ID: 8de8336c-e6ad-4abb-96fd-a754750c8010) with status 201
+2024-10-17 08:34:18,586 - basicLogger - INFO - Received event energy_usage request with a trace id of d3f9a2bd-c9ff-4526-b401-c18da13251d7
+2024-10-17 08:34:19,855 - basicLogger - INFO - Returned event energy_usage response (ID: c57ccb95-6465-412e-ae07-2406a96713fc) with status 201
+2024-10-17 08:34:19,860 - basicLogger - INFO - Received event temperature_change request with a trace id of 1df0241e-f740-4512-bfc9-b762fa64cb1b
+2024-10-17 08:34:20,039 - basicLogger - INFO - Returned event energy_usage response (ID: 3a02233e-5ab7-436d-a7c3-5eef586fa982) with status 201
+2024-10-17 08:34:20,044 - basicLogger - INFO - Received event temperature_change request with a trace id of ec1f1445-6cd2-48b6-9691-261503d435cd
+2024-10-17 08:34:20,229 - basicLogger - INFO - Returned event energy_usage response (ID: 17e309ce-2368-45a3-9805-c6b26ca5bafd) with status 201
+2024-10-17 08:34:20,233 - basicLogger - INFO - Received event temperature_change request with a trace id of 8cde0e74-ef75-469e-adb1-4efdbf0b5a80
+2024-10-17 08:34:20,462 - basicLogger - INFO - Returned event energy_usage response (ID: d06d87d1-a284-40c7-b8e7-8f0ede9d9af8) with status 201
+2024-10-17 08:34:20,468 - basicLogger - INFO - Received event temperature_change request with a trace id of 9e8b4d65-a80f-4f49-a5f1-b3e88edf6b6f
+2024-10-17 08:34:20,632 - basicLogger - INFO - Returned event energy_usage response (ID: d3f9a2bd-c9ff-4526-b401-c18da13251d7) with status 201
+2024-10-17 08:34:20,640 - basicLogger - INFO - Received event temperature_change request with a trace id of b92e6351-681c-451f-903b-b86803773193
+2024-10-17 08:34:21,927 - basicLogger - INFO - Returned event temperature_change response (ID: 1df0241e-f740-4512-bfc9-b762fa64cb1b) with status 201
+2024-10-17 08:34:21,936 - basicLogger - INFO - Received event energy_usage request with a trace id of 38f3054b-1f62-4f44-8bc0-814a3d99fba0
+2024-10-17 08:34:22,089 - basicLogger - INFO - Returned event temperature_change response (ID: ec1f1445-6cd2-48b6-9691-261503d435cd) with status 201
+2024-10-17 08:34:22,095 - basicLogger - INFO - Received event energy_usage request with a trace id of bcb753db-5a61-4fd6-ba1a-20dd88bab9b3
+2024-10-17 08:34:22,265 - basicLogger - INFO - Returned event temperature_change response (ID: 8cde0e74-ef75-469e-adb1-4efdbf0b5a80) with status 201
+2024-10-17 08:34:22,271 - basicLogger - INFO - Received event energy_usage request with a trace id of 82443ac7-92be-47c5-9ee7-3f8b2b71a995
+2024-10-17 08:34:22,511 - basicLogger - INFO - Returned event temperature_change response (ID: 9e8b4d65-a80f-4f49-a5f1-b3e88edf6b6f) with status 201
+2024-10-17 08:34:22,518 - basicLogger - INFO - Received event energy_usage request with a trace id of fa65b38e-ad39-44a4-af41-4e33a660b1a7
+2024-10-17 08:34:22,689 - basicLogger - INFO - Returned event temperature_change response (ID: b92e6351-681c-451f-903b-b86803773193) with status 201
+2024-10-17 08:34:22,697 - basicLogger - INFO - Received event energy_usage request with a trace id of 0f614250-6775-4b90-8674-21747b02f749
+2024-10-17 08:34:24,002 - basicLogger - INFO - Returned event energy_usage response (ID: 38f3054b-1f62-4f44-8bc0-814a3d99fba0) with status 201
+2024-10-17 08:34:24,008 - basicLogger - INFO - Received event temperature_change request with a trace id of 2e2bd705-df1b-4c74-9b81-1fac9df741a6
+2024-10-17 08:34:24,150 - basicLogger - INFO - Returned event energy_usage response (ID: bcb753db-5a61-4fd6-ba1a-20dd88bab9b3) with status 201
+2024-10-17 08:34:24,156 - basicLogger - INFO - Received event temperature_change request with a trace id of b7d91947-d592-4f45-b6e0-39741d3112fa
+2024-10-17 08:34:24,324 - basicLogger - INFO - Returned event energy_usage response (ID: 82443ac7-92be-47c5-9ee7-3f8b2b71a995) with status 201
+2024-10-17 08:34:24,331 - basicLogger - INFO - Received event temperature_change request with a trace id of 8d1faceb-eb1e-456d-b4bb-8c2b8b1ae971
+2024-10-17 08:34:24,577 - basicLogger - INFO - Returned event energy_usage response (ID: fa65b38e-ad39-44a4-af41-4e33a660b1a7) with status 201
+2024-10-17 08:34:24,587 - basicLogger - INFO - Received event temperature_change request with a trace id of 3401bc02-5a7a-4c48-a7ef-8e1b0692ae18
+2024-10-17 08:34:24,765 - basicLogger - INFO - Returned event energy_usage response (ID: 0f614250-6775-4b90-8674-21747b02f749) with status 201
+2024-10-17 08:34:24,772 - basicLogger - INFO - Received event temperature_change request with a trace id of e16f73a8-92d3-4b95-9d0a-34b2dac3e8fb
+2024-10-17 08:34:26,033 - basicLogger - INFO - Returned event temperature_change response (ID: 2e2bd705-df1b-4c74-9b81-1fac9df741a6) with status 201
+2024-10-17 08:34:26,188 - basicLogger - INFO - Returned event temperature_change response (ID: b7d91947-d592-4f45-b6e0-39741d3112fa) with status 201
+2024-10-17 08:34:26,360 - basicLogger - INFO - Returned event temperature_change response (ID: 8d1faceb-eb1e-456d-b4bb-8c2b8b1ae971) with status 201
+2024-10-17 08:34:26,614 - basicLogger - INFO - Returned event temperature_change response (ID: 3401bc02-5a7a-4c48-a7ef-8e1b0692ae18) with status 201
+2024-10-17 08:34:26,807 - basicLogger - INFO - Returned event temperature_change response (ID: e16f73a8-92d3-4b95-9d0a-34b2dac3e8fb) with status 201
+2024-10-17 08:51:50,822 - basicLogger - INFO - Received event energy_usage request with a trace id of 138e8bad-1673-402e-915c-32cd8c4da2f8
+2024-10-17 08:51:51,036 - basicLogger - INFO - Received event energy_usage request with a trace id of 74daf18a-e216-4f84-904e-ed809c9e037e
+2024-10-17 08:51:51,239 - basicLogger - INFO - Received event energy_usage request with a trace id of 51b289d1-f587-40cb-9841-e6262c701ac5
+2024-10-17 08:51:51,425 - basicLogger - INFO - Received event energy_usage request with a trace id of ebcf001f-96ba-44bd-a152-c9ecde5c9905
+2024-10-17 08:51:51,623 - basicLogger - INFO - Received event energy_usage request with a trace id of 9a4a49b3-8e34-43bf-82aa-0c182d69e1fb
+2024-10-17 08:51:52,894 - basicLogger - INFO - Returned event energy_usage response (ID: 138e8bad-1673-402e-915c-32cd8c4da2f8) with status 201
+2024-10-17 08:51:52,899 - basicLogger - INFO - Received event temperature_change request with a trace id of 2f970442-7391-46a0-bcf7-91f81164f1cb
+2024-10-17 08:51:53,103 - basicLogger - INFO - Returned event energy_usage response (ID: 74daf18a-e216-4f84-904e-ed809c9e037e) with status 201
+2024-10-17 08:51:53,113 - basicLogger - INFO - Received event temperature_change request with a trace id of 70adb6ca-8bfb-4185-a2fd-4fbe3a6357d5
+2024-10-17 08:51:53,320 - basicLogger - INFO - Returned event energy_usage response (ID: 51b289d1-f587-40cb-9841-e6262c701ac5) with status 201
+2024-10-17 08:51:53,325 - basicLogger - INFO - Received event temperature_change request with a trace id of 6541624e-0037-4fac-a8bd-83f3f3e827b7
+2024-10-17 08:51:53,497 - basicLogger - INFO - Returned event energy_usage response (ID: ebcf001f-96ba-44bd-a152-c9ecde5c9905) with status 201
+2024-10-17 08:51:53,507 - basicLogger - INFO - Received event temperature_change request with a trace id of 8edef6e1-7939-42f3-96b5-7b67689b1da6
+2024-10-17 08:51:53,669 - basicLogger - INFO - Returned event energy_usage response (ID: 9a4a49b3-8e34-43bf-82aa-0c182d69e1fb) with status 201
+2024-10-17 08:51:53,679 - basicLogger - INFO - Received event temperature_change request with a trace id of 06139135-547e-4b12-929a-1ad18473197f
+2024-10-17 08:51:54,965 - basicLogger - INFO - Returned event temperature_change response (ID: 2f970442-7391-46a0-bcf7-91f81164f1cb) with status 201
+2024-10-17 08:51:54,971 - basicLogger - INFO - Received event energy_usage request with a trace id of a7917eee-2f6c-46ef-bda5-949954ddd770
+2024-10-17 08:51:55,180 - basicLogger - INFO - Returned event temperature_change response (ID: 70adb6ca-8bfb-4185-a2fd-4fbe3a6357d5) with status 201
+2024-10-17 08:51:55,186 - basicLogger - INFO - Received event energy_usage request with a trace id of 996e23d8-7326-4f02-99d1-e72f6392c612
+2024-10-17 08:51:55,379 - basicLogger - INFO - Returned event temperature_change response (ID: 6541624e-0037-4fac-a8bd-83f3f3e827b7) with status 201
+2024-10-17 08:51:55,391 - basicLogger - INFO - Received event energy_usage request with a trace id of d8024fd3-e999-4e8b-a95a-2c60376e0f07
+2024-10-17 08:51:55,581 - basicLogger - INFO - Returned event temperature_change response (ID: 8edef6e1-7939-42f3-96b5-7b67689b1da6) with status 201
+2024-10-17 08:51:55,592 - basicLogger - INFO - Received event energy_usage request with a trace id of f6e7d2b9-5441-4557-a801-4525ab10aeb7
+2024-10-17 08:51:55,736 - basicLogger - INFO - Returned event temperature_change response (ID: 06139135-547e-4b12-929a-1ad18473197f) with status 201
+2024-10-17 08:51:55,747 - basicLogger - INFO - Received event energy_usage request with a trace id of a18f9996-2187-410d-baea-1b0c8a25df6e
+2024-10-17 08:51:57,038 - basicLogger - INFO - Returned event energy_usage response (ID: a7917eee-2f6c-46ef-bda5-949954ddd770) with status 201
+2024-10-17 08:51:57,048 - basicLogger - INFO - Received event temperature_change request with a trace id of 436d2961-6831-4b8d-bbf8-5d3e7f23eaca
+2024-10-17 08:51:57,254 - basicLogger - INFO - Returned event energy_usage response (ID: 996e23d8-7326-4f02-99d1-e72f6392c612) with status 201
+2024-10-17 08:51:57,263 - basicLogger - INFO - Received event temperature_change request with a trace id of 9b012049-f96d-40ef-a08a-84254c7b941c
+2024-10-17 08:51:57,455 - basicLogger - INFO - Returned event energy_usage response (ID: d8024fd3-e999-4e8b-a95a-2c60376e0f07) with status 201
+2024-10-17 08:51:57,464 - basicLogger - INFO - Received event temperature_change request with a trace id of a3b99576-baba-48f5-8a73-fb2ce758ffdf
+2024-10-17 08:51:57,649 - basicLogger - INFO - Returned event energy_usage response (ID: f6e7d2b9-5441-4557-a801-4525ab10aeb7) with status 201
+2024-10-17 08:51:57,653 - basicLogger - INFO - Received event temperature_change request with a trace id of c45386ae-204b-4504-8747-cde03a17f882
+2024-10-17 08:51:57,815 - basicLogger - INFO - Returned event energy_usage response (ID: a18f9996-2187-410d-baea-1b0c8a25df6e) with status 201
+2024-10-17 08:51:57,825 - basicLogger - INFO - Received event temperature_change request with a trace id of b4692009-0a4a-4fe8-8eac-4e8c5768ea10
+2024-10-17 08:51:59,096 - basicLogger - INFO - Returned event temperature_change response (ID: 436d2961-6831-4b8d-bbf8-5d3e7f23eaca) with status 201
+2024-10-17 08:51:59,103 - basicLogger - INFO - Received event energy_usage request with a trace id of 98caac36-b219-4354-9d21-ca9e52d28716
+2024-10-17 08:51:59,305 - basicLogger - INFO - Returned event temperature_change response (ID: 9b012049-f96d-40ef-a08a-84254c7b941c) with status 201
+2024-10-17 08:51:59,316 - basicLogger - INFO - Received event energy_usage request with a trace id of a0d13b42-996a-480f-a17b-62af9c580847
+2024-10-17 08:51:59,504 - basicLogger - INFO - Returned event temperature_change response (ID: a3b99576-baba-48f5-8a73-fb2ce758ffdf) with status 201
+2024-10-17 08:51:59,512 - basicLogger - INFO - Received event energy_usage request with a trace id of ebb12558-f550-4862-8ab7-2f5390b24275
+2024-10-17 08:51:59,703 - basicLogger - INFO - Returned event temperature_change response (ID: c45386ae-204b-4504-8747-cde03a17f882) with status 201
+2024-10-17 08:51:59,709 - basicLogger - INFO - Received event energy_usage request with a trace id of 7af65b7a-554b-496b-ab98-0f1faa14524e
+2024-10-17 08:51:59,875 - basicLogger - INFO - Returned event temperature_change response (ID: b4692009-0a4a-4fe8-8eac-4e8c5768ea10) with status 201
+2024-10-17 08:51:59,881 - basicLogger - INFO - Received event energy_usage request with a trace id of cd8e0044-3ba9-4989-98b3-4914137fdd83
+2024-10-17 08:52:01,172 - basicLogger - INFO - Returned event energy_usage response (ID: 98caac36-b219-4354-9d21-ca9e52d28716) with status 201
+2024-10-17 08:52:01,182 - basicLogger - INFO - Received event temperature_change request with a trace id of 04ed501d-895b-4275-9b90-a3ae26ba52d3
+2024-10-17 08:52:01,390 - basicLogger - INFO - Returned event energy_usage response (ID: a0d13b42-996a-480f-a17b-62af9c580847) with status 201
+2024-10-17 08:52:01,401 - basicLogger - INFO - Received event temperature_change request with a trace id of cf4d0319-9dd9-401a-bba4-5ed7b9cf9d34
+2024-10-17 08:52:01,590 - basicLogger - INFO - Returned event energy_usage response (ID: ebb12558-f550-4862-8ab7-2f5390b24275) with status 201
+2024-10-17 08:52:01,597 - basicLogger - INFO - Received event temperature_change request with a trace id of d3a89393-b775-4e42-8315-1ae2c73eb9b8
+2024-10-17 08:52:01,759 - basicLogger - INFO - Returned event energy_usage response (ID: 7af65b7a-554b-496b-ab98-0f1faa14524e) with status 201
+2024-10-17 08:52:01,763 - basicLogger - INFO - Received event temperature_change request with a trace id of dfb5f947-1362-4ad0-a48e-22b2eb577bcc
+2024-10-17 08:52:01,951 - basicLogger - INFO - Returned event energy_usage response (ID: cd8e0044-3ba9-4989-98b3-4914137fdd83) with status 201
+2024-10-17 08:52:01,960 - basicLogger - INFO - Received event temperature_change request with a trace id of 5427568d-bfad-4218-a18c-73b754bfd9cb
+2024-10-17 08:52:03,250 - basicLogger - INFO - Returned event temperature_change response (ID: 04ed501d-895b-4275-9b90-a3ae26ba52d3) with status 201
+2024-10-17 08:52:03,262 - basicLogger - INFO - Received event energy_usage request with a trace id of f801bc0b-51c6-4ee4-ae0a-3330c96b0038
+2024-10-17 08:52:03,451 - basicLogger - INFO - Returned event temperature_change response (ID: cf4d0319-9dd9-401a-bba4-5ed7b9cf9d34) with status 201
+2024-10-17 08:52:03,462 - basicLogger - INFO - Received event energy_usage request with a trace id of 1209261d-ac62-4d13-aedd-3dc68918c3e7
+2024-10-17 08:52:03,612 - basicLogger - INFO - Returned event temperature_change response (ID: d3a89393-b775-4e42-8315-1ae2c73eb9b8) with status 201
+2024-10-17 08:52:03,621 - basicLogger - INFO - Received event energy_usage request with a trace id of f59a79e8-1532-4cdb-8159-a13512907534
+2024-10-17 08:52:03,813 - basicLogger - INFO - Returned event temperature_change response (ID: dfb5f947-1362-4ad0-a48e-22b2eb577bcc) with status 201
+2024-10-17 08:52:03,825 - basicLogger - INFO - Received event energy_usage request with a trace id of a28a1338-7f1e-4454-9c7d-f357314dac93
+2024-10-17 08:52:04,014 - basicLogger - INFO - Returned event temperature_change response (ID: 5427568d-bfad-4218-a18c-73b754bfd9cb) with status 201
+2024-10-17 08:52:04,025 - basicLogger - INFO - Received event energy_usage request with a trace id of eef76507-128a-48c2-b597-67cf6336680c
+2024-10-17 08:52:05,328 - basicLogger - INFO - Returned event energy_usage response (ID: f801bc0b-51c6-4ee4-ae0a-3330c96b0038) with status 201
+2024-10-17 08:52:05,336 - basicLogger - INFO - Received event temperature_change request with a trace id of 10dc2ba4-b54e-4ac5-8c70-bc3c974104ed
+2024-10-17 08:52:05,511 - basicLogger - INFO - Returned event energy_usage response (ID: 1209261d-ac62-4d13-aedd-3dc68918c3e7) with status 201
+2024-10-17 08:52:05,516 - basicLogger - INFO - Received event temperature_change request with a trace id of 53abb6a1-1dbc-44f0-ba0f-3d35d4732ee8
+2024-10-17 08:52:05,677 - basicLogger - INFO - Returned event energy_usage response (ID: f59a79e8-1532-4cdb-8159-a13512907534) with status 201
+2024-10-17 08:52:05,687 - basicLogger - INFO - Received event temperature_change request with a trace id of 2533c48e-1453-4ba1-a84e-522841def04e
+2024-10-17 08:52:05,863 - basicLogger - INFO - Returned event energy_usage response (ID: a28a1338-7f1e-4454-9c7d-f357314dac93) with status 201
+2024-10-17 08:52:05,872 - basicLogger - INFO - Received event temperature_change request with a trace id of 64c36d4d-e7cb-477b-aeca-8884c7cc0eff
+2024-10-17 08:52:06,080 - basicLogger - INFO - Returned event energy_usage response (ID: eef76507-128a-48c2-b597-67cf6336680c) with status 201
+2024-10-17 08:52:06,088 - basicLogger - INFO - Received event temperature_change request with a trace id of 22a7c807-7232-4143-a98c-515e56dd1785
+2024-10-17 08:52:07,413 - basicLogger - INFO - Returned event temperature_change response (ID: 10dc2ba4-b54e-4ac5-8c70-bc3c974104ed) with status 201
+2024-10-17 08:52:07,425 - basicLogger - INFO - Received event energy_usage request with a trace id of daa96619-1349-45ed-8628-17bee6dcec56
+2024-10-17 08:52:07,586 - basicLogger - INFO - Returned event temperature_change response (ID: 53abb6a1-1dbc-44f0-ba0f-3d35d4732ee8) with status 201
+2024-10-17 08:52:07,598 - basicLogger - INFO - Received event energy_usage request with a trace id of c39f4863-092f-431e-bd87-c37f16343292
+2024-10-17 08:52:07,756 - basicLogger - INFO - Returned event temperature_change response (ID: 2533c48e-1453-4ba1-a84e-522841def04e) with status 201
+2024-10-17 08:52:07,768 - basicLogger - INFO - Received event energy_usage request with a trace id of a8b77af9-e19c-46b9-8e31-ae3b37ae0b3d
+2024-10-17 08:52:07,932 - basicLogger - INFO - Returned event temperature_change response (ID: 64c36d4d-e7cb-477b-aeca-8884c7cc0eff) with status 201
+2024-10-17 08:52:07,938 - basicLogger - INFO - Received event energy_usage request with a trace id of 06c18333-fcb9-4596-8d80-011417a2f380
+2024-10-17 08:52:08,161 - basicLogger - INFO - Returned event temperature_change response (ID: 22a7c807-7232-4143-a98c-515e56dd1785) with status 201
+2024-10-17 08:52:08,172 - basicLogger - INFO - Received event energy_usage request with a trace id of e2122ab4-531a-421b-907d-db92924af064
+2024-10-17 08:52:09,488 - basicLogger - INFO - Returned event energy_usage response (ID: daa96619-1349-45ed-8628-17bee6dcec56) with status 201
+2024-10-17 08:52:09,498 - basicLogger - INFO - Received event temperature_change request with a trace id of 5bd9b9bc-de78-4883-ae60-52ed13f44970
+2024-10-17 08:52:09,662 - basicLogger - INFO - Returned event energy_usage response (ID: c39f4863-092f-431e-bd87-c37f16343292) with status 201
+2024-10-17 08:52:09,672 - basicLogger - INFO - Received event temperature_change request with a trace id of ea37caa6-468a-48d1-b446-1c1a04383833
+2024-10-17 08:52:09,831 - basicLogger - INFO - Returned event energy_usage response (ID: a8b77af9-e19c-46b9-8e31-ae3b37ae0b3d) with status 201
+2024-10-17 08:52:09,840 - basicLogger - INFO - Received event temperature_change request with a trace id of b187c9fa-4fdc-43ab-a428-683b65a4f17c
+2024-10-17 08:52:10,007 - basicLogger - INFO - Returned event energy_usage response (ID: 06c18333-fcb9-4596-8d80-011417a2f380) with status 201
+2024-10-17 08:52:10,016 - basicLogger - INFO - Received event temperature_change request with a trace id of 517a0320-f8ff-45a7-9516-02c2e18b54ea
+2024-10-17 08:52:10,238 - basicLogger - INFO - Returned event energy_usage response (ID: e2122ab4-531a-421b-907d-db92924af064) with status 201
+2024-10-17 08:52:10,248 - basicLogger - INFO - Received event temperature_change request with a trace id of aa0ee1fd-6a23-4dd9-883f-1e77c9b1d71a
+2024-10-17 08:52:11,578 - basicLogger - INFO - Returned event temperature_change response (ID: 5bd9b9bc-de78-4883-ae60-52ed13f44970) with status 201
+2024-10-17 08:52:11,731 - basicLogger - INFO - Returned event temperature_change response (ID: ea37caa6-468a-48d1-b446-1c1a04383833) with status 201
+2024-10-17 08:52:11,892 - basicLogger - INFO - Returned event temperature_change response (ID: b187c9fa-4fdc-43ab-a428-683b65a4f17c) with status 201
+2024-10-17 08:52:12,079 - basicLogger - INFO - Returned event temperature_change response (ID: 517a0320-f8ff-45a7-9516-02c2e18b54ea) with status 201
+2024-10-17 08:52:12,322 - basicLogger - INFO - Returned event temperature_change response (ID: aa0ee1fd-6a23-4dd9-883f-1e77c9b1d71a) with status 201
+2024-10-17 08:54:18,600 - basicLogger - INFO - Received event energy_usage request with a trace id of 09976e5b-694d-4635-ad85-fb88a20fe6d2
+2024-10-17 08:54:18,810 - basicLogger - INFO - Received event energy_usage request with a trace id of c0307933-d937-4a61-9214-131efa2134a4
+2024-10-17 08:54:19,012 - basicLogger - INFO - Received event energy_usage request with a trace id of 447a682d-32b7-4ad0-be47-b9cb19446d66
+2024-10-17 08:54:19,213 - basicLogger - INFO - Received event energy_usage request with a trace id of 39056754-549f-4266-8133-45d4ca534d9c
+2024-10-17 08:54:19,399 - basicLogger - INFO - Received event energy_usage request with a trace id of 624df48c-0ea0-43d1-9ee5-8540c6cabed0
+2024-10-17 08:54:20,672 - basicLogger - INFO - Returned event energy_usage response (ID: 09976e5b-694d-4635-ad85-fb88a20fe6d2) with status 201
+2024-10-17 08:54:20,682 - basicLogger - INFO - Received event temperature_change request with a trace id of 7b5e3400-c393-495b-b364-e23f1e1f12d4
+2024-10-17 08:54:20,871 - basicLogger - INFO - Returned event energy_usage response (ID: c0307933-d937-4a61-9214-131efa2134a4) with status 201
+2024-10-17 08:54:20,879 - basicLogger - INFO - Received event temperature_change request with a trace id of 72f26366-8d29-476e-8a5e-f99b8dfbddf4
+2024-10-17 08:54:21,063 - basicLogger - INFO - Returned event energy_usage response (ID: 447a682d-32b7-4ad0-be47-b9cb19446d66) with status 201
+2024-10-17 08:54:21,073 - basicLogger - INFO - Received event temperature_change request with a trace id of 59b1cb0a-bbc5-4ac2-96b8-0fa9ee19054c
+2024-10-17 08:54:21,266 - basicLogger - INFO - Returned event energy_usage response (ID: 39056754-549f-4266-8133-45d4ca534d9c) with status 201
+2024-10-17 08:54:21,276 - basicLogger - INFO - Received event temperature_change request with a trace id of 07248ad0-aeae-4d5c-bb9b-95904d33e13c
+2024-10-17 08:54:21,508 - basicLogger - INFO - Returned event energy_usage response (ID: 624df48c-0ea0-43d1-9ee5-8540c6cabed0) with status 201
+2024-10-17 08:54:21,512 - basicLogger - INFO - Received event temperature_change request with a trace id of 2bbecd90-db54-4f34-b311-3c47410aadec
+2024-10-17 08:54:22,761 - basicLogger - INFO - Returned event temperature_change response (ID: 7b5e3400-c393-495b-b364-e23f1e1f12d4) with status 201
+2024-10-17 08:54:22,772 - basicLogger - INFO - Received event energy_usage request with a trace id of 88ca48b8-4f25-48a1-af3b-2dd642f1fec9
+2024-10-17 08:54:22,960 - basicLogger - INFO - Returned event temperature_change response (ID: 72f26366-8d29-476e-8a5e-f99b8dfbddf4) with status 201
+2024-10-17 08:54:22,972 - basicLogger - INFO - Received event energy_usage request with a trace id of 4e43dedb-4138-40b5-818d-e1c93cb12740
+2024-10-17 08:54:23,145 - basicLogger - INFO - Returned event temperature_change response (ID: 59b1cb0a-bbc5-4ac2-96b8-0fa9ee19054c) with status 201
+2024-10-17 08:54:23,158 - basicLogger - INFO - Received event energy_usage request with a trace id of 8af4672c-f821-4de1-90f9-626f1f1e12fd
+2024-10-17 08:54:23,347 - basicLogger - INFO - Returned event temperature_change response (ID: 07248ad0-aeae-4d5c-bb9b-95904d33e13c) with status 201
+2024-10-17 08:54:23,360 - basicLogger - INFO - Received event energy_usage request with a trace id of 1ec0e6ca-47a3-4445-9ae9-a16c60d00dc1
+2024-10-17 08:54:23,582 - basicLogger - INFO - Returned event temperature_change response (ID: 2bbecd90-db54-4f34-b311-3c47410aadec) with status 201
+2024-10-17 08:54:23,593 - basicLogger - INFO - Received event energy_usage request with a trace id of 80f66d96-157c-433b-9506-aaabbe0368f6
+2024-10-17 08:54:24,829 - basicLogger - INFO - Returned event energy_usage response (ID: 88ca48b8-4f25-48a1-af3b-2dd642f1fec9) with status 201
+2024-10-17 08:54:24,839 - basicLogger - INFO - Received event temperature_change request with a trace id of 364de3a9-397c-4833-b4b5-9b4280e7148f
+2024-10-17 08:54:25,046 - basicLogger - INFO - Returned event energy_usage response (ID: 4e43dedb-4138-40b5-818d-e1c93cb12740) with status 201
+2024-10-17 08:54:25,055 - basicLogger - INFO - Received event temperature_change request with a trace id of f6aca076-1d32-4838-b6cb-cda61029bc50
+2024-10-17 08:54:25,233 - basicLogger - INFO - Returned event energy_usage response (ID: 8af4672c-f821-4de1-90f9-626f1f1e12fd) with status 201
+2024-10-17 08:54:25,243 - basicLogger - INFO - Received event temperature_change request with a trace id of c27b2fbe-820a-4f22-8cc8-2ac02031ea03
+2024-10-17 08:54:25,433 - basicLogger - INFO - Returned event energy_usage response (ID: 1ec0e6ca-47a3-4445-9ae9-a16c60d00dc1) with status 201
+2024-10-17 08:54:25,442 - basicLogger - INFO - Received event temperature_change request with a trace id of 172be631-e794-4387-b406-2013ba2bdeb6
+2024-10-17 08:54:25,668 - basicLogger - INFO - Returned event energy_usage response (ID: 80f66d96-157c-433b-9506-aaabbe0368f6) with status 201
+2024-10-17 08:54:25,678 - basicLogger - INFO - Received event temperature_change request with a trace id of 5f315bd6-0ac9-4ba5-b7a5-3c28c7b0f91f
+2024-10-17 08:54:26,888 - basicLogger - INFO - Returned event temperature_change response (ID: 364de3a9-397c-4833-b4b5-9b4280e7148f) with status 201
+2024-10-17 08:54:26,899 - basicLogger - INFO - Received event energy_usage request with a trace id of 480c23f9-98de-4360-bc67-835098fae945
+2024-10-17 08:54:27,106 - basicLogger - INFO - Returned event temperature_change response (ID: f6aca076-1d32-4838-b6cb-cda61029bc50) with status 201
+2024-10-17 08:54:27,117 - basicLogger - INFO - Received event energy_usage request with a trace id of 175f6baa-2ed9-46b0-955b-2ba3a35c84e0
+2024-10-17 08:54:27,304 - basicLogger - INFO - Returned event temperature_change response (ID: c27b2fbe-820a-4f22-8cc8-2ac02031ea03) with status 201
+2024-10-17 08:54:27,311 - basicLogger - INFO - Received event energy_usage request with a trace id of 79241c6c-84cb-496b-a91b-6524fe88e7f8
+2024-10-17 08:54:27,507 - basicLogger - INFO - Returned event temperature_change response (ID: 172be631-e794-4387-b406-2013ba2bdeb6) with status 201
+2024-10-17 08:54:27,518 - basicLogger - INFO - Received event energy_usage request with a trace id of d59ef103-d756-476c-93f4-2bb344373982
+2024-10-17 08:54:27,757 - basicLogger - INFO - Returned event temperature_change response (ID: 5f315bd6-0ac9-4ba5-b7a5-3c28c7b0f91f) with status 201
+2024-10-17 08:54:27,768 - basicLogger - INFO - Received event energy_usage request with a trace id of 3d0f163b-76f8-4625-86e1-9c6e0955ed20
+2024-10-17 08:54:28,968 - basicLogger - INFO - Returned event energy_usage response (ID: 480c23f9-98de-4360-bc67-835098fae945) with status 201
+2024-10-17 08:54:28,978 - basicLogger - INFO - Received event temperature_change request with a trace id of 444a1bfe-8079-4f52-8688-e6c62092d361
+2024-10-17 08:54:29,190 - basicLogger - INFO - Returned event energy_usage response (ID: 175f6baa-2ed9-46b0-955b-2ba3a35c84e0) with status 201
+2024-10-17 08:54:29,200 - basicLogger - INFO - Received event temperature_change request with a trace id of 7e5a6c91-9bda-4a7e-998d-6420305a8684
+2024-10-17 08:54:29,390 - basicLogger - INFO - Returned event energy_usage response (ID: 79241c6c-84cb-496b-a91b-6524fe88e7f8) with status 201
+2024-10-17 08:54:29,398 - basicLogger - INFO - Received event temperature_change request with a trace id of 7bb851fd-a815-4fb7-b873-634714b5e14a
+2024-10-17 08:54:29,587 - basicLogger - INFO - Returned event energy_usage response (ID: d59ef103-d756-476c-93f4-2bb344373982) with status 201
+2024-10-17 08:54:29,592 - basicLogger - INFO - Received event temperature_change request with a trace id of 972d5977-9c21-4cae-84dd-26de26eb4b92
+2024-10-17 08:54:29,825 - basicLogger - INFO - Returned event energy_usage response (ID: 3d0f163b-76f8-4625-86e1-9c6e0955ed20) with status 201
+2024-10-17 08:54:29,835 - basicLogger - INFO - Received event temperature_change request with a trace id of a49ff582-1a5d-4c8c-9242-6709e50851ca
+2024-10-17 08:54:31,020 - basicLogger - INFO - Returned event temperature_change response (ID: 444a1bfe-8079-4f52-8688-e6c62092d361) with status 201
+2024-10-17 08:54:31,028 - basicLogger - INFO - Received event energy_usage request with a trace id of 1a7585fc-0e89-47d1-97ea-0c5b1917fb8a
+2024-10-17 08:54:31,259 - basicLogger - INFO - Returned event temperature_change response (ID: 7e5a6c91-9bda-4a7e-998d-6420305a8684) with status 201
+2024-10-17 08:54:31,270 - basicLogger - INFO - Received event energy_usage request with a trace id of 24c019bb-f0dd-4152-b5e0-1cfffae9e068
+2024-10-17 08:54:31,460 - basicLogger - INFO - Returned event temperature_change response (ID: 7bb851fd-a815-4fb7-b873-634714b5e14a) with status 201
+2024-10-17 08:54:31,473 - basicLogger - INFO - Received event energy_usage request with a trace id of 8d3030b9-9e2b-487d-b819-0495a00a1401
+2024-10-17 08:54:31,646 - basicLogger - INFO - Returned event temperature_change response (ID: 972d5977-9c21-4cae-84dd-26de26eb4b92) with status 201
+2024-10-17 08:54:31,657 - basicLogger - INFO - Received event energy_usage request with a trace id of 85c169f6-be3a-4697-a6d9-76a4bbec92fc
+2024-10-17 08:54:31,910 - basicLogger - INFO - Returned event temperature_change response (ID: a49ff582-1a5d-4c8c-9242-6709e50851ca) with status 201
+2024-10-17 08:54:31,923 - basicLogger - INFO - Received event energy_usage request with a trace id of 1a479ee7-93a3-4880-b524-cbf681c8c4b8
+2024-10-17 08:54:33,119 - basicLogger - INFO - Returned event energy_usage response (ID: 1a7585fc-0e89-47d1-97ea-0c5b1917fb8a) with status 201
+2024-10-17 08:54:33,123 - basicLogger - INFO - Received event temperature_change request with a trace id of 676b6eb0-9637-4f1f-8c3f-6a409f08aa87
+2024-10-17 08:54:33,338 - basicLogger - INFO - Returned event energy_usage response (ID: 24c019bb-f0dd-4152-b5e0-1cfffae9e068) with status 201
+2024-10-17 08:54:33,348 - basicLogger - INFO - Received event temperature_change request with a trace id of dfd6d68c-119c-4313-9916-01384d8c5fa3
+2024-10-17 08:54:33,541 - basicLogger - INFO - Returned event energy_usage response (ID: 8d3030b9-9e2b-487d-b819-0495a00a1401) with status 201
+2024-10-17 08:54:33,549 - basicLogger - INFO - Received event temperature_change request with a trace id of 8242bd14-5c07-45dc-8762-4a0d7e06a3e2
+2024-10-17 08:54:33,723 - basicLogger - INFO - Returned event energy_usage response (ID: 85c169f6-be3a-4697-a6d9-76a4bbec92fc) with status 201
+2024-10-17 08:54:33,730 - basicLogger - INFO - Received event temperature_change request with a trace id of 84bb7634-4723-482f-83be-c764194dadd1
+2024-10-17 08:54:33,992 - basicLogger - INFO - Returned event energy_usage response (ID: 1a479ee7-93a3-4880-b524-cbf681c8c4b8) with status 201
+2024-10-17 08:54:34,002 - basicLogger - INFO - Received event temperature_change request with a trace id of b5a9cd2f-b09e-4648-af5f-e6db0e3db9cd
+2024-10-17 08:54:35,191 - basicLogger - INFO - Returned event temperature_change response (ID: 676b6eb0-9637-4f1f-8c3f-6a409f08aa87) with status 201
+2024-10-17 08:54:35,203 - basicLogger - INFO - Received event energy_usage request with a trace id of 669993a7-d1f0-4b53-aba7-6c06fdd16fe3
+2024-10-17 08:54:35,415 - basicLogger - INFO - Returned event temperature_change response (ID: dfd6d68c-119c-4313-9916-01384d8c5fa3) with status 201
+2024-10-17 08:54:35,422 - basicLogger - INFO - Received event energy_usage request with a trace id of 9a952dda-e64c-472d-8877-eb2c93418cb8
+2024-10-17 08:54:35,632 - basicLogger - INFO - Returned event temperature_change response (ID: 8242bd14-5c07-45dc-8762-4a0d7e06a3e2) with status 201
+2024-10-17 08:54:35,643 - basicLogger - INFO - Received event energy_usage request with a trace id of 6412a969-27f5-4c42-87d6-d05419528b65
+2024-10-17 08:54:35,781 - basicLogger - INFO - Returned event temperature_change response (ID: 84bb7634-4723-482f-83be-c764194dadd1) with status 201
+2024-10-17 08:54:35,792 - basicLogger - INFO - Received event energy_usage request with a trace id of 90193a29-7957-4dcb-96ef-1b49ba37de9d
+2024-10-17 08:54:36,076 - basicLogger - INFO - Returned event temperature_change response (ID: b5a9cd2f-b09e-4648-af5f-e6db0e3db9cd) with status 201
+2024-10-17 08:54:36,086 - basicLogger - INFO - Received event energy_usage request with a trace id of 811b7088-544a-4fa2-92c2-e2948bf2ec4c
+2024-10-17 08:54:37,258 - basicLogger - INFO - Returned event energy_usage response (ID: 669993a7-d1f0-4b53-aba7-6c06fdd16fe3) with status 201
+2024-10-17 08:54:37,262 - basicLogger - INFO - Received event temperature_change request with a trace id of e649a7a4-06be-42d6-9cdd-f7211e74daa0
+2024-10-17 08:54:37,498 - basicLogger - INFO - Returned event energy_usage response (ID: 9a952dda-e64c-472d-8877-eb2c93418cb8) with status 201
+2024-10-17 08:54:37,508 - basicLogger - INFO - Received event temperature_change request with a trace id of 8f71d363-234f-40f7-98d9-04ea45f935b0
+2024-10-17 08:54:37,717 - basicLogger - INFO - Returned event energy_usage response (ID: 6412a969-27f5-4c42-87d6-d05419528b65) with status 201
+2024-10-17 08:54:37,727 - basicLogger - INFO - Received event temperature_change request with a trace id of 772f475f-932c-4ea8-8279-0132c90cfc23
+2024-10-17 08:54:37,855 - basicLogger - INFO - Returned event energy_usage response (ID: 90193a29-7957-4dcb-96ef-1b49ba37de9d) with status 201
+2024-10-17 08:54:37,864 - basicLogger - INFO - Received event temperature_change request with a trace id of b76ed4a3-b31d-48d7-a0fb-d167e6d1f4ea
+2024-10-17 08:54:38,154 - basicLogger - INFO - Returned event energy_usage response (ID: 811b7088-544a-4fa2-92c2-e2948bf2ec4c) with status 201
+2024-10-17 08:54:38,164 - basicLogger - INFO - Received event temperature_change request with a trace id of 0a4d12ab-7c0e-4746-a571-42668eebcca8
+2024-10-17 08:54:39,318 - basicLogger - INFO - Returned event temperature_change response (ID: e649a7a4-06be-42d6-9cdd-f7211e74daa0) with status 201
+2024-10-17 08:54:39,568 - basicLogger - INFO - Returned event temperature_change response (ID: 8f71d363-234f-40f7-98d9-04ea45f935b0) with status 201
+2024-10-17 08:54:39,781 - basicLogger - INFO - Returned event temperature_change response (ID: 772f475f-932c-4ea8-8279-0132c90cfc23) with status 201
+2024-10-17 08:54:39,911 - basicLogger - INFO - Returned event temperature_change response (ID: b76ed4a3-b31d-48d7-a0fb-d167e6d1f4ea) with status 201
+2024-10-17 08:54:40,232 - basicLogger - INFO - Returned event temperature_change response (ID: 0a4d12ab-7c0e-4746-a571-42668eebcca8) with status 201
