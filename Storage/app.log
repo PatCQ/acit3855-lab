@@ -1009,3 +1009,5 @@
 2024-10-17 08:55:16,462 - basicLogger - DEBUG - 2024-10-17 08:55:07.345246 temp
 2024-10-17 08:55:16,463 - basicLogger - DEBUG - 2024-10-17 08:55:12.344917 temp
 2024-10-17 08:55:16,467 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:55:07.345246 returns 0 results
+2024-10-17 09:55:56,935 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-17 09:55:57,064 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
