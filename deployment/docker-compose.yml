@@ -33,7 +33,7 @@ services:
     # You can use whatever password you like
       MYSQL_PASSWORD: 'password'
     # Password for root access
-      MYSQL_ROOT_PASSWORD: 'password'
+      MYSQL_ROOT_PASSWORD: 'ASDFjkl12#'
     ports:
     # <Port exposed> : < MySQL Port running inside container>
       - '3306:3306'
