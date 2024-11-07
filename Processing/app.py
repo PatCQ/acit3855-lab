@@ -7,10 +7,6 @@ import json
 import requests
 from datetime import datetime
 from apscheduler.schedulers.background import BackgroundScheduler
-
-
-from sqlalchemy import create_engine, and_
-from sqlalchemy.orm import sessionmaker
 # ---------------------------------------------------------------- #
 # yml files
 # ---------------------------------------------------------------- #
@@ -112,4 +108,4 @@ app.add_api('openapi.yaml', strict_validation=True, validate_responses=True)
 
 if __name__ == "__main__":
     init_scheduler()
-    app.run(port=8100)  
+    app.run(port=8100, host="0.0.0.0")  
