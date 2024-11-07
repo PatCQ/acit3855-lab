@@ -1,0 +1,142 @@
+openapi: 3.0.0
+servers: []
+info:
+  description: This API recieves data from connected smart devices
+  version: "1.0.0"
+  title: Smart Home API
+  contact:
+    email: pquach3@my.bcit.ca
+  license:
+    name: Apache 2.0
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+tags:
+  - name: devices
+    description: 'Operations available to connected smart devices'
+paths:
+  /values/energy_usage:  
+    get:
+      tags:
+        - devices
+      summary: 'gets a new reading on the total energy consumption'
+      operationId: app.get_energy_usage_readings
+      description: 'Gets energy usage reading added after a timestasmp'
+      parameters:
+        - name: start_timestamp
+          in: query
+          description: 'limits start time of recording'
+          schema:
+            type: string
+            example: "2024-10-10 20:00:41.526452"
+        - name: end_timestamp
+          in: query
+          description: 'limits end time of recording'
+          schema:
+            type: string
+            example: "2024-10-10 20:00:41.526452"
+      responses:
+        '200':
+          description: 'Successfully returned energy consumed'
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/EnergyUsage'
+        '400':
+          description: 'Invalid request'
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+          
+  /values/temperature_change:
+    get:
+      tags:
+        - devices
+      summary: 'get new readings on the temperature change'
+      operationId: app.get_temperature_change_readings
+      description: 'Gets temperature changes added after a timestasmp'
+      parameters:
+        - name: start_timestamp
+          in: query
+          description: 'limits start time of recording'
+          schema:
+            type: string
+            example: '2024-10-10 20:00:41.526452'
+        - name: end_timestamp
+          in: query
+          description: 'limits end time of recording'
+          schema:
+            type: string
+            example: '2024-10-10 20:00:41.526452'
+      responses:
+        '200':
+          description: 'Successfully returned temperature changes'
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/TemperatureChange'
+        '400':
+          description: 'Invalid request'
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+components:
+  schemas:
+    EnergyUsage:
+      type: object
+      required:
+        - device_id
+        - home_room
+        - energy_use
+        - timestamp_start
+        - timestamp_end
+      properties:
+        device_id:
+          type: string
+          format: uuid
+          example: "a152hrsx-5q23-1h56-41u7-b15457s4143"
+        home_room:
+          type: string
+          example: 'Living Room'
+        energy_use:
+          type: integer
+          example: 16120
+        timestamp_start:
+          type: string
+          example: '2024-10-10 16:12:46.046992'
+        timestamp_end:
+          type: string
+          example: '2024-10-10 16:12:46.046992'
+    
+    TemperatureChange:
+      type: object
+      required: 
+        - device_id
+        - home_room
+        - temperature
+        - timestamp
+      properties:
+        device_id:
+          type: string
+          format: uuid
+          example: "n876ryhq-5g99-7k67-33e9-u15736a9582"
+        home_room:
+          type: string
+          example: "Master Bedroom"
+        temperature:
+          type: integer
+          example: 24
+        timestamp:
+          type: string
+          example: '2024-10-10 16:12:46.046992'

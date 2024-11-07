@@ -1,0 +1,201 @@
+openapi: 3.0.0
+info:
+  title: Analyzer API
+  description: This API provides analyzer info
+  contact:
+    email: dtran71@my.bcit.ca
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  version: 1.0.0
+servers:
+  - url: /
+
+tags:
+  - name: marketplace
+    description: Operations available to the marketplace
+
+paths:
+  /item-listing:
+    get:
+      tags:
+        - marketplace
+      summary: Get item listings from history
+      description: "gets item listings from the event store"
+      operationId: app.get_item_listing_event
+      parameters:
+        - name: index
+          in: query
+          description: Gets the item_listing at that index from the event store
+          schema:
+            type: integer
+            example: 100
+      responses:
+        "200":
+          description: Successfully returned an item listing event
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ItemListingEvent"
+        "400":
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        "404":
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+  /transaction:
+    get:
+      tags:
+        - marketplace
+      summary: Get transactions from history
+      description: "gets transaction from the event store"
+      operationId: app.get_transaction_event
+      parameters:
+        - name: index
+          in: query
+          description: Gets the transaction at that index from the event store
+          schema:
+            type: integer
+            example: 100
+      responses:
+        "200":
+          description: Successfully returned an item listing event
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/TransactionEvent"
+        "400":
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        "404":
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+  /stats:
+    get:
+      summary: gets the event stats
+      operationId: app.get_event_stats
+      description: Gets the stats of the history events
+      responses:
+        "200":
+          description: Successfully returned a stats event
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Stats"
+components:
+  schemas:
+    ItemListingEvent:
+      required:
+        - user_id
+        - item_id
+        - price
+        - stock
+        - timestamp
+      type: object
+      properties:
+        user_id:
+          type: string
+          description: UUID of the user or device sending the event
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        item_id:
+          type: string
+          description: Unique identifier for the item
+          example: P12345
+        price:
+          type: number
+          description: Price of the product
+          format: float
+          example: 49.99
+        stock:
+          type: integer
+          description: Number of items available in stock
+          example: 100
+        timestamp:
+          type: string
+          description: Timestamp of when the event was created
+          example: 2024-09-12T10:12:33.001Z
+        trace_id:
+          type: string
+          description: UUID of the event
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+
+    TransactionEvent:
+      required:
+        - user_id
+        - transaction_id
+        - amount
+        - payment_status
+        - timestamp
+      type: object
+      properties:
+        user_id:
+          type: string
+          description: UUID of the user or device sending the event
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        transaction_id:
+          type: string
+          description: Unique identifier for the transaction
+          example: T98765
+        amount:
+          type: number
+          description: Transaction amount
+          format: float
+          example: 150
+        payment_status:
+          type: string
+          description: Status of the payment
+          example: completed
+          enum:
+            - pending
+            - completed
+            - failed
+        timestamp:
+          type: string
+          description: Timestamp of when the event was created
+          example: 2024-09-12T11:45:22.001Z
+        trace_id:
+          type: string
+          description: UUID of the event
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+
+    Stats:
+      required:
+        - num_item
+        - num_transactions
+      properties:
+        num_item:
+          type: integer
+          example: 100
+
+        num_transactions:
+          type: integer
+          example: 100

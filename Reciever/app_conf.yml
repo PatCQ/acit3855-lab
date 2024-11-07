@@ -1,0 +1,9 @@
+version: 1
+eventstore1:
+  url: http://localhost:8090/values/energy_usage
+eventstore2:
+  url: http://localhost:8090/values/temperature_change
+events:
+  hostname: acit3855-kafka.eastus2.cloudapp.azure.com
+  port: 9092
+  topic: events

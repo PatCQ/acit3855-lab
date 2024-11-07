@@ -1,0 +1,9 @@
+version: 1
+datastore:
+  filename: data.json
+scheduler:
+  period_sec: 5
+eventstore_energy:
+  url: http://localhost:8090/values/energy_usage
+eventstore_temperature:
+  url: http://localhost:8090/values/temperature_change

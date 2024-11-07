@@ -1,0 +1,1079 @@
+2024-10-03 10:39:10,239 - basicLogger - INFO - Stored event energy_usage request with a trace id of afbc550b-aef7-4f94-9c51-2b362c73cff8
+2024-10-03 10:39:10,424 - basicLogger - INFO - Stored event energy_usage request with a trace id of c013b411-9ebf-4d0f-aac6-b308cd6fe720
+2024-10-03 10:39:10,604 - basicLogger - INFO - Stored event energy_usage request with a trace id of 91e1fcbd-2a1b-4e4e-aafb-621542d2ae40
+2024-10-03 10:39:10,811 - basicLogger - INFO - Stored event energy_usage request with a trace id of d9d1fa11-60a5-4174-b1b3-397811e9672b
+2024-10-03 10:39:10,985 - basicLogger - INFO - Stored event energy_usage request with a trace id of 7ec54ae7-b167-4a46-8e81-491af351c2ec
+2024-10-03 10:39:12,316 - basicLogger - INFO - Stored event temperature_change request with a trace id of aa544474-5c73-4f4d-8fca-d0b587712c21
+2024-10-03 10:39:12,495 - basicLogger - INFO - Stored event temperature_change request with a trace id of d3f132b1-756b-4d4b-8d13-7801df758aba
+2024-10-03 10:39:12,668 - basicLogger - INFO - Stored event temperature_change request with a trace id of c573760b-572e-4664-92f4-d689f0855385
+2024-10-03 10:39:12,886 - basicLogger - INFO - Stored event temperature_change request with a trace id of a0ca4b44-7978-40ef-8dbd-46db1b4e4f38
+2024-10-03 10:39:13,072 - basicLogger - INFO - Stored event temperature_change request with a trace id of 6ed4d605-a1fc-41a4-8afc-c344751408bf
+2024-10-03 10:40:02,706 - basicLogger - INFO - Stored event temperature_change request with a trace id of 92aa077e-03bd-4e51-b107-a85c915ba3ec
+2024-10-03 10:40:02,924 - basicLogger - INFO - Stored event temperature_change request with a trace id of 1d94fffc-07c0-4f8d-9c5b-0abda3e6bc7a
+2024-10-03 10:40:03,109 - basicLogger - INFO - Stored event temperature_change request with a trace id of 5a373d12-fe26-4c23-b088-aedf9732bfde
+2024-10-03 10:40:03,327 - basicLogger - INFO - Stored event temperature_change request with a trace id of a2448546-ac82-40de-8c16-8c324f64f141
+2024-10-03 10:40:03,512 - basicLogger - INFO - Stored event temperature_change request with a trace id of 0d378f13-53a4-4d7c-9e2f-8fa9b8e38955
+2024-10-03 10:59:04,648 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 9509aeaf-8d3e-42d4-8a02-ee5f4d86c2e4
+2024-10-03 10:59:04,832 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of a69dd5eb-16ac-4eb1-be6d-32f610cfe110
+2024-10-03 10:59:05,029 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 8faa2b45-eed9-4e57-9ea4-0b99596ac2dc
+2024-10-03 10:59:05,235 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 7dc08aa1-c0be-4acc-a745-ea5eff5545cb
+2024-10-03 10:59:05,437 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 5f683950-3e53-41aa-9f4c-2cf3ad644f90
+2024-10-03 10:59:06,726 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of fea77d8f-79d1-41be-a455-c4e38eac09f8
+2024-10-03 10:59:06,895 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 7a7a3d1d-8d89-4332-acdd-06ebb65ada41
+2024-10-03 10:59:07,097 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 67df7ab8-5276-44c0-bc8e-ff72f1eeeae8
+2024-10-03 10:59:07,306 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of d7a9cbcb-5892-43a0-b9de-afad34e79f47
+2024-10-03 10:59:07,513 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 3175fbbe-3ad9-4305-93db-a14f15b4965a
+2024-10-03 11:02:54,278 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of c202fdbd-3b04-4fe7-812f-35501437b0c3
+2024-10-03 11:02:54,477 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 4e5a5fe8-d76b-40a3-8d5e-6222191366cf
+2024-10-03 11:02:54,679 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of c38ba460-285d-45cf-8442-5336b8cbee5f
+2024-10-03 11:02:54,879 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of fb2dc408-eebe-49b2-922e-37917e1009b5
+2024-10-03 11:02:55,077 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of fd1634bc-7914-4078-9a5b-03a3974a25d1
+2024-10-03 11:02:56,360 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 01ce7c9d-0670-4753-932f-cf982c78dd13
+2024-10-03 11:02:56,531 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 3153aaf6-4736-476c-a8ec-51cc7894b8b4
+2024-10-03 11:02:56,752 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 71f77250-1702-48a0-89e2-2d1cbe3e78a7
+2024-10-03 11:02:56,945 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 23497fe6-da6e-428e-b98e-44a7cc68c206
+2024-10-03 11:02:57,151 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of a1670be0-859b-4f5b-bfed-e997e0a6e9ea
+2024-10-03 11:02:58,491 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of b67fd24e-7728-4b1b-a092-e2135cb2ee80
+2024-10-03 11:02:58,607 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 9f363f09-d800-4755-82c0-6d992a411e95
+2024-10-03 11:02:58,834 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 591e9c85-c507-4cb3-9723-8682ba0fd2f1
+2024-10-03 11:02:59,019 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 3603e2fe-8407-44e7-aeba-beb0a34187c9
+2024-10-03 11:02:59,220 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of fb7e51d8-7ec7-4b0f-bca1-416abbafc174
+2024-10-03 11:03:00,575 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of cf8c22f0-6c4e-4746-b967-d753f504d82c
+2024-10-03 11:03:00,683 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 2e39fe01-e7d4-40ee-8944-6c9c1d10c1d2
+2024-10-03 11:03:00,914 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of a19fb2ea-09dc-4082-8d60-9b12d3b1ccb3
+2024-10-03 11:03:01,102 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 7cdc750e-1499-4e78-bc15-fb9f7faf94cc
+2024-10-03 11:03:01,304 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of e9c8a527-5fbe-453b-b9c6-657735a87cd2
+2024-10-03 11:03:02,654 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 4e500661-e2ec-41fb-9a2d-658e1f9303ac
+2024-10-03 11:03:02,760 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 37ad7472-6188-42fb-b7c7-6e6f247c7cdb
+2024-10-03 11:03:02,987 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 80119dc7-42f9-4b88-9c3c-50e9ec3d4e11
+2024-10-03 11:03:03,190 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 4a11b874-9954-4da3-8087-37d7e5e70c1b
+2024-10-03 11:03:03,390 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 1dae4e1a-a9d5-45c3-9eab-543086c8b6b1
+2024-10-03 11:03:04,723 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of fecc32df-c278-4ab4-90ce-c5e6ea55ee39
+2024-10-03 11:03:04,837 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 9ff0bf8a-969e-4aad-a302-5335ca2b3a0a
+2024-10-03 11:03:05,067 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 272c7cc0-720f-4312-b545-607ced8cd62c
+2024-10-03 11:03:05,273 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of deeaf7c7-00c1-499a-8f7c-c0329efb89fc
+2024-10-03 11:03:05,457 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 942c143b-128c-400c-988b-3a20bfa7a341
+2024-10-03 11:03:06,795 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of c6dacbfb-9e6f-4523-b4cb-adc194ce3adc
+2024-10-03 11:03:06,913 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 4731ed50-9a1b-4953-bc25-90f50e16734f
+2024-10-03 11:03:07,151 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 51e2c2d6-4edf-4342-a4cd-c247d4ae3e36
+2024-10-03 11:03:07,406 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 0d4c5439-409e-4cf0-9560-9e14f0b77009
+2024-10-03 11:03:07,510 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 59fa3ccc-998b-4366-b64d-5c28a4acf9eb
+2024-10-03 11:03:08,879 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of fa49d726-99e4-4391-86d9-39ba278aa214
+2024-10-03 11:03:08,988 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 681b7119-cdd0-4923-9c00-3deb5c673804
+2024-10-03 11:03:09,237 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of ce17f492-eb95-4454-af97-b51031a99996
+2024-10-03 11:03:09,460 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of fbddd7ef-95ec-4e94-8376-2bb0bea9d192
+2024-10-03 11:03:09,593 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of cad1eb25-3e31-4e50-a287-dc2d83780ddb
+2024-10-03 11:03:10,961 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of d302ec44-0319-44da-a150-73f48fc69f25
+2024-10-03 11:03:11,062 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of cf8d7fb5-9f6a-43c3-92ff-5c42ba8f3e8d
+2024-10-03 11:03:11,318 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of c60f8815-b108-44f8-b2a8-ed2bb0c9ad35
+2024-10-03 11:03:11,536 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of c6ade39b-3d92-4713-93cc-e2bf59d28c07
+2024-10-03 11:03:11,672 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 2be2ce9e-9180-4b5a-8af8-697e25bcdb2a
+2024-10-03 11:03:13,043 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 2ae622f1-4b72-4690-baf2-cf849bc2e3cc
+2024-10-03 11:03:13,142 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 0962ffbe-79bd-4c34-9e88-a812efbac650
+2024-10-03 11:03:13,408 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of ce38e0ba-f652-4bce-b2b6-58e17fc84732
+2024-10-03 11:03:13,627 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of fa96dce8-921e-489a-8ef6-c7d59975cf77
+2024-10-03 11:03:13,733 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of bb24a58e-8a51-4f50-9f20-0ea2323bd832
+2024-10-10 12:33:34,821 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of a93a338f-616e-4828-933f-03fc9dc7889b
+2024-10-10 12:33:35,256 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of ec9488f5-284d-426d-a446-c2a11384279e
+2024-10-10 12:33:36,914 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 1e93632d-c710-48aa-a892-def66e862b19
+2024-10-10 12:33:37,329 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 21230eed-d08f-4fe0-9cfa-317784fb4003
+2024-10-10 12:33:38,991 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 17b1370a-e8c8-41a0-bebf-26d09616448d
+2024-10-10 12:33:39,414 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 0f3cca98-cdc0-4306-8856-76ab36a1f746
+2024-10-10 12:33:41,033 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 27d41341-0c9e-449f-b5e2-5c371ca37418
+2024-10-10 12:33:41,472 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 3175257e-b235-4c6c-9457-3f3f7a12788c
+2024-10-10 12:33:43,082 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 78351447-17d7-4cbb-93d5-87c312f6cb9c
+2024-10-10 12:33:43,534 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 33d9c5df-b4c9-42be-b642-715e86d97c44
+2024-10-10 12:33:45,149 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 70d0b4d2-8b06-4ea8-90a0-55c85abe44ac
+2024-10-10 12:33:45,608 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 086f8809-a48a-44df-aaec-617df0181f47
+2024-10-10 12:33:47,210 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of cf4894f4-1b90-4964-a811-0099411b4a10
+2024-10-10 12:33:47,695 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of a09bc37c-4933-4eb9-a43a-5ee87b4ff8e0
+2024-10-10 12:33:49,276 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 4ecaffaf-5579-420e-9865-3efaa96ccb7e
+2024-10-10 12:33:49,764 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of b8970d4d-c1a6-4081-90bc-25348187e107
+2024-10-10 12:33:51,350 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of fe0a5145-35e5-439e-9503-5c0506340041
+2024-10-10 12:33:51,849 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of efa1d508-7b9e-4743-a570-dc3708da2c16
+2024-10-10 12:33:53,411 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of a9880454-7296-4cf3-a2de-b415ba7c74eb
+2024-10-10 12:33:53,924 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 7b27a6b6-4d3f-4d34-bdee-d286b52dc720
+2024-10-10 12:33:55,491 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 67af838e-3cb0-4b67-b61b-851e312b88e4
+2024-10-10 12:33:56,010 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 0b9723d0-d4d1-43ef-aff9-7abc4aada98d
+2024-10-10 12:33:57,553 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of d80ab66c-828e-4939-8fa5-4786942c171d
+2024-10-10 12:33:58,078 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 003f82dc-0946-4fff-a66b-2c5af93d06bb
+2024-10-10 12:33:59,633 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of ca3edc01-0910-47d3-b61e-67c0aa9e27cd
+2024-10-10 12:34:00,167 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of d8612285-8472-49f5-8ed0-09f8adeb22c3
+2024-10-10 12:34:01,680 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of e84e5d7b-f2b7-4a9c-8a88-21a2f726ead4
+2024-10-10 12:34:02,211 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of de28ba97-cf67-4a04-b28f-19256a21f94f
+2024-10-10 12:34:03,755 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 3bc4210d-ebae-48f6-bea0-c292010c82b1
+2024-10-10 12:34:04,283 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 3115c7b0-06eb-4be1-8f6e-4c64e46fc862
+2024-10-10 12:34:05,798 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 1e59d6ee-bf3f-4456-9950-ef7ec5c2c0f2
+2024-10-10 12:34:06,326 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 065e072c-faf8-4125-93cd-a165732f17a4
+2024-10-10 12:34:07,837 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 57af4c24-e957-4dc2-a37d-bd558f56cf8e
+2024-10-10 12:34:08,397 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of f8c993d5-d7dd-47f6-9462-1809ba4560ef
+2024-10-10 12:34:09,924 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of b2bbd9e2-cd2d-4b80-8b0b-d434df68be97
+2024-10-10 12:34:10,488 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 14392913-c4af-47b4-beb8-39cc49522274
+2024-10-10 12:34:11,975 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of ed73c2ec-ea50-4edc-971c-285931997bda
+2024-10-10 12:34:12,567 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 898fe320-d573-402b-98cb-24951322d76b
+2024-10-10 12:34:14,058 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 1a6ccb9a-962a-4187-b607-42b781fdb330
+2024-10-10 12:34:14,655 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of fe596783-28b5-445b-b409-fb9288d4e39a
+2024-10-10 16:12:04,561 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 8070691f-091c-4885-834e-870e3285919f
+2024-10-10 16:12:04,564 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 9e28e156-86bf-4660-a6e8-656e817c68e8
+2024-10-10 16:12:04,654 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of f0194f4c-52cd-486f-a748-b14ae1b852bf
+2024-10-10 16:12:04,857 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 86d6b884-5d79-4597-a21c-b35ff21aa6df
+2024-10-10 16:12:05,058 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 0ba10156-c869-4311-a116-54e52e88d0c6
+2024-10-10 16:12:06,672 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 6b7d4a36-aff2-4aee-9dc8-07ade3210b9b
+2024-10-10 16:12:06,675 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 1feec26b-3920-411b-aca0-dcf9d42b387d
+2024-10-10 16:12:06,720 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 65265fec-5f47-4072-829e-34b09011b5b8
+2024-10-10 16:12:06,926 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 9c729fcf-df9f-46e2-84c3-40a7f4a26619
+2024-10-10 16:12:07,149 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of fb71e5a3-fcd3-4d63-a7ce-96371f36c7c5
+2024-10-10 16:12:08,771 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of f6ffbb3d-1717-4646-a189-c96724c5eddc
+2024-10-10 16:12:08,771 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 68d498c3-a16a-4e0b-aefe-056769c7a39e
+2024-10-10 16:12:08,794 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of a57c815b-20c0-4e90-998d-5624d7677b40
+2024-10-10 16:12:08,999 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of e51fd196-b482-49ca-b7df-593a4c2a980b
+2024-10-10 16:12:09,231 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of f1b9d7d3-eb53-4887-8c16-eacaf99745f1
+2024-10-10 16:12:10,871 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of b1fa1a77-881d-4ce1-9b53-3f02b68cf646
+2024-10-10 16:12:10,873 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 2fa25421-da6f-40a6-bb63-311383a4bc84
+2024-10-10 16:12:10,891 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 22891dbd-c4c7-4127-ac17-3c3c8dd55ba0
+2024-10-10 16:12:11,066 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 88265cc8-5737-4683-a4ed-64883660e8c0
+2024-10-10 16:12:11,299 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of d761a7b3-e36b-4c3b-a066-7fbb4a7d6114
+2024-10-10 16:12:12,944 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 109e6a7d-c6e1-4f53-84de-ef475792ca75
+2024-10-10 16:12:12,945 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 3fe94a3c-0812-49f2-a779-d16f4f85b537
+2024-10-10 16:12:12,954 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 457c53f9-9da7-46d8-b7ff-482932f41fed
+2024-10-10 16:12:13,158 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 27b1f07f-3586-4d19-810b-5354acae20ec
+2024-10-10 16:12:13,373 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 07dbad28-5868-4373-9f7a-cb47c004befb
+2024-10-10 16:12:15,034 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 28f96fab-27a1-4e80-9b0f-f247fea027e0
+2024-10-10 16:12:15,035 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of b8ddfc1a-4bf0-4924-8ecc-4bb33b989ba8
+2024-10-10 16:12:15,035 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of f5445942-61ab-4ed2-88b3-ce3e8f2f4bbc
+2024-10-10 16:12:15,229 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 4b548dd2-edba-4e6d-8691-fc85c3ffda75
+2024-10-10 16:12:15,446 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 22d9f444-e1f1-4b37-bae3-1b438f8f1682
+2024-10-10 16:12:17,119 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 5f5a096f-fa1f-4aec-ac7d-8fd2ca5421a1
+2024-10-10 16:12:17,125 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 927939dd-ce31-4b71-bece-e0f6128355f6
+2024-10-10 16:12:17,131 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 4ec90982-d8cd-464f-981d-7e8a97f51616
+2024-10-10 16:12:17,320 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of e1246ca3-cac8-459a-bbfe-15e9a48dde9f
+2024-10-10 16:12:17,519 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 1a4c3eb3-6933-4d35-b2d4-e653e6884f3d
+2024-10-10 16:12:19,172 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 63c324e8-3235-43c9-93bb-63c7de5cf301
+2024-10-10 16:12:19,208 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 7663232c-3bd0-4ae0-9014-5821612880bd
+2024-10-10 16:12:19,212 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of c458510f-b265-4950-8903-6d8ee3ba67fb
+2024-10-10 16:12:19,389 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 60cd2c26-443e-4b94-aa8b-cc78f88c1f64
+2024-10-10 16:12:19,604 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 53cc3388-281f-4ad6-8c52-b1797ef759ac
+2024-10-10 16:12:21,244 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of db62b92e-5fbd-409b-a986-fa5100723f67
+2024-10-10 16:12:21,295 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 0655aa6d-d7bf-46ad-871a-244513f8e0f6
+2024-10-10 16:12:21,296 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of bbb63a16-20b7-4e02-bde2-7124e041fe03
+2024-10-10 16:12:21,463 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 24516957-2bc5-4bae-a300-b04efcb97518
+2024-10-10 16:12:21,700 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 1d4de011-0169-4a6c-8d2f-45487242b903
+2024-10-10 16:12:23,306 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 0034178a-cc09-449c-b240-f5ca3b707919
+2024-10-10 16:12:23,371 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 9996cf5e-032f-4b0f-9ad7-be471e7a3239
+2024-10-10 16:12:23,374 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 403f9210-37e6-44b6-9ed8-6e8bcce93ec8
+2024-10-10 16:12:23,538 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of c62f5fbe-b55c-48ce-92ce-20adcb60c04f
+2024-10-10 16:12:23,772 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of a9cee9db-a9e8-4760-99d3-76c43508921e
+2024-10-10 16:33:57,540 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:33:59,685 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:34:02,484 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:34:04,542 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:35:05,450 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:35:07,552 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:35:10,395 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:35:12,456 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:39:22,156 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:39:24,220 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:39:27,150 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:39:29,224 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:46:22,937 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:46:24,993 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:46:27,917 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:46:29,992 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:46:32,922 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:46:34,984 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:46:37,921 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:46:39,990 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:46:42,927 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:46:44,992 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:46:47,904 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:46:49,949 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:54:39,418 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:54:41,470 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:54:44,399 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:54:46,454 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:54:49,371 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:54:51,426 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:54:54,376 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:54:56,425 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:54:59,398 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:55:01,470 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:55:04,395 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:55:06,460 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:55:09,389 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:55:11,452 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:55:14,398 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:55:16,458 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:55:19,396 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:55:21,459 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:55:24,376 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:55:26,431 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:55:29,413 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:55:31,465 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:55:34,389 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:55:36,452 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:57:18,892 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:57:20,939 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:57:23,886 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:57:25,934 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 16:57:28,874 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 13:00:41.526452 returns 0 results
+2024-10-10 16:57:30,933 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 13:00:41.526452 returns 25 results
+2024-10-10 17:02:22,574 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:15.223319 returns 0 results
+2024-10-10 17:02:24,635 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:15.223319 returns 12 results
+2024-10-10 17:02:27,515 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:15.223319 returns 0 results
+2024-10-10 17:02:29,588 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:15.223319 returns 12 results
+2024-10-10 17:02:32,510 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:15.223319 returns 0 results
+2024-10-10 17:02:34,568 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:15.223319 returns 12 results
+2024-10-10 17:02:37,541 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:15.223319 returns 0 results
+2024-10-10 17:02:39,614 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:15.223319 returns 12 results
+2024-10-10 17:02:42,531 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:15.223319 returns 0 results
+2024-10-10 17:02:44,582 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:15.223319 returns 12 results
+2024-10-10 17:04:18,591 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 0 results
+2024-10-10 17:04:20,667 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:04:23,607 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 0 results
+2024-10-10 17:04:25,675 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:04:28,620 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 0 results
+2024-10-10 17:04:30,674 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:07:12,155 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 0 results
+2024-10-10 17:07:14,192 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:07:17,147 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 0 results
+2024-10-10 17:07:19,216 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:07:22,152 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 0 results
+2024-10-10 17:07:24,213 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:07:27,143 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 0 results
+2024-10-10 17:07:29,202 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:07:32,137 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 0 results
+2024-10-10 17:07:34,205 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:10:25,320 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 0 results
+2024-10-10 17:10:27,391 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:10:30,333 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 0 results
+2024-10-10 17:10:32,385 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:10:52,384 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:10:52,385 - basicLogger - DEBUG - 2024-10-10 17:10:50.310209 energy
+2024-10-10 17:10:52,390 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 0 results
+2024-10-10 17:10:54,641 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:10:57,356 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:10:57,358 - basicLogger - DEBUG - 2024-10-10 17:10:55.306900 energy
+2024-10-10 17:10:57,359 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 0 results
+2024-10-10 17:10:59,509 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:11:02,346 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:11:02,347 - basicLogger - DEBUG - 2024-10-10 17:11:00.300475 energy
+2024-10-10 17:11:02,348 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 0 results
+2024-10-10 17:11:04,437 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:13:05,138 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:13:05,138 - basicLogger - DEBUG - 2024-10-10 17:13:03.058896 energy
+2024-10-10 17:13:05,157 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:13:07,201 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:13:07,201 - basicLogger - DEBUG - 2024-10-10 17:13:03.058896 temp
+2024-10-10 17:13:07,207 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:13:10,103 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:13:10,104 - basicLogger - DEBUG - 2024-10-10 17:13:08.055932 energy
+2024-10-10 17:13:10,110 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:13:12,172 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:13:12,173 - basicLogger - DEBUG - 2024-10-10 17:13:08.055932 temp
+2024-10-10 17:13:12,179 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:13:15,103 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:13:15,103 - basicLogger - DEBUG - 2024-10-10 17:13:13.049684 energy
+2024-10-10 17:13:15,106 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:13:17,177 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:13:17,178 - basicLogger - DEBUG - 2024-10-10 17:13:13.049684 temp
+2024-10-10 17:13:17,185 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:13:20,098 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:13:20,099 - basicLogger - DEBUG - 2024-10-10 17:13:18.043717 energy
+2024-10-10 17:13:20,105 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:13:22,158 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:13:22,159 - basicLogger - DEBUG - 2024-10-10 17:13:18.043717 temp
+2024-10-10 17:13:22,166 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:17:12,730 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:17:12,731 - basicLogger - DEBUG - 2024-10-10 17:17:10.650694 energy
+2024-10-10 17:17:12,737 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:17:14,791 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:17:14,792 - basicLogger - DEBUG - 2024-10-10 17:17:10.650694 temp
+2024-10-10 17:17:14,798 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:17:17,704 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:17:17,705 - basicLogger - DEBUG - 2024-10-10 17:17:15.639177 energy
+2024-10-10 17:17:17,710 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:17:19,771 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:17:19,771 - basicLogger - DEBUG - 2024-10-10 17:17:15.639177 temp
+2024-10-10 17:17:19,775 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:17:22,674 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:17:22,675 - basicLogger - DEBUG - 2024-10-10 17:17:20.642035 energy
+2024-10-10 17:17:22,678 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:17:24,706 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:17:24,706 - basicLogger - DEBUG - 2024-10-10 17:17:20.642035 temp
+2024-10-10 17:17:24,711 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:17:27,687 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:17:27,687 - basicLogger - DEBUG - 2024-10-10 17:17:25.646073 energy
+2024-10-10 17:17:27,691 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:17:29,712 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:17:29,713 - basicLogger - DEBUG - 2024-10-10 17:17:25.646073 temp
+2024-10-10 17:17:29,716 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:17:32,654 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:17:32,654 - basicLogger - DEBUG - 2024-10-10 17:17:30.639307 energy
+2024-10-10 17:17:32,658 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:17:34,696 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:17:34,697 - basicLogger - DEBUG - 2024-10-10 17:17:30.639307 temp
+2024-10-10 17:17:34,704 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:17:37,658 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:17:37,659 - basicLogger - DEBUG - 2024-10-10 17:17:35.644504 energy
+2024-10-10 17:17:37,662 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:17:39,687 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:17:39,687 - basicLogger - DEBUG - 2024-10-10 17:17:35.644504 temp
+2024-10-10 17:17:39,690 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:18:16,156 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:18:16,157 - basicLogger - DEBUG - 2024-10-10 17:18:14.081304 energy
+2024-10-10 17:18:16,162 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:18:18,230 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:18:18,230 - basicLogger - DEBUG - 2024-10-10 17:18:14.081304 temp
+2024-10-10 17:18:18,236 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:18:21,131 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:18:21,132 - basicLogger - DEBUG - 2024-10-10 17:18:19.080330 energy
+2024-10-10 17:18:21,138 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:18:23,175 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:18:23,175 - basicLogger - DEBUG - 2024-10-10 17:18:19.080330 temp
+2024-10-10 17:18:23,181 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:18:26,146 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:18:26,147 - basicLogger - DEBUG - 2024-10-10 17:18:24.082418 energy
+2024-10-10 17:18:26,153 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:18:28,205 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:18:28,205 - basicLogger - DEBUG - 2024-10-10 17:18:24.082418 temp
+2024-10-10 17:18:28,208 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:18:31,149 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:18:31,150 - basicLogger - DEBUG - 2024-10-10 17:18:29.086950 energy
+2024-10-10 17:18:31,155 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:18:33,218 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:18:33,219 - basicLogger - DEBUG - 2024-10-10 17:18:29.086950 temp
+2024-10-10 17:18:33,226 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:21:24,585 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:21:24,586 - basicLogger - DEBUG - 2024-10-10 17:21:22.507032 energy
+2024-10-10 17:21:24,592 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:21:26,637 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:21:26,637 - basicLogger - DEBUG - 2024-10-10 17:21:22.507032 temp
+2024-10-10 17:21:26,641 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:21:29,563 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:21:29,564 - basicLogger - DEBUG - 2024-10-10 17:21:27.508279 energy
+2024-10-10 17:21:29,569 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:21:31,632 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:21:31,632 - basicLogger - DEBUG - 2024-10-10 17:21:27.508279 temp
+2024-10-10 17:21:31,636 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:21:34,576 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:21:34,576 - basicLogger - DEBUG - 2024-10-10 17:21:32.512199 energy
+2024-10-10 17:21:34,582 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:21:36,639 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:21:36,639 - basicLogger - DEBUG - 2024-10-10 17:21:32.512199 temp
+2024-10-10 17:21:36,642 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:21:39,557 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:21:39,557 - basicLogger - DEBUG - 2024-10-10 17:21:37.513274 energy
+2024-10-10 17:21:39,562 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:21:41,616 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:21:41,617 - basicLogger - DEBUG - 2024-10-10 17:21:37.513274 temp
+2024-10-10 17:21:41,622 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:23:34,634 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:23:34,635 - basicLogger - DEBUG - 2024-10-10 17:23:32.557513 energy
+2024-10-10 17:23:34,642 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:23:36,714 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:23:36,715 - basicLogger - DEBUG - 2024-10-10 17:23:32.557513 temp
+2024-10-10 17:23:36,721 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:23:39,609 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:23:39,610 - basicLogger - DEBUG - 2024-10-10 17:23:37.548106 energy
+2024-10-10 17:23:39,615 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:23:41,663 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:23:41,664 - basicLogger - DEBUG - 2024-10-10 17:23:37.548106 temp
+2024-10-10 17:23:41,668 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:25:36,713 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:25:36,714 - basicLogger - DEBUG - 2024-10-10 17:25:34.682095 energy
+2024-10-10 17:25:36,716 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:25:38,757 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:25:38,757 - basicLogger - DEBUG - 2024-10-10 17:25:34.682095 temp
+2024-10-10 17:25:38,760 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:25:41,729 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:25:41,729 - basicLogger - DEBUG - 2024-10-10 17:25:39.676791 energy
+2024-10-10 17:25:41,731 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:25:43,774 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:25:43,774 - basicLogger - DEBUG - 2024-10-10 17:25:39.676791 temp
+2024-10-10 17:25:43,778 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:25:46,730 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:25:46,730 - basicLogger - DEBUG - 2024-10-10 17:25:44.673733 energy
+2024-10-10 17:25:46,733 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:25:48,759 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:25:48,760 - basicLogger - DEBUG - 2024-10-10 17:25:44.673733 temp
+2024-10-10 17:25:48,763 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:27:30,143 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:27:30,144 - basicLogger - DEBUG - 2024-10-10 17:27:28.085024 energy
+2024-10-10 17:27:30,147 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:27:32,194 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:27:32,194 - basicLogger - DEBUG - 2024-10-10 17:27:28.085024 temp
+2024-10-10 17:27:32,198 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:27:35,101 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:27:35,101 - basicLogger - DEBUG - 2024-10-10 17:27:33.078224 energy
+2024-10-10 17:27:35,106 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:27:37,168 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:27:37,168 - basicLogger - DEBUG - 2024-10-10 17:27:33.078224 temp
+2024-10-10 17:27:37,171 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:27:40,144 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 energy
+2024-10-10 17:27:40,145 - basicLogger - DEBUG - 2024-10-10 17:27:38.082968 energy
+2024-10-10 17:27:40,146 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 16:12:13.148662 returns 12 results
+2024-10-10 17:27:42,209 - basicLogger - DEBUG - 2024-10-10 16:12:13.148662 temp
+2024-10-10 17:27:42,210 - basicLogger - DEBUG - 2024-10-10 17:27:38.082968 temp
+2024-10-10 17:27:42,212 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 16:12:13.148662 returns 15 results
+2024-10-10 17:29:51,054 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-10 17:29:51,054 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-10 17:29:51,057 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-10 17:29:53,102 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-10 17:29:53,103 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-10 17:29:53,105 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-10 17:29:56,046 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-10 17:29:56,047 - basicLogger - DEBUG - 2024-10-10 17:29:53.990458 energy
+2024-10-10 17:29:56,049 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-10 17:29:58,104 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-10 17:29:58,104 - basicLogger - DEBUG - 2024-10-10 17:29:53.990458 temp
+2024-10-10 17:29:58,107 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-10 17:30:01,025 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-10 17:30:01,025 - basicLogger - DEBUG - 2024-10-10 17:29:58.988393 energy
+2024-10-10 17:30:01,028 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-10 17:30:03,061 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-10 17:30:03,062 - basicLogger - DEBUG - 2024-10-10 17:29:58.988393 temp
+2024-10-10 17:30:03,064 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:16:14,901 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:16:14,904 - basicLogger - DEBUG - 2024-10-17 08:16:12.815060 energy
+2024-10-17 08:16:17,330 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:16:17,331 - basicLogger - DEBUG - 2024-10-17 08:16:12.815060 temp
+2024-10-17 08:16:19,844 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:16:19,845 - basicLogger - DEBUG - 2024-10-17 08:16:17.825682 energy
+2024-10-17 08:16:21,947 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:16:21,948 - basicLogger - DEBUG - 2024-10-17 08:16:17.825682 temp
+2024-10-17 08:16:24,867 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:16:24,868 - basicLogger - DEBUG - 2024-10-17 08:16:22.812785 energy
+2024-10-17 08:16:26,978 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:16:26,979 - basicLogger - DEBUG - 2024-10-17 08:16:22.812785 temp
+2024-10-17 08:16:29,862 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:16:29,863 - basicLogger - DEBUG - 2024-10-17 08:16:27.822506 energy
+2024-10-17 08:16:31,962 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:16:31,963 - basicLogger - DEBUG - 2024-10-17 08:16:27.822506 temp
+2024-10-17 08:16:34,883 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:16:34,884 - basicLogger - DEBUG - 2024-10-17 08:16:32.823940 energy
+2024-10-17 08:16:36,971 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:16:36,972 - basicLogger - DEBUG - 2024-10-17 08:16:32.823940 temp
+2024-10-17 08:16:39,886 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:16:39,887 - basicLogger - DEBUG - 2024-10-17 08:16:37.822925 energy
+2024-10-17 08:16:42,020 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:16:42,020 - basicLogger - DEBUG - 2024-10-17 08:16:37.822925 temp
+2024-10-17 08:16:44,859 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:16:44,859 - basicLogger - DEBUG - 2024-10-17 08:16:42.812617 energy
+2024-10-17 08:16:46,907 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:16:46,907 - basicLogger - DEBUG - 2024-10-17 08:16:42.812617 temp
+2024-10-17 08:16:49,876 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:16:49,877 - basicLogger - DEBUG - 2024-10-17 08:16:47.814140 energy
+2024-10-17 08:16:51,994 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:16:51,995 - basicLogger - DEBUG - 2024-10-17 08:16:47.814140 temp
+2024-10-17 08:16:54,863 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:16:54,864 - basicLogger - DEBUG - 2024-10-17 08:16:52.812457 energy
+2024-10-17 08:16:56,962 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:16:56,962 - basicLogger - DEBUG - 2024-10-17 08:16:52.812457 temp
+2024-10-17 08:16:59,865 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:16:59,866 - basicLogger - DEBUG - 2024-10-17 08:16:57.816080 energy
+2024-10-17 08:17:01,987 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:17:01,987 - basicLogger - DEBUG - 2024-10-17 08:16:57.816080 temp
+2024-10-17 08:17:04,877 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:17:04,878 - basicLogger - DEBUG - 2024-10-17 08:17:02.819077 energy
+2024-10-17 08:17:06,978 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:17:06,978 - basicLogger - DEBUG - 2024-10-17 08:17:02.819077 temp
+2024-10-17 08:17:09,861 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:17:09,862 - basicLogger - DEBUG - 2024-10-17 08:17:07.812539 energy
+2024-10-17 08:17:11,974 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:17:11,975 - basicLogger - DEBUG - 2024-10-17 08:17:07.812539 temp
+2024-10-17 08:17:14,870 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:17:14,871 - basicLogger - DEBUG - 2024-10-17 08:17:12.809514 energy
+2024-10-17 08:17:16,975 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:17:16,976 - basicLogger - DEBUG - 2024-10-17 08:17:12.809514 temp
+2024-10-17 08:17:19,883 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:17:19,883 - basicLogger - DEBUG - 2024-10-17 08:17:17.822760 energy
+2024-10-17 08:17:21,987 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:17:21,988 - basicLogger - DEBUG - 2024-10-17 08:17:17.822760 temp
+2024-10-17 08:17:24,842 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:17:24,843 - basicLogger - DEBUG - 2024-10-17 08:17:22.811066 energy
+2024-10-17 08:17:26,924 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:17:26,925 - basicLogger - DEBUG - 2024-10-17 08:17:22.811066 temp
+2024-10-17 08:17:29,859 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:17:29,860 - basicLogger - DEBUG - 2024-10-17 08:17:27.809427 energy
+2024-10-17 08:17:31,959 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:17:31,959 - basicLogger - DEBUG - 2024-10-17 08:17:27.809427 temp
+2024-10-17 08:17:34,883 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:17:34,884 - basicLogger - DEBUG - 2024-10-17 08:17:32.821697 energy
+2024-10-17 08:17:36,996 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:17:36,996 - basicLogger - DEBUG - 2024-10-17 08:17:32.821697 temp
+2024-10-17 08:17:39,866 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:17:39,867 - basicLogger - DEBUG - 2024-10-17 08:17:37.813471 energy
+2024-10-17 08:17:41,973 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:17:41,974 - basicLogger - DEBUG - 2024-10-17 08:17:37.813471 temp
+2024-10-17 08:17:44,876 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:17:44,876 - basicLogger - DEBUG - 2024-10-17 08:17:42.818118 energy
+2024-10-17 08:17:46,984 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:17:46,985 - basicLogger - DEBUG - 2024-10-17 08:17:42.818118 temp
+2024-10-17 08:17:49,861 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:17:49,862 - basicLogger - DEBUG - 2024-10-17 08:17:47.813092 energy
+2024-10-17 08:17:51,934 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:17:51,935 - basicLogger - DEBUG - 2024-10-17 08:17:47.813092 temp
+2024-10-17 08:17:54,869 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:17:54,869 - basicLogger - DEBUG - 2024-10-17 08:17:52.818933 energy
+2024-10-17 08:17:56,938 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:17:56,938 - basicLogger - DEBUG - 2024-10-17 08:17:52.818933 temp
+2024-10-17 08:17:59,850 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:17:59,851 - basicLogger - DEBUG - 2024-10-17 08:17:57.811792 energy
+2024-10-17 08:18:01,970 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:18:01,971 - basicLogger - DEBUG - 2024-10-17 08:17:57.811792 temp
+2024-10-17 08:18:04,870 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:18:04,871 - basicLogger - DEBUG - 2024-10-17 08:18:02.822461 energy
+2024-10-17 08:18:06,957 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:18:06,958 - basicLogger - DEBUG - 2024-10-17 08:18:02.822461 temp
+2024-10-17 08:18:09,871 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:18:09,872 - basicLogger - DEBUG - 2024-10-17 08:18:07.817596 energy
+2024-10-17 08:18:11,911 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:18:11,912 - basicLogger - DEBUG - 2024-10-17 08:18:07.817596 temp
+2024-10-17 08:18:14,846 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:18:14,846 - basicLogger - DEBUG - 2024-10-17 08:18:12.811299 energy
+2024-10-17 08:18:16,944 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:18:16,945 - basicLogger - DEBUG - 2024-10-17 08:18:12.811299 temp
+2024-10-17 08:18:19,870 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:18:19,870 - basicLogger - DEBUG - 2024-10-17 08:18:17.814291 energy
+2024-10-17 08:18:21,983 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:18:21,983 - basicLogger - DEBUG - 2024-10-17 08:18:17.814291 temp
+2024-10-17 08:18:24,868 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:18:24,869 - basicLogger - DEBUG - 2024-10-17 08:18:22.820649 energy
+2024-10-17 08:18:26,948 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:18:26,949 - basicLogger - DEBUG - 2024-10-17 08:18:22.820649 temp
+2024-10-17 08:18:29,859 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:18:29,860 - basicLogger - DEBUG - 2024-10-17 08:18:27.814033 energy
+2024-10-17 08:18:31,946 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:18:31,946 - basicLogger - DEBUG - 2024-10-17 08:18:27.814033 temp
+2024-10-17 08:18:34,869 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:18:34,870 - basicLogger - DEBUG - 2024-10-17 08:18:32.809360 energy
+2024-10-17 08:18:36,969 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:18:36,970 - basicLogger - DEBUG - 2024-10-17 08:18:32.809360 temp
+2024-10-17 08:18:39,844 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:18:39,845 - basicLogger - DEBUG - 2024-10-17 08:18:37.811569 energy
+2024-10-17 08:18:41,923 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:18:41,923 - basicLogger - DEBUG - 2024-10-17 08:18:37.811569 temp
+2024-10-17 08:18:44,881 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:18:44,881 - basicLogger - DEBUG - 2024-10-17 08:18:42.817886 energy
+2024-10-17 08:18:46,991 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:18:46,991 - basicLogger - DEBUG - 2024-10-17 08:18:42.817886 temp
+2024-10-17 08:18:49,894 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:18:49,895 - basicLogger - DEBUG - 2024-10-17 08:18:47.832282 energy
+2024-10-17 08:18:51,985 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:18:51,985 - basicLogger - DEBUG - 2024-10-17 08:18:47.832282 temp
+2024-10-17 08:19:02,061 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:19:02,061 - basicLogger - DEBUG - 2024-10-17 08:19:00.022505 energy
+2024-10-17 08:19:04,140 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:19:04,141 - basicLogger - DEBUG - 2024-10-17 08:19:00.022505 temp
+2024-10-17 08:19:07,073 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:19:07,073 - basicLogger - DEBUG - 2024-10-17 08:19:05.021164 energy
+2024-10-17 08:19:09,162 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:19:09,163 - basicLogger - DEBUG - 2024-10-17 08:19:05.021164 temp
+2024-10-17 08:19:12,064 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:19:12,065 - basicLogger - DEBUG - 2024-10-17 08:19:10.028715 energy
+2024-10-17 08:19:14,178 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:19:14,178 - basicLogger - DEBUG - 2024-10-17 08:19:10.028715 temp
+2024-10-17 08:19:17,083 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:19:17,084 - basicLogger - DEBUG - 2024-10-17 08:19:15.031623 energy
+2024-10-17 08:19:19,177 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:19:19,178 - basicLogger - DEBUG - 2024-10-17 08:19:15.031623 temp
+2024-10-17 08:19:22,068 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:19:22,069 - basicLogger - DEBUG - 2024-10-17 08:19:20.025407 energy
+2024-10-17 08:19:24,157 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:19:24,158 - basicLogger - DEBUG - 2024-10-17 08:19:20.025407 temp
+2024-10-17 08:19:27,089 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:19:27,090 - basicLogger - DEBUG - 2024-10-17 08:19:25.026977 energy
+2024-10-17 08:19:29,178 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:19:29,179 - basicLogger - DEBUG - 2024-10-17 08:19:25.026977 temp
+2024-10-17 08:19:32,082 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:19:32,083 - basicLogger - DEBUG - 2024-10-17 08:19:30.027577 energy
+2024-10-17 08:19:34,202 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:19:34,203 - basicLogger - DEBUG - 2024-10-17 08:19:30.027577 temp
+2024-10-17 08:23:28,615 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:23:28,616 - basicLogger - DEBUG - 2024-10-17 08:23:26.522226 energy
+2024-10-17 08:23:30,764 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:23:30,764 - basicLogger - DEBUG - 2024-10-17 08:23:26.522226 temp
+2024-10-17 08:23:33,567 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:23:33,568 - basicLogger - DEBUG - 2024-10-17 08:23:31.519362 energy
+2024-10-17 08:23:35,673 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:23:35,673 - basicLogger - DEBUG - 2024-10-17 08:23:31.519362 temp
+2024-10-17 08:23:38,557 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:23:38,558 - basicLogger - DEBUG - 2024-10-17 08:23:36.521001 energy
+2024-10-17 08:23:40,662 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:23:40,662 - basicLogger - DEBUG - 2024-10-17 08:23:36.521001 temp
+2024-10-17 08:24:16,861 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:24:16,862 - basicLogger - DEBUG - 2024-10-17 08:24:14.798005 energy
+2024-10-17 08:24:16,984 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:24:19,052 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:24:19,053 - basicLogger - DEBUG - 2024-10-17 08:24:14.798005 temp
+2024-10-17 08:24:19,068 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:24:21,836 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:24:21,836 - basicLogger - DEBUG - 2024-10-17 08:24:19.774626 energy
+2024-10-17 08:24:21,842 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:24:23,901 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:24:23,902 - basicLogger - DEBUG - 2024-10-17 08:24:19.774626 temp
+2024-10-17 08:24:23,907 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:24:26,825 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:24:26,826 - basicLogger - DEBUG - 2024-10-17 08:24:24.765106 energy
+2024-10-17 08:24:26,832 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:24:28,878 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:24:28,878 - basicLogger - DEBUG - 2024-10-17 08:24:24.765106 temp
+2024-10-17 08:24:28,881 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:24:31,825 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:24:31,826 - basicLogger - DEBUG - 2024-10-17 08:24:29.764876 energy
+2024-10-17 08:24:31,832 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:24:33,883 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:24:33,884 - basicLogger - DEBUG - 2024-10-17 08:24:29.764876 temp
+2024-10-17 08:24:33,888 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:24:36,843 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:24:36,844 - basicLogger - DEBUG - 2024-10-17 08:24:34.779105 energy
+2024-10-17 08:24:36,849 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:24:38,910 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:24:38,911 - basicLogger - DEBUG - 2024-10-17 08:24:34.779105 temp
+2024-10-17 08:24:38,916 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:24:41,832 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:24:41,833 - basicLogger - DEBUG - 2024-10-17 08:24:39.773988 energy
+2024-10-17 08:24:41,836 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:24:43,894 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:24:43,895 - basicLogger - DEBUG - 2024-10-17 08:24:39.773988 temp
+2024-10-17 08:24:43,900 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:24:46,826 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:24:46,827 - basicLogger - DEBUG - 2024-10-17 08:24:44.775969 energy
+2024-10-17 08:24:46,831 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:24:48,867 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:24:48,867 - basicLogger - DEBUG - 2024-10-17 08:24:44.775969 temp
+2024-10-17 08:24:48,869 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:24:51,824 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:24:51,824 - basicLogger - DEBUG - 2024-10-17 08:24:49.767862 energy
+2024-10-17 08:24:51,832 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:24:53,875 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:24:53,876 - basicLogger - DEBUG - 2024-10-17 08:24:49.767862 temp
+2024-10-17 08:24:53,881 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:27:14,490 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:27:14,491 - basicLogger - DEBUG - 2024-10-17 08:27:12.389835 energy
+2024-10-17 08:27:14,531 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:27:16,574 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:27:16,575 - basicLogger - DEBUG - 2024-10-17 08:27:12.389835 temp
+2024-10-17 08:27:16,583 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:27:19,432 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:27:19,433 - basicLogger - DEBUG - 2024-10-17 08:27:17.390420 energy
+2024-10-17 08:27:19,437 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:27:21,497 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:27:21,498 - basicLogger - DEBUG - 2024-10-17 08:27:17.390420 temp
+2024-10-17 08:27:21,503 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:27:24,435 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:27:24,436 - basicLogger - DEBUG - 2024-10-17 08:27:22.395356 energy
+2024-10-17 08:27:24,441 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:27:26,495 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:27:26,496 - basicLogger - DEBUG - 2024-10-17 08:27:22.395356 temp
+2024-10-17 08:27:26,501 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:27:29,434 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:27:29,435 - basicLogger - DEBUG - 2024-10-17 08:27:27.388212 energy
+2024-10-17 08:27:29,436 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:27:31,499 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:27:31,500 - basicLogger - DEBUG - 2024-10-17 08:27:27.388212 temp
+2024-10-17 08:27:31,506 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:27:34,446 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:27:34,447 - basicLogger - DEBUG - 2024-10-17 08:27:32.395487 energy
+2024-10-17 08:27:34,451 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:27:36,505 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:27:36,506 - basicLogger - DEBUG - 2024-10-17 08:27:32.395487 temp
+2024-10-17 08:27:36,510 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:27:39,435 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:27:39,436 - basicLogger - DEBUG - 2024-10-17 08:27:37.385983 energy
+2024-10-17 08:27:39,441 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:27:41,508 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:27:41,509 - basicLogger - DEBUG - 2024-10-17 08:27:37.385983 temp
+2024-10-17 08:27:41,514 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:27:44,449 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:27:44,450 - basicLogger - DEBUG - 2024-10-17 08:27:42.388906 energy
+2024-10-17 08:27:44,452 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:27:46,507 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:27:46,508 - basicLogger - DEBUG - 2024-10-17 08:27:42.388906 temp
+2024-10-17 08:27:46,513 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 0 results
+2024-10-17 08:34:07,530 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of b3d6bdc6-dcbc-4240-9dcc-2f771293865f
+2024-10-17 08:34:07,707 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 071b0232-4c26-43e0-af02-08b05bc7c218
+2024-10-17 08:34:07,915 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 7daaf398-0f53-4191-b7f6-6df2330fc229
+2024-10-17 08:34:08,116 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 51a140ae-9058-4a61-849c-9ecacf980cf9
+2024-10-17 08:34:08,335 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of f310649a-d976-4aaf-844c-ab77331aaaa4
+2024-10-17 08:34:09,583 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of f2debc6b-5a55-484b-9db3-027f886ee084
+2024-10-17 08:34:09,774 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 49c4abc6-c146-4e26-a7fe-d6c477be9caa
+2024-10-17 08:34:09,973 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 6ff529fc-053e-4c68-91f1-77a02310fc8c
+2024-10-17 08:34:10,167 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 4d5dc944-5936-4210-89db-55f66247e2b2
+2024-10-17 08:34:10,398 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of bf48723b-2014-4bd7-be3b-c9c0fa396f35
+2024-10-17 08:34:11,635 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 4f9ab678-10ff-4fbc-b3c8-b92f777d9b4d
+2024-10-17 08:34:11,853 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 379bea8e-449d-4c22-afdc-865f710e1a5e
+2024-10-17 08:34:12,040 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 36781a56-e5d3-4d45-90f6-6b3053f325ce
+2024-10-17 08:34:12,225 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of b92c7061-9d8b-4143-9a71-246991dc0cbc
+2024-10-17 08:34:12,445 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 1d6aba61-2615-4c66-8da8-84de3f3c8185
+2024-10-17 08:34:13,693 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 864828b1-e325-4a16-973f-1f98d24306c9
+2024-10-17 08:34:13,897 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of f3147a23-2d9e-444d-aa0c-55ecf140984e
+2024-10-17 08:34:14,104 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 9ab7cde2-b89c-4ec1-9d1a-a4690679139f
+2024-10-17 08:34:14,294 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 4befbb03-b8bc-4917-9e87-9bca7301b924
+2024-10-17 08:34:14,497 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of fe7e0cae-c1c6-4d4f-a685-795ea35612f3
+2024-10-17 08:34:15,746 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of d17e647d-42c4-4d33-abb0-f2d09322e6fc
+2024-10-17 08:34:15,946 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of c2c2bb69-042c-4b67-a07b-845f80458f42
+2024-10-17 08:34:16,161 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 326c5456-59a9-4098-820b-06dbbcf6219f
+2024-10-17 08:34:16,350 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 92e28756-9342-4bf2-8db8-5247c3ee1010
+2024-10-17 08:34:16,537 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 3b108a2d-d9b2-4b01-b4d1-258f271a8cb6
+2024-10-17 08:34:17,814 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of bf3282d2-710e-41e0-b15b-a1b82a84ad9c
+2024-10-17 08:34:17,984 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 0e7f4e78-79fc-4c48-a582-28e9477e9e12
+2024-10-17 08:34:18,187 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of f82b7dc1-2803-4b49-a7d0-8c2cb95bdec5
+2024-10-17 08:34:18,395 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 2719f0e7-cc27-4282-b4cb-3d1b3ac21454
+2024-10-17 08:34:18,578 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 8de8336c-e6ad-4abb-96fd-a754750c8010
+2024-10-17 08:34:19,851 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of c57ccb95-6465-412e-ae07-2406a96713fc
+2024-10-17 08:34:20,036 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 3a02233e-5ab7-436d-a7c3-5eef586fa982
+2024-10-17 08:34:20,225 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 17e309ce-2368-45a3-9805-c6b26ca5bafd
+2024-10-17 08:34:20,459 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of d06d87d1-a284-40c7-b8e7-8f0ede9d9af8
+2024-10-17 08:34:20,627 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of d3f9a2bd-c9ff-4526-b401-c18da13251d7
+2024-10-17 08:34:21,925 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 1df0241e-f740-4512-bfc9-b762fa64cb1b
+2024-10-17 08:34:22,087 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of ec1f1445-6cd2-48b6-9691-261503d435cd
+2024-10-17 08:34:22,263 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 8cde0e74-ef75-469e-adb1-4efdbf0b5a80
+2024-10-17 08:34:22,508 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 9e8b4d65-a80f-4f49-a5f1-b3e88edf6b6f
+2024-10-17 08:34:22,686 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of b92e6351-681c-451f-903b-b86803773193
+2024-10-17 08:34:23,997 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 38f3054b-1f62-4f44-8bc0-814a3d99fba0
+2024-10-17 08:34:24,147 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of bcb753db-5a61-4fd6-ba1a-20dd88bab9b3
+2024-10-17 08:34:24,320 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 82443ac7-92be-47c5-9ee7-3f8b2b71a995
+2024-10-17 08:34:24,573 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of fa65b38e-ad39-44a4-af41-4e33a660b1a7
+2024-10-17 08:34:24,760 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 0f614250-6775-4b90-8674-21747b02f749
+2024-10-17 08:34:26,030 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 2e2bd705-df1b-4c74-9b81-1fac9df741a6
+2024-10-17 08:34:26,185 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of b7d91947-d592-4f45-b6e0-39741d3112fa
+2024-10-17 08:34:26,358 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 8d1faceb-eb1e-456d-b4bb-8c2b8b1ae971
+2024-10-17 08:34:26,611 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 3401bc02-5a7a-4c48-a7ef-8e1b0692ae18
+2024-10-17 08:34:26,804 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of e16f73a8-92d3-4b95-9d0a-34b2dac3e8fb
+2024-10-17 08:35:16,863 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:35:16,863 - basicLogger - DEBUG - 2024-10-17 08:35:14.819151 energy
+2024-10-17 08:35:16,870 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 25 results
+2024-10-17 08:35:18,917 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:35:18,917 - basicLogger - DEBUG - 2024-10-17 08:35:14.819151 temp
+2024-10-17 08:35:18,921 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 25 results
+2024-10-17 08:35:21,878 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:35:21,878 - basicLogger - DEBUG - 2024-10-17 08:35:19.815071 energy
+2024-10-17 08:35:21,881 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 25 results
+2024-10-17 08:35:23,949 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:35:23,949 - basicLogger - DEBUG - 2024-10-17 08:35:19.815071 temp
+2024-10-17 08:35:23,952 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 25 results
+2024-10-17 08:35:26,874 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:35:26,875 - basicLogger - DEBUG - 2024-10-17 08:35:24.818345 energy
+2024-10-17 08:35:26,881 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 25 results
+2024-10-17 08:35:28,924 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:35:28,925 - basicLogger - DEBUG - 2024-10-17 08:35:24.818345 temp
+2024-10-17 08:35:28,930 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 25 results
+2024-10-17 08:35:31,848 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:35:31,848 - basicLogger - DEBUG - 2024-10-17 08:35:29.822884 energy
+2024-10-17 08:35:31,854 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 25 results
+2024-10-17 08:35:33,890 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:35:33,890 - basicLogger - DEBUG - 2024-10-17 08:35:29.822884 temp
+2024-10-17 08:35:33,894 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 25 results
+2024-10-17 08:35:36,840 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:35:36,840 - basicLogger - DEBUG - 2024-10-17 08:35:34.821592 energy
+2024-10-17 08:35:36,846 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 25 results
+2024-10-17 08:35:38,904 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:35:38,905 - basicLogger - DEBUG - 2024-10-17 08:35:34.821592 temp
+2024-10-17 08:35:38,908 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 25 results
+2024-10-17 08:35:41,848 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:35:41,849 - basicLogger - DEBUG - 2024-10-17 08:35:39.810903 energy
+2024-10-17 08:35:41,851 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 25 results
+2024-10-17 08:35:43,887 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:35:43,888 - basicLogger - DEBUG - 2024-10-17 08:35:39.810903 temp
+2024-10-17 08:35:43,892 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 25 results
+2024-10-17 08:38:09,107 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:38:09,107 - basicLogger - DEBUG - 2024-10-17 08:38:07.050915 energy
+2024-10-17 08:38:09,112 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 25 results
+2024-10-17 08:38:11,145 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:38:11,146 - basicLogger - DEBUG - 2024-10-17 08:38:07.050915 temp
+2024-10-17 08:38:11,148 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 25 results
+2024-10-17 08:50:11,309 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 energy
+2024-10-17 08:50:11,310 - basicLogger - DEBUG - 2024-10-17 08:50:09.212458 energy
+2024-10-17 08:50:11,318 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 17:29:48.996819 returns 25 results
+2024-10-17 08:50:13,400 - basicLogger - DEBUG - 2024-10-10 17:29:48.996819 temp
+2024-10-17 08:50:13,401 - basicLogger - DEBUG - 2024-10-17 08:50:09.212458 temp
+2024-10-17 08:50:13,407 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 17:29:48.996819 returns 25 results
+2024-10-17 08:51:52,892 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 138e8bad-1673-402e-915c-32cd8c4da2f8
+2024-10-17 08:51:53,099 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 74daf18a-e216-4f84-904e-ed809c9e037e
+2024-10-17 08:51:53,317 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 51b289d1-f587-40cb-9841-e6262c701ac5
+2024-10-17 08:51:53,492 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of ebcf001f-96ba-44bd-a152-c9ecde5c9905
+2024-10-17 08:51:53,663 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 9a4a49b3-8e34-43bf-82aa-0c182d69e1fb
+2024-10-17 08:51:54,962 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 2f970442-7391-46a0-bcf7-91f81164f1cb
+2024-10-17 08:51:55,179 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 70adb6ca-8bfb-4185-a2fd-4fbe3a6357d5
+2024-10-17 08:51:55,374 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 6541624e-0037-4fac-a8bd-83f3f3e827b7
+2024-10-17 08:51:55,576 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 8edef6e1-7939-42f3-96b5-7b67689b1da6
+2024-10-17 08:51:55,731 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 06139135-547e-4b12-929a-1ad18473197f
+2024-10-17 08:51:57,033 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of a7917eee-2f6c-46ef-bda5-949954ddd770
+2024-10-17 08:51:57,249 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 996e23d8-7326-4f02-99d1-e72f6392c612
+2024-10-17 08:51:57,450 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of d8024fd3-e999-4e8b-a95a-2c60376e0f07
+2024-10-17 08:51:57,647 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of f6e7d2b9-5441-4557-a801-4525ab10aeb7
+2024-10-17 08:51:57,810 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of a18f9996-2187-410d-baea-1b0c8a25df6e
+2024-10-17 08:51:59,093 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 436d2961-6831-4b8d-bbf8-5d3e7f23eaca
+2024-10-17 08:51:59,300 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 9b012049-f96d-40ef-a08a-84254c7b941c
+2024-10-17 08:51:59,500 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of a3b99576-baba-48f5-8a73-fb2ce758ffdf
+2024-10-17 08:51:59,700 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of c45386ae-204b-4504-8747-cde03a17f882
+2024-10-17 08:51:59,872 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of b4692009-0a4a-4fe8-8eac-4e8c5768ea10
+2024-10-17 08:52:01,167 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 98caac36-b219-4354-9d21-ca9e52d28716
+2024-10-17 08:52:01,385 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of a0d13b42-996a-480f-a17b-62af9c580847
+2024-10-17 08:52:01,586 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of ebb12558-f550-4862-8ab7-2f5390b24275
+2024-10-17 08:52:01,756 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 7af65b7a-554b-496b-ab98-0f1faa14524e
+2024-10-17 08:52:01,946 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of cd8e0044-3ba9-4989-98b3-4914137fdd83
+2024-10-17 08:52:03,245 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 04ed501d-895b-4275-9b90-a3ae26ba52d3
+2024-10-17 08:52:03,446 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of cf4d0319-9dd9-401a-bba4-5ed7b9cf9d34
+2024-10-17 08:52:03,611 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of d3a89393-b775-4e42-8315-1ae2c73eb9b8
+2024-10-17 08:52:03,808 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of dfb5f947-1362-4ad0-a48e-22b2eb577bcc
+2024-10-17 08:52:04,009 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 5427568d-bfad-4218-a18c-73b754bfd9cb
+2024-10-17 08:52:05,323 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of f801bc0b-51c6-4ee4-ae0a-3330c96b0038
+2024-10-17 08:52:05,508 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 1209261d-ac62-4d13-aedd-3dc68918c3e7
+2024-10-17 08:52:05,671 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of f59a79e8-1532-4cdb-8159-a13512907534
+2024-10-17 08:52:05,858 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of a28a1338-7f1e-4454-9c7d-f357314dac93
+2024-10-17 08:52:06,075 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of eef76507-128a-48c2-b597-67cf6336680c
+2024-10-17 08:52:07,408 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 10dc2ba4-b54e-4ac5-8c70-bc3c974104ed
+2024-10-17 08:52:07,581 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 53abb6a1-1dbc-44f0-ba0f-3d35d4732ee8
+2024-10-17 08:52:07,751 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 2533c48e-1453-4ba1-a84e-522841def04e
+2024-10-17 08:52:07,930 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 64c36d4d-e7cb-477b-aeca-8884c7cc0eff
+2024-10-17 08:52:08,156 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 22a7c807-7232-4143-a98c-515e56dd1785
+2024-10-17 08:52:09,483 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of daa96619-1349-45ed-8628-17bee6dcec56
+2024-10-17 08:52:09,657 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of c39f4863-092f-431e-bd87-c37f16343292
+2024-10-17 08:52:09,826 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of a8b77af9-e19c-46b9-8e31-ae3b37ae0b3d
+2024-10-17 08:52:10,001 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 06c18333-fcb9-4596-8d80-011417a2f380
+2024-10-17 08:52:10,233 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of e2122ab4-531a-421b-907d-db92924af064
+2024-10-17 08:52:11,573 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 5bd9b9bc-de78-4883-ae60-52ed13f44970
+2024-10-17 08:52:11,726 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of ea37caa6-468a-48d1-b446-1c1a04383833
+2024-10-17 08:52:11,889 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of b187c9fa-4fdc-43ab-a428-683b65a4f17c
+2024-10-17 08:52:12,077 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 517a0320-f8ff-45a7-9516-02c2e18b54ea
+2024-10-17 08:52:12,264 - basicLogger - DEBUG - 2024-10-17 08:52:10.188361 energy
+2024-10-17 08:52:12,264 - basicLogger - DEBUG - 2024-10-17 08:52:10.188361 energy
+2024-10-17 08:52:12,269 - basicLogger - INFO - Query for energy usage readings after 2024-10-17 08:52:10.188361 returns 0 results
+2024-10-17 08:52:12,317 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of aa0ee1fd-6a23-4dd9-883f-1e77c9b1d71a
+2024-10-17 08:52:14,335 - basicLogger - DEBUG - 2024-10-17 08:52:10.188361 temp
+2024-10-17 08:52:14,335 - basicLogger - DEBUG - 2024-10-17 08:52:10.188361 temp
+2024-10-17 08:52:14,340 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:52:10.188361 returns 0 results
+2024-10-17 08:52:17,280 - basicLogger - DEBUG - 2024-10-17 08:52:10.188361 energy
+2024-10-17 08:52:17,281 - basicLogger - DEBUG - 2024-10-17 08:52:15.198999 energy
+2024-10-17 08:52:17,286 - basicLogger - INFO - Query for energy usage readings after 2024-10-17 08:52:10.188361 returns 1 results
+2024-10-17 08:52:19,332 - basicLogger - DEBUG - 2024-10-17 08:52:10.188361 temp
+2024-10-17 08:52:19,332 - basicLogger - DEBUG - 2024-10-17 08:52:15.198999 temp
+2024-10-17 08:52:19,336 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:52:10.188361 returns 5 results
+2024-10-17 08:52:22,268 - basicLogger - DEBUG - 2024-10-17 08:52:15.198999 energy
+2024-10-17 08:52:22,268 - basicLogger - DEBUG - 2024-10-17 08:52:20.195647 energy
+2024-10-17 08:52:22,273 - basicLogger - INFO - Query for energy usage readings after 2024-10-17 08:52:15.198999 returns 0 results
+2024-10-17 08:52:24,327 - basicLogger - DEBUG - 2024-10-17 08:52:15.198999 temp
+2024-10-17 08:52:24,327 - basicLogger - DEBUG - 2024-10-17 08:52:20.195647 temp
+2024-10-17 08:52:24,330 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:52:15.198999 returns 0 results
+2024-10-17 08:52:27,258 - basicLogger - DEBUG - 2024-10-17 08:52:20.195647 energy
+2024-10-17 08:52:27,259 - basicLogger - DEBUG - 2024-10-17 08:52:25.186347 energy
+2024-10-17 08:52:27,262 - basicLogger - INFO - Query for energy usage readings after 2024-10-17 08:52:20.195647 returns 0 results
+2024-10-17 08:52:29,312 - basicLogger - DEBUG - 2024-10-17 08:52:20.195647 temp
+2024-10-17 08:52:29,313 - basicLogger - DEBUG - 2024-10-17 08:52:25.186347 temp
+2024-10-17 08:52:29,315 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:52:20.195647 returns 0 results
+2024-10-17 08:52:32,255 - basicLogger - DEBUG - 2024-10-17 08:52:25.186347 energy
+2024-10-17 08:52:32,255 - basicLogger - DEBUG - 2024-10-17 08:52:30.195227 energy
+2024-10-17 08:52:32,256 - basicLogger - INFO - Query for energy usage readings after 2024-10-17 08:52:25.186347 returns 0 results
+2024-10-17 08:52:34,291 - basicLogger - DEBUG - 2024-10-17 08:52:25.186347 temp
+2024-10-17 08:52:34,292 - basicLogger - DEBUG - 2024-10-17 08:52:30.195227 temp
+2024-10-17 08:52:34,296 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:52:25.186347 returns 0 results
+2024-10-17 08:52:37,220 - basicLogger - DEBUG - 2024-10-17 08:52:30.195227 energy
+2024-10-17 08:52:37,221 - basicLogger - DEBUG - 2024-10-17 08:52:35.185888 energy
+2024-10-17 08:52:37,225 - basicLogger - INFO - Query for energy usage readings after 2024-10-17 08:52:30.195227 returns 0 results
+2024-10-17 08:52:39,294 - basicLogger - DEBUG - 2024-10-17 08:52:30.195227 temp
+2024-10-17 08:52:39,295 - basicLogger - DEBUG - 2024-10-17 08:52:35.185888 temp
+2024-10-17 08:52:39,300 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:52:30.195227 returns 0 results
+2024-10-17 08:52:42,258 - basicLogger - DEBUG - 2024-10-17 08:52:35.185888 energy
+2024-10-17 08:52:42,260 - basicLogger - DEBUG - 2024-10-17 08:52:40.200343 energy
+2024-10-17 08:52:42,265 - basicLogger - INFO - Query for energy usage readings after 2024-10-17 08:52:35.185888 returns 0 results
+2024-10-17 08:52:44,332 - basicLogger - DEBUG - 2024-10-17 08:52:35.185888 temp
+2024-10-17 08:52:44,333 - basicLogger - DEBUG - 2024-10-17 08:52:40.200343 temp
+2024-10-17 08:52:44,337 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:52:35.185888 returns 0 results
+2024-10-17 08:52:47,268 - basicLogger - DEBUG - 2024-10-17 08:52:40.200343 energy
+2024-10-17 08:52:47,269 - basicLogger - DEBUG - 2024-10-17 08:52:45.199508 energy
+2024-10-17 08:52:47,274 - basicLogger - INFO - Query for energy usage readings after 2024-10-17 08:52:40.200343 returns 0 results
+2024-10-17 08:52:49,339 - basicLogger - DEBUG - 2024-10-17 08:52:40.200343 temp
+2024-10-17 08:52:49,340 - basicLogger - DEBUG - 2024-10-17 08:52:45.199508 temp
+2024-10-17 08:52:49,344 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:52:40.200343 returns 0 results
+2024-10-17 08:53:07,036 - basicLogger - DEBUG - 2024-10-10 08:52:45.199508 energy
+2024-10-17 08:53:07,036 - basicLogger - DEBUG - 2024-10-17 08:53:04.945717 energy
+2024-10-17 08:53:07,046 - basicLogger - INFO - Query for energy usage readings after 2024-10-10 08:52:45.199508 returns 75 results
+2024-10-17 08:53:09,125 - basicLogger - DEBUG - 2024-10-10 08:52:45.199508 temp
+2024-10-17 08:53:09,126 - basicLogger - DEBUG - 2024-10-17 08:53:04.945717 temp
+2024-10-17 08:53:09,134 - basicLogger - INFO - Query for temperature change readings after 2024-10-10 08:52:45.199508 returns 75 results
+2024-10-17 08:53:12,003 - basicLogger - DEBUG - 2024-10-17 08:53:04.945717 energy
+2024-10-17 08:53:12,003 - basicLogger - DEBUG - 2024-10-17 08:53:09.942443 energy
+2024-10-17 08:53:12,006 - basicLogger - INFO - Query for energy usage readings after 2024-10-17 08:53:04.945717 returns 0 results
+2024-10-17 08:53:14,072 - basicLogger - DEBUG - 2024-10-17 08:53:04.945717 temp
+2024-10-17 08:53:14,073 - basicLogger - DEBUG - 2024-10-17 08:53:09.942443 temp
+2024-10-17 08:53:14,077 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:53:04.945717 returns 0 results
+2024-10-17 08:53:16,994 - basicLogger - DEBUG - 2024-10-17 08:53:09.942443 energy
+2024-10-17 08:53:16,995 - basicLogger - DEBUG - 2024-10-17 08:53:14.935739 energy
+2024-10-17 08:53:16,999 - basicLogger - INFO - Query for energy usage readings after 2024-10-17 08:53:09.942443 returns 0 results
+2024-10-17 08:53:19,061 - basicLogger - DEBUG - 2024-10-17 08:53:09.942443 temp
+2024-10-17 08:53:19,062 - basicLogger - DEBUG - 2024-10-17 08:53:14.935739 temp
+2024-10-17 08:53:19,067 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:53:09.942443 returns 0 results
+2024-10-17 08:53:22,000 - basicLogger - DEBUG - 2024-10-17 08:53:14.935739 energy
+2024-10-17 08:53:22,001 - basicLogger - DEBUG - 2024-10-17 08:53:19.941093 energy
+2024-10-17 08:53:22,007 - basicLogger - INFO - Query for energy usage readings after 2024-10-17 08:53:14.935739 returns 0 results
+2024-10-17 08:53:24,070 - basicLogger - DEBUG - 2024-10-17 08:53:14.935739 temp
+2024-10-17 08:53:24,071 - basicLogger - DEBUG - 2024-10-17 08:53:19.941093 temp
+2024-10-17 08:53:24,075 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:53:14.935739 returns 0 results
+2024-10-17 08:53:26,975 - basicLogger - DEBUG - 2024-10-17 08:53:19.941093 energy
+2024-10-17 08:53:26,976 - basicLogger - DEBUG - 2024-10-17 08:53:24.931977 energy
+2024-10-17 08:53:26,978 - basicLogger - INFO - Query for energy usage readings after 2024-10-17 08:53:19.941093 returns 0 results
+2024-10-17 08:53:29,017 - basicLogger - DEBUG - 2024-10-17 08:53:19.941093 temp
+2024-10-17 08:53:29,018 - basicLogger - DEBUG - 2024-10-17 08:53:24.931977 temp
+2024-10-17 08:53:29,024 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:53:19.941093 returns 0 results
+2024-10-17 08:53:32,002 - basicLogger - DEBUG - 2024-10-17 08:53:24.931977 energy
+2024-10-17 08:53:32,003 - basicLogger - DEBUG - 2024-10-17 08:53:29.942866 energy
+2024-10-17 08:53:32,008 - basicLogger - INFO - Query for energy usage readings after 2024-10-17 08:53:24.931977 returns 0 results
+2024-10-17 08:53:34,071 - basicLogger - DEBUG - 2024-10-17 08:53:24.931977 temp
+2024-10-17 08:53:34,072 - basicLogger - DEBUG - 2024-10-17 08:53:29.942866 temp
+2024-10-17 08:53:34,076 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:53:24.931977 returns 0 results
+2024-10-17 08:53:36,983 - basicLogger - DEBUG - 2024-10-17 08:53:29.942866 energy
+2024-10-17 08:53:36,984 - basicLogger - DEBUG - 2024-10-17 08:53:34.935476 energy
+2024-10-17 08:53:36,988 - basicLogger - INFO - Query for energy usage readings after 2024-10-17 08:53:29.942866 returns 0 results
+2024-10-17 08:53:39,036 - basicLogger - DEBUG - 2024-10-17 08:53:29.942866 temp
+2024-10-17 08:53:39,036 - basicLogger - DEBUG - 2024-10-17 08:53:34.935476 temp
+2024-10-17 08:53:39,038 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:53:29.942866 returns 0 results
+2024-10-17 08:53:42,001 - basicLogger - DEBUG - 2024-10-17 08:53:34.935476 energy
+2024-10-17 08:53:42,002 - basicLogger - DEBUG - 2024-10-17 08:53:39.938218 energy
+2024-10-17 08:53:42,007 - basicLogger - INFO - Query for energy usage readings after 2024-10-17 08:53:34.935476 returns 0 results
+2024-10-17 08:53:44,071 - basicLogger - DEBUG - 2024-10-17 08:53:34.935476 temp
+2024-10-17 08:53:44,072 - basicLogger - DEBUG - 2024-10-17 08:53:39.938218 temp
+2024-10-17 08:53:44,077 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:53:34.935476 returns 0 results
+2024-10-17 08:54:20,667 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 09976e5b-694d-4635-ad85-fb88a20fe6d2
+2024-10-17 08:54:20,866 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of c0307933-d937-4a61-9214-131efa2134a4
+2024-10-17 08:54:21,057 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 447a682d-32b7-4ad0-be47-b9cb19446d66
+2024-10-17 08:54:21,260 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 39056754-549f-4266-8133-45d4ca534d9c
+2024-10-17 08:54:21,506 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 624df48c-0ea0-43d1-9ee5-8540c6cabed0
+2024-10-17 08:54:22,756 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 7b5e3400-c393-495b-b364-e23f1e1f12d4
+2024-10-17 08:54:22,955 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 72f26366-8d29-476e-8a5e-f99b8dfbddf4
+2024-10-17 08:54:23,140 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 59b1cb0a-bbc5-4ac2-96b8-0fa9ee19054c
+2024-10-17 08:54:23,342 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 07248ad0-aeae-4d5c-bb9b-95904d33e13c
+2024-10-17 08:54:23,577 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 2bbecd90-db54-4f34-b311-3c47410aadec
+2024-10-17 08:54:24,824 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 88ca48b8-4f25-48a1-af3b-2dd642f1fec9
+2024-10-17 08:54:25,041 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 4e43dedb-4138-40b5-818d-e1c93cb12740
+2024-10-17 08:54:25,228 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 8af4672c-f821-4de1-90f9-626f1f1e12fd
+2024-10-17 08:54:25,428 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 1ec0e6ca-47a3-4445-9ae9-a16c60d00dc1
+2024-10-17 08:54:25,663 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 80f66d96-157c-433b-9506-aaabbe0368f6
+2024-10-17 08:54:26,883 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 364de3a9-397c-4833-b4b5-9b4280e7148f
+2024-10-17 08:54:27,102 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of f6aca076-1d32-4838-b6cb-cda61029bc50
+2024-10-17 08:54:27,301 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of c27b2fbe-820a-4f22-8cc8-2ac02031ea03
+2024-10-17 08:54:27,502 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 172be631-e794-4387-b406-2013ba2bdeb6
+2024-10-17 08:54:27,751 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 5f315bd6-0ac9-4ba5-b7a5-3c28c7b0f91f
+2024-10-17 08:54:28,963 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 480c23f9-98de-4360-bc67-835098fae945
+2024-10-17 08:54:29,185 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 175f6baa-2ed9-46b0-955b-2ba3a35c84e0
+2024-10-17 08:54:29,385 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 79241c6c-84cb-496b-a91b-6524fe88e7f8
+2024-10-17 08:54:29,583 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of d59ef103-d756-476c-93f4-2bb344373982
+2024-10-17 08:54:29,820 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 3d0f163b-76f8-4625-86e1-9c6e0955ed20
+2024-10-17 08:54:31,017 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 444a1bfe-8079-4f52-8688-e6c62092d361
+2024-10-17 08:54:31,254 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 7e5a6c91-9bda-4a7e-998d-6420305a8684
+2024-10-17 08:54:31,456 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 7bb851fd-a815-4fb7-b873-634714b5e14a
+2024-10-17 08:54:31,643 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 972d5977-9c21-4cae-84dd-26de26eb4b92
+2024-10-17 08:54:31,905 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of a49ff582-1a5d-4c8c-9242-6709e50851ca
+2024-10-17 08:54:33,116 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 1a7585fc-0e89-47d1-97ea-0c5b1917fb8a
+2024-10-17 08:54:33,333 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 24c019bb-f0dd-4152-b5e0-1cfffae9e068
+2024-10-17 08:54:33,536 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 8d3030b9-9e2b-487d-b819-0495a00a1401
+2024-10-17 08:54:33,719 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 85c169f6-be3a-4697-a6d9-76a4bbec92fc
+2024-10-17 08:54:33,987 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 1a479ee7-93a3-4880-b524-cbf681c8c4b8
+2024-10-17 08:54:35,186 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 676b6eb0-9637-4f1f-8c3f-6a409f08aa87
+2024-10-17 08:54:35,413 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of dfd6d68c-119c-4313-9916-01384d8c5fa3
+2024-10-17 08:54:35,627 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 8242bd14-5c07-45dc-8762-4a0d7e06a3e2
+2024-10-17 08:54:35,776 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 84bb7634-4723-482f-83be-c764194dadd1
+2024-10-17 08:54:36,071 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of b5a9cd2f-b09e-4648-af5f-e6db0e3db9cd
+2024-10-17 08:54:37,255 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 669993a7-d1f0-4b53-aba7-6c06fdd16fe3
+2024-10-17 08:54:37,493 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 9a952dda-e64c-472d-8877-eb2c93418cb8
+2024-10-17 08:54:37,712 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 6412a969-27f5-4c42-87d6-d05419528b65
+2024-10-17 08:54:37,850 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 90193a29-7957-4dcb-96ef-1b49ba37de9d
+2024-10-17 08:54:38,149 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 811b7088-544a-4fa2-92c2-e2948bf2ec4c
+2024-10-17 08:54:39,313 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of e649a7a4-06be-42d6-9cdd-f7211e74daa0
+2024-10-17 08:54:39,563 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 8f71d363-234f-40f7-98d9-04ea45f935b0
+2024-10-17 08:54:39,775 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 772f475f-932c-4ea8-8279-0132c90cfc23
+2024-10-17 08:54:39,908 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of b76ed4a3-b31d-48d7-a0fb-d167e6d1f4ea
+2024-10-17 08:54:40,227 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 0a4d12ab-7c0e-4746-a571-42668eebcca8
+2024-10-17 08:54:59,397 - basicLogger - DEBUG - 2024-10-17 08:53:39.938218 energy
+2024-10-17 08:54:59,398 - basicLogger - DEBUG - 2024-10-17 08:54:57.344246 energy
+2024-10-17 08:54:59,404 - basicLogger - INFO - Query for energy usage readings after 2024-10-17 08:53:39.938218 returns 25 results
+2024-10-17 08:55:01,454 - basicLogger - DEBUG - 2024-10-17 08:53:39.938218 temp
+2024-10-17 08:55:01,454 - basicLogger - DEBUG - 2024-10-17 08:54:57.344246 temp
+2024-10-17 08:55:01,460 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:53:39.938218 returns 25 results
+2024-10-17 08:55:04,394 - basicLogger - DEBUG - 2024-10-17 08:54:57.344246 energy
+2024-10-17 08:55:04,394 - basicLogger - DEBUG - 2024-10-17 08:55:02.347290 energy
+2024-10-17 08:55:04,399 - basicLogger - INFO - Query for energy usage readings after 2024-10-17 08:54:57.344246 returns 0 results
+2024-10-17 08:55:06,463 - basicLogger - DEBUG - 2024-10-17 08:54:57.344246 temp
+2024-10-17 08:55:06,464 - basicLogger - DEBUG - 2024-10-17 08:55:02.347290 temp
+2024-10-17 08:55:06,469 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:54:57.344246 returns 0 results
+2024-10-17 08:55:09,396 - basicLogger - DEBUG - 2024-10-17 08:55:02.347290 energy
+2024-10-17 08:55:09,396 - basicLogger - DEBUG - 2024-10-17 08:55:07.345246 energy
+2024-10-17 08:55:09,399 - basicLogger - INFO - Query for energy usage readings after 2024-10-17 08:55:02.347290 returns 0 results
+2024-10-17 08:55:11,449 - basicLogger - DEBUG - 2024-10-17 08:55:02.347290 temp
+2024-10-17 08:55:11,450 - basicLogger - DEBUG - 2024-10-17 08:55:07.345246 temp
+2024-10-17 08:55:11,455 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:55:02.347290 returns 0 results
+2024-10-17 08:55:14,405 - basicLogger - DEBUG - 2024-10-17 08:55:07.345246 energy
+2024-10-17 08:55:14,406 - basicLogger - DEBUG - 2024-10-17 08:55:12.344917 energy
+2024-10-17 08:55:14,410 - basicLogger - INFO - Query for energy usage readings after 2024-10-17 08:55:07.345246 returns 0 results
+2024-10-17 08:55:16,462 - basicLogger - DEBUG - 2024-10-17 08:55:07.345246 temp
+2024-10-17 08:55:16,463 - basicLogger - DEBUG - 2024-10-17 08:55:12.344917 temp
+2024-10-17 08:55:16,467 - basicLogger - INFO - Query for temperature change readings after 2024-10-17 08:55:07.345246 returns 0 results
+2024-10-17 09:55:56,935 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-17 09:55:57,064 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-17 10:09:39,618 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-17 10:09:39,719 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 09:17:51,929 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 09:17:52,130 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 09:19:20,379 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 09:19:20,410 - basicLogger - INFO - hostname: $acit3855-kafka.eastus2.cloudapp.azure.com:9092
+2024-10-31 09:19:20,511 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 09:25:15,114 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 09:25:15,145 - basicLogger - INFO - hostname: acit3855-kafka.eastus2.cloudapp.azure.com:3306
+2024-10-31 09:25:15,275 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 09:29:06,519 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 09:29:06,551 - basicLogger - INFO - hostname: 74.249.73.211:9092
+2024-10-31 09:29:06,681 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 09:30:39,753 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 09:30:39,793 - basicLogger - INFO - hostname: 74.249.73.211:9092
+2024-10-31 09:30:39,912 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 09:32:10,998 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 09:32:11,034 - basicLogger - INFO - hostname: 74.249.73.211:9092
+2024-10-31 09:32:11,153 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 09:45:18,985 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 09:45:19,019 - basicLogger - INFO - hostname: 74.249.73.211:9092
+2024-10-31 09:45:19,141 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 09:46:58,469 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 09:46:58,509 - basicLogger - INFO - hostname: acit3855-kafka.eastus2.cloudapp.azure.com:9092
+2024-10-31 09:46:58,634 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 09:48:15,738 - basicLogger - INFO - Message: {'type': 'energy', 'datetime': '2024-10-31T09:48:15', 'payload': {'device_id': 'a152hrsx-5q23-1h56-41u7-b15457s4143', 'home_room': 'Living Room', 'energy_use': 16120, 'timestamp_start': '2024-10-10 16:12:46.046992', 'timestamp_end': '2024-10-10 16:12:46.046992', 'trace_id': 'ab2cc5a7-5fa1-4ded-a50d-7303ed9d3885'}}
+2024-10-31 09:48:16,965 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of ab2cc5a7-5fa1-4ded-a50d-7303ed9d3885
+2024-10-31 09:48:34,527 - basicLogger - INFO - Message: {'type': 'energy', 'datetime': '2024-10-31T09:48:34', 'payload': {'device_id': 'a152hrsx-5q23-1h56-41u7-b15457s4143', 'home_room': 'Living Room', 'energy_use': 16120, 'timestamp_start': '2024-10-10 16:12:46.046992', 'timestamp_end': '2024-10-10 16:12:46.046992', 'trace_id': '00177af0-7c2a-43c5-bbf2-9d1c4f1daae6'}}
+2024-10-31 09:48:34,764 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 00177af0-7c2a-43c5-bbf2-9d1c4f1daae6
+2024-10-31 09:48:53,191 - basicLogger - INFO - Message: {'type': 'temperature', 'datetime': '2024-10-31T09:48:53', 'payload': {'device_id': 'n876ryhq-5g99-7k67-33e9-u15736a9582', 'home_room': 'Master Bedroom', 'temperature': 24, 'timestamp': '2024-10-10 16:12:46.046992', 'trace_id': '58ea988a-fff4-4c72-9b09-4348110b77b4'}}
+2024-10-31 09:48:53,523 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 58ea988a-fff4-4c72-9b09-4348110b77b4
+2024-10-31 09:58:31,411 - basicLogger - INFO - Message: {'type': 'temperature', 'datetime': '2024-10-31T09:58:31', 'payload': {'device_id': 'n876ryhq-5g99-7k67-33e9-u15736a9582', 'home_room': 'Master Bedroom', 'temperature': 24, 'timestamp': '2024-10-10 16:12:46.046992', 'trace_id': '2dbce499-9d08-410f-9e7e-15258aeab48a'}}
+2024-10-31 09:58:44,448 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 09:58:44,504 - basicLogger - INFO - hostname: acit3855-kafka.eastus2.cloudapp.azure.com:9092
+2024-10-31 09:58:44,864 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 09:58:45,365 - basicLogger - INFO - Message: {'type': 'temperature', 'datetime': '2024-10-31T09:58:31', 'payload': {'device_id': 'n876ryhq-5g99-7k67-33e9-u15736a9582', 'home_room': 'Master Bedroom', 'temperature': 24, 'timestamp': '2024-10-10 16:12:46.046992', 'trace_id': '2dbce499-9d08-410f-9e7e-15258aeab48a'}}
+2024-10-31 09:58:46,546 - basicLogger - DEBUG - Stored event temperature_change request with a trace id of 2dbce499-9d08-410f-9e7e-15258aeab48a
+2024-10-31 09:58:46,630 - basicLogger - INFO - Message: {'type': 'energy', 'datetime': '2024-10-31T09:58:32', 'payload': {'device_id': 'a152hrsx-5q23-1h56-41u7-b15457s4143', 'home_room': 'Living Room', 'energy_use': 16120, 'timestamp_start': '2024-10-10 16:12:46.046992', 'timestamp_end': '2024-10-10 16:12:46.046992', 'trace_id': '56d70275-a5b1-45b3-a609-323197148620'}}
+2024-10-31 09:58:46,864 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 56d70275-a5b1-45b3-a609-323197148620
+2024-10-31 11:04:56,291 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 11:04:56,345 - basicLogger - INFO - hostname: acit3855-kafka.eastus2.cloudapp.azure.com:9092
+2024-10-31 11:04:56,471 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 13:11:07,964 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 13:11:07,987 - basicLogger - INFO - hostname: acit3855-kafka.eastus2.cloudapp.azure.com:9092
+2024-10-31 13:11:08,084 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 14:25:56,875 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 14:25:56,933 - basicLogger - INFO - hostname: acit3855-kafka.eastus2.cloudapp.azure.com:9092
+2024-10-31 14:25:57,050 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 16:06:11,271 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 16:06:11,316 - basicLogger - INFO - hostname: acit3855-kafka.eastus2.cloudapp.azure.com:9092
+2024-10-31 16:06:11,411 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 16:07:01,650 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 16:07:01,702 - basicLogger - INFO - hostname: acit3855-kafka.eastus2.cloudapp.azure.com:9092
+2024-10-31 16:07:01,846 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 16:08:18,231 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 16:08:18,260 - basicLogger - INFO - hostname: acit3855-kafka.eastus2.cloudapp.azure.com:9092
+2024-10-31 16:08:18,383 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 16:10:12,890 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 16:10:12,910 - basicLogger - INFO - hostname: acit3855-kafka.eastus2.cloudapp.azure.com:9092
+2024-10-31 16:10:13,000 - basicLogger - INFO - Connecting to DB. Hostname acit3855-kafka.eastus2.cloudapp.azure.com, Port:3306
+2024-10-31 16:36:26,147 - basicLogger - INFO - Message: {'type': 'energy', 'datetime': '2024-10-31T16:36:26', 'payload': {'device_id': 'a152hrsx-5q23-1h56-41u7-b15457s4143', 'home_room': 'Living Room', 'energy_use': 16120, 'timestamp_start': '2024-10-10 16:12:46.046992', 'timestamp_end': '2024-10-10 16:12:46.046992', 'trace_id': 'e0708dee-31c4-44c9-af83-367509ce45d4'}}
+2024-10-31 16:36:27,348 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of e0708dee-31c4-44c9-af83-367509ce45d4
+2024-10-31 16:36:38,915 - basicLogger - INFO - Message: {'type': 'energy', 'datetime': '2024-10-31T16:36:32', 'payload': {'device_id': 'a152hrsx-5q23-1h56-41u7-b15457s4143', 'home_room': 'Living Room', 'energy_use': 16120, 'timestamp_start': '2024-10-10 16:12:46.046992', 'timestamp_end': '2024-10-10 16:12:46.046992', 'trace_id': '1023561a-a1ae-47aa-8342-b6724286d693'}}
+2024-10-31 16:36:39,172 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of 1023561a-a1ae-47aa-8342-b6724286d693
+2024-10-31 16:36:45,454 - basicLogger - INFO - Message: {'type': 'energy', 'datetime': '2024-10-31T16:36:45', 'payload': {'device_id': 'a152hrsx-5q23-1h56-41u7-b15457s4143', 'home_room': 'Living Room', 'energy_use': 16120, 'timestamp_start': '2024-10-10 16:12:46.046992', 'timestamp_end': '2024-10-10 16:12:46.046992', 'trace_id': 'e37c4dd8-78a2-4a5e-a3d0-dcac605a9da0'}}
+2024-10-31 16:36:45,685 - basicLogger - DEBUG - Stored event energy_usage request with a trace id of e37c4dd8-78a2-4a5e-a3d0-dcac605a9da0

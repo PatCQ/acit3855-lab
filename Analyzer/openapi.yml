@@ -1,0 +1,162 @@
+openapi: 3.0.0
+info:
+  title: Analyzer API
+  description: This API provides analyzer info
+  contact:
+    email: pquach3@my.bcit.ca
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  version: 1.0.0
+
+paths:
+  /energy_usage:
+    get:
+      summary: gets a energy usage from history
+      operationId: app.get_energy_reading
+      description: Gets energy usage from the event store
+      parameters:
+        - name: index
+          in: query
+          description: Gets the energy at the index in the event store
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned a energy event
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/EnergyUsageReading'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+  /temperature_change:
+    get:
+      summary: gets a temperature reading from history
+      operationId: app.get_temperature_change_reading
+      description: Gets temperature reading from the event store
+      parameters:
+        - name: index
+          in: query
+          description: Gets the temperature at the index in the event store
+          schema:
+            type: integer
+            example: 200
+      responses:
+        '200':
+          description: Successfully returned a temperature event
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/TemperatureChangeReading'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string          
+
+  /stats:
+    get:
+      summary: gets the event stats
+      operationId: app.get_event_stats
+      description: Gets the stats of the history events
+      responses:
+        '200':
+          description: Successfully returned a temperature event
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Stats'
+
+components:
+  schemas:
+    EnergyUsageReading:
+      required:
+        - device_id
+        - home_room
+        - energy_use
+        - timestamp_start
+        - timestamp_end
+      properties:
+        device_id:
+          type: string
+          format: uuid
+          example: a152hrsx-5q23-1h56-41u7-b15457s4143
+        home_room:
+          type: string
+          example: Living Room
+        energy_use:
+          type: integer
+          example: 16120
+        timestamp_start:
+          type: string
+          example: '2024-10-10 16:12:46.046992'
+        timestamp_end:
+          type: string
+          example: '2024-10-10 16:12:46.046992'
+      type: object
+
+    TemperatureChangeReading:
+      type: object
+      required: 
+        - device_id
+        - home_room
+        - temperature
+        - timestamp
+      properties:
+        device_id:
+          type: string
+          format: uuid
+          example: "n876ryhq-5g99-7k67-33e9-u15736a9582"
+        home_room:
+          type: string
+          example: "Master Bedroom"
+        temperature:
+          type: integer
+          example: 24
+        timestamp:
+          type: string
+          example: '2024-10-10 16:12:46.046992'
+
+    Stats:
+      required:
+        - num_ec_readings
+        - num_temp_readings
+      properties:
+        num_ec_readings:
+          type: integer
+          example: 100
+        num_temp_readings:
+          type: integer
+          example: 101

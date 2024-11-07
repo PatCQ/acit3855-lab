@@ -1,0 +1,103 @@
+openapi: 3.0.0
+servers: []
+info:
+  description: This API recieves data from connected smart devices
+  version: "1.0.0"
+  title: Smart Home API
+  contact:
+    email: pquach3@my.bcit.ca
+  license:
+    name: Apache 2.0
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+tags:
+  - name: devices
+    description: 'Operations available to connected smart devices'
+paths:
+  /values/energy_usage:  
+    post:
+      tags: 
+        - devices
+      summary: 'records a reading of total energy consumption since startup'
+      operationId: app.energy_usage
+      description: |
+        The total energy consumed since the devices activation is recorded in kilowatts into the system
+      responses:
+        '201':
+          description: 'item created'
+        '400':
+          description: 'bad input parameter'
+      requestBody:
+        description: "gets reading of total energy usage"
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/EnergyUsage"
+          
+  /values/temperature_change:
+    post:
+      tags: 
+        - devices
+      summary: 'records the current temperature' 
+      operationId: app.temperature_change
+      description: |
+        Records a reading of the current temperature in celcius to the system
+      responses:
+        '201':
+          description: 'item created'
+        '400':
+          description: 'bad input parameter'
+      requestBody:
+        description: "gets reading of current temperature"
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/TemperatureChange"
+components:
+  schemas:
+    EnergyUsage:
+      type: object
+      required:
+        - device_id
+        - home_room
+        - energy_use
+        - timestamp_start
+        - timestamp_end
+      properties:
+        device_id:
+          type: string
+          format: uuid
+          example: "a152hrsx-5q23-1h56-41u7-b15457s4143"
+        home_room:
+          type: string
+          example: 'Living Room'
+        energy_use:
+          type: integer
+          example: 16120
+        timestamp_start:
+          type: string
+          example: '2024-10-10 16:12:46.046992'
+        timestamp_end:
+          type: string
+          example: '2024-10-10 16:12:46.046992'
+    
+    TemperatureChange:
+      type: object
+      required: 
+        - device_id
+        - home_room
+        - temperature
+        - timestamp
+      properties:
+        device_id:
+          type: string
+          format: uuid
+          example: "n876ryhq-5g99-7k67-33e9-u15736a9582"
+        home_room:
+          type: string
+          example: "Master Bedroom"
+        temperature:
+          type: integer
+          example: 24
+        timestamp:
+          type: string
+          example: '2024-10-10 16:12:46.046992'

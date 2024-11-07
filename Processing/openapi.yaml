@@ -1,0 +1,65 @@
+openapi: 3.0.0
+servers: []
+info:
+  description: This API recieves data from connected smart devices
+  version: "1.0.0"
+  title: Smart Home API
+  contact:
+    email: pquach3@my.bcit.ca
+  license:
+    name: Apache 2.0
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+tags:
+  - name: devices
+    description: 'Operations available to connected smart devices'
+paths:
+  /stats:
+    get:
+      summary: Gets the event stats
+      operationId: app.get_stats
+      description: Gets Energy Usage and Temperature Change processsed statistics
+      responses:
+        '200':
+          description: Successfully returned a list of events
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/ReadingStats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    ReadingStats:
+      required:
+      - num_ec_readings
+      - min_ec_reading
+      - max_ec_reading
+      - num_temp_readings
+      - min_temp_reading
+      - max_temp_reading
+      properties:
+        num_bp_readings:
+          type: integer
+          example: 500000
+        max_bp_sys_reading:
+          type: integer
+          example: 200
+        max_bp_dia_reading:
+          type: integer
+          example: 180
+        num_hr_readings:
+          type: integer
+          example: 500000
+        max_hr_reading:
+          type: integer
+          example: 250
+      type: object
