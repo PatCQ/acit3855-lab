@@ -26,6 +26,12 @@ services:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - /home/azureuser/kafka:/kafka/kafka-logs
+    healthcheck:
+      test: ["CMD", "nc", "-z", "localhost", "9092"]
+      interval: 10s
+      retries: 5
+      start_period: 10s
+      timeout: 5s
     depends_on:
       - "zookeeper"
   db:
@@ -33,19 +39,19 @@ services:
     restart: always
     environment:
       MYSQL_DATABASE: 'events'
-    # So you don't have to use root, but you can if you like
       MYSQL_USER: 'user'
-    # You can use whatever password you like
       MYSQL_PASSWORD: 'password'
-    # Password for root access
       MYSQL_ROOT_PASSWORD: 'ASDFjkl12#'
     ports:
-    # <Port exposed> : < MySQL Port running inside container>
       - '3306:3306'
     expose:
-    # Opens port 3306 on the container
       - '3306'
-    # Where our data will be persisted
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "--host=localhost", "--user=root", "--password=ASDFjkl12#"]
+      interval: 10s
+      retries: 5
+      start_period: 10s
+      timeout: 5s
     volumes:
       - my-db:/var/lib/mysql
 # Names our volume
@@ -60,8 +66,10 @@ services:
     ports:
       - "8090:8090"
     depends_on:
-      - "kafka"
-      - "db"
+      kafka:
+        condition: service_healthy
+      db:
+        condition: service_healthy
   processor:
     image: processing:latest
     ports:
