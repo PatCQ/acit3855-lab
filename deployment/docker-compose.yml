@@ -6,7 +6,7 @@ services:
       - "2181"
     hostname: zookeeper
     volumes:
-      - /home/azureuser/zookeeper/data:/opt/zokeeper-3.4.13/data
+      - /home/azureuser/zookeeper/data:/opt/zookeeper-3.4.13/data
   kafka:
     image: wurstmeister/kafka
     command: [start-kafka.sh]
@@ -25,7 +25,7 @@ services:
       KAFKA_BROKER_ID: 1
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
-      - /home/azureuser/kafka:/kafka/kafka-logs
+      - /home/azureuser/kafka:/kafka/kafka-logs 
     healthcheck:
       test: ["CMD", "nc", "-z", "localhost", "9092"]
       interval: 10s
