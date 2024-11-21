@@ -1,9 +1,0 @@
-{
-    "num_ec_readings": 0,
-    "min_ec_reading": 1000000000,
-    "max_ec_reading": 0,
-    "num_temp_readings": 0,
-    "min_temp_reading": 0,
-    "max_temp_reading": 1000000000,
-    "last_updated": "2024-10-17 08:55:12.344917"
-}
