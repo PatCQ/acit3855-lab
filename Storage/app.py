@@ -29,7 +29,7 @@ with open('log_conf.yml', 'r') as file2:
 # Logger & Database connection
 # ---------------------------------------------------------------- #
 logger = logging.getLogger('basicLogger')
-DB_ENGINE = create_engine(f"mysql+pymysql://{app_config['datastore']['user']}:{app_config['datastore']['password']}@{app_config['datastore']['hostname']}:{app_config['datastore']['port']}/{app_config['datastore']['db']}")
+DB_ENGINE = create_engine(f"mysql+pymysql://{app_config['datastore']['user']}:{app_config['datastore']['password']}@{app_config['datastore']['hostname']}:{app_config['datastore']['port']}/{app_config['datastore']['db']}", pool_size= 6, pool_recycle= 300, pool_pre_ping= True)
 Base.metadata.bind = DB_ENGINE
 DB_SESSION = sessionmaker(bind=DB_ENGINE)
 logger.info(f"Connecting to DB. Hostname {app_config['datastore']['hostname']}, Port:{app_config['datastore']['port']}")
@@ -157,4 +157,4 @@ if __name__ == "__main__":
     t1 = Thread(target=process_messages)
     t1.setDaemon(True)
     t1.start()
-    app.run(port=8090)  
+    app.run(port=8090, host="0.0.0.0")  
