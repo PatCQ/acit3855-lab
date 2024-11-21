@@ -14,7 +14,8 @@ export default function EndpointAnalyzer(props) {
             .then((result)=>{
 				console.log("Received Analyzer Results for " + props.endpoint)
                 setLog(result);
-                setIsLoaded(true);
+                setIsLoaded(true);  
+                setIndex(rand_val);
             },(error) =>{
                 setError(error)
                 setIsLoaded(true);
