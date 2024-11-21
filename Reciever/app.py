@@ -27,7 +27,9 @@ with open('log_conf.yml', 'r') as file2:
 # ------------------------------------------------------------------------------ #
 logger = logging.getLogger('basicLogger')
 
-
+# ------------------------------------------------------------------------------ #
+# Kafka
+# ------------------------------------------------------------------------------ #
 def kafka_connection():        
     client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
     topic = client.topics[str.encode(app_config['events']['topic'])]
@@ -101,4 +103,4 @@ app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api('openapi.yml', strict_validation=True, validate_responses=True)
 
 if __name__ == "__main__":
-    app.run(port=8080)  
+    app.run(port=8080, host="0.0.0.0")  
