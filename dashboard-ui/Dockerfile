@@ -1,15 +1,17 @@
 FROM node:13.12.0-alpine
-# Set working directory
 WORKDIR /app
-# Add `/app/node_modules/.bin` to $PATH
 ENV PATH /app/node_modules/.bin:$PATH
-# Install app dependencies
+# Add these environment variables
+ENV CI=true
+ENV WATCHPACK_POLLING=true
+ENV WDS_SOCKET_HOST=0.0.0.0
+ENV WDS_SOCKET_PORT=3000
+ENV HOST=0.0.0.0
+
 COPY package.json ./
 COPY package-lock.json ./
-RUN npm install -g npm@8.5.1
-RUN npm install react-scripts@3.4.1 -g
 RUN npm install
-# add app
+RUN npm install react-scripts@3.4.1 -g
 COPY . ./
-# Start app
-CMD ["npm", "start"]
+
+CMD ["npm", "start", "--", "--host", "0.0.0.0"]
