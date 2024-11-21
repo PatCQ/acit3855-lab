@@ -7,6 +7,7 @@ services:
     hostname: zookeeper
     volumes:
       - /home/azureuser/zookeeper/data:/opt/zookeeper-3.4.13/data
+
   kafka:
     image: wurstmeister/kafka
     command: [start-kafka.sh]
@@ -34,6 +35,7 @@ services:
       timeout: 5s
     depends_on:
       - "zookeeper"
+
   db:
     image: mysql:5.7
     restart: always
@@ -54,14 +56,19 @@ services:
       timeout: 5s
     volumes:
       - my-db:/var/lib/mysql
-# Names our volume
+
   receiver:
     image: receiver:latest
     ports:
       - "8080:8080"
+    environment:
+      - TARGET_ENV=test
+    volumes:
+      - /home/azureuser/config/receiver:/config
     depends_on:
       kafka:
         condition: service_healthy
+
   storage:
     image: storage:latest
     ports:
@@ -71,6 +78,7 @@ services:
         condition: service_healthy
       db:
         condition: service_healthy
+
   processor:
     image: processing:latest
     ports:
