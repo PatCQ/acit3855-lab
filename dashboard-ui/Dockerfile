@@ -8,6 +8,7 @@ COPY package.json ./
 COPY package-lock.json ./
 RUN npm install -g npm@8.5.1
 RUN npm install react-scripts@3.4.1 -g
+RUN npm install
 # add app
 COPY . ./
 # Start app

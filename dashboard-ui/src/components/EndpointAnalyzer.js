@@ -6,6 +6,7 @@ export default function EndpointAnalyzer(props) {
     const [log, setLog] = useState(null);
     const [error, setError] = useState(null)
 	const rand_val = Math.floor(Math.random() * 100); // Get a random event from the event store
+    const [index, setIndex] = useState(null);
 
     const getAnalyzer = () => {
         fetch(`http://acit3855-kafka.eastus2.cloudapp.azure.com:8110/${props.endpoint}?index=${rand_val}`)
@@ -32,7 +33,7 @@ export default function EndpointAnalyzer(props) {
         
         return (
             <div>
-                <h3>{props.endpoint}-{rand_val}</h3>
+                <h3>{props.endpoint}-{index}</h3>
                 {JSON.stringify(log)}
             </div>
         )
