@@ -46,9 +46,10 @@ def get_stats():
             logger.debug(f"Stats: \n{stats}")
             logger.info("Get request has finished")
             code = 200
+        logger.info("successfully opened data.json")
     except FileNotFoundError:
         with open(app_config['datastore']['filename'], 'w') as data:
-            deafult = {
+            default = {
             "num_ec_readings": 0,
             "min_ec_reading": 1000000000,
             "max_ec_reading": 0,
@@ -57,9 +58,10 @@ def get_stats():
             "max_temp_reading": 0,
             "last_updated": datetime.strftime(current_time, "%Y-%m-%d %H:%M:%S.%f")
             }
-            json.dump(deafult, data, indent=4)
-            stats = deafult
+            json.dump(default, data, indent=4)
+            stats = default
             code = 201
+        logger.info("successfully created data.json")
     return stats, code
 # ---------------------------------------------------------------- #
 # Periodic Processing
@@ -70,9 +72,10 @@ def populate_stats():
     try:
         with open(app_config['datastore']['filename'], 'r') as data:
             stats = json.load(data)
+        logger.info("successfully opened data.json")
     except FileNotFoundError:
         with open(app_config['datastore']['filename'], 'w') as data:
-            deafult = {
+            default = {
             "num_ec_readings": 0,
             "min_ec_reading": 1000000000,
             "max_ec_reading": 0,
@@ -81,8 +84,9 @@ def populate_stats():
             "max_temp_reading": 0,
             "last_updated": datetime.strftime(current_time, "%Y-%m-%d %H:%M:%S.%f")
             }
-            json.dump(deafult, data, indent=4)
-            stats = deafult
+            json.dump(default, data, indent=4)
+            stats = default
+        logger.info("successfully created data.json")
     query = {'start_timestamp': stats['last_updated'], 'end_timestamp': current_time}
 
     energy_list = requests.get(app_config['eventstore_energy']['url'], params=query)
