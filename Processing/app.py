@@ -4,22 +4,36 @@ import yaml
 import logging
 import logging.config
 import json
+import os
 import requests
 from datetime import datetime
 from apscheduler.schedulers.background import BackgroundScheduler
 from connexion.middleware import MiddlewarePosition
 from starlette.middleware.cors import CORSMiddleware
 # ---------------------------------------------------------------- #
-# yml files
+# yml files & logger
 # ---------------------------------------------------------------- #
-with open('app_conf.yml', 'r') as file1:
+if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
+    print("In Test Environment")
+    app_conf_file = "/config/app_conf.yml"
+    log_conf_file = "/config/log_conf.yml"
+else:
+    print("In Dev Environment")
+    app_conf_file = "app_conf.yml"
+    log_conf_file = "log_conf.yml"
+
+with open(app_conf_file, 'r') as file1:
     app_config = yaml.safe_load(file1.read())
-    
-with open('log_conf.yml', 'r') as file2:
+
+with open(log_conf_file, 'r') as file2:
     log_config = yaml.safe_load(file2.read())
     logging.config.dictConfig(log_config)
     
 logger = logging.getLogger('basicLogger')
+
+logger.info("App Conf File: %s" % app_conf_file)
+logger.info("Log Conf File: %s" % log_conf_file)
+
 # ---------------------------------------------------------------- #
 # Get
 # ---------------------------------------------------------------- #

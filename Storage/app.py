@@ -4,13 +4,12 @@ import yaml
 import logging
 import logging.config
 import datetime
-
+import os
 from sqlalchemy import create_engine, and_
 from sqlalchemy.orm import sessionmaker
 from base import Base
 from energy_usage import EnergyUsage
 from temperature_change import TemperatureChange
-
 import json
 from pykafka import KafkaClient
 from pykafka.common import OffsetType
@@ -18,10 +17,19 @@ from threading import Thread
 # ---------------------------------------------------------------- #
 # yml files
 # ---------------------------------------------------------------- #
-with open('app_conf.yml', 'r') as file1:
+if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
+    print("In Test Environment")
+    app_conf_file = "/config/app_conf.yml"
+    log_conf_file = "/config/log_conf.yml"
+else:
+    print("In Dev Environment")
+    app_conf_file = "app_conf.yml"
+    log_conf_file = "log_conf.yml"
+
+with open(app_conf_file, 'r') as file1:
     app_config = yaml.safe_load(file1.read())
-    
-with open('log_conf.yml', 'r') as file2:
+
+with open(log_conf_file, 'r') as file2:
     log_config = yaml.safe_load(file2.read())
     logging.config.dictConfig(log_config)
 
@@ -29,6 +37,10 @@ with open('log_conf.yml', 'r') as file2:
 # Logger & Database connection
 # ---------------------------------------------------------------- #
 logger = logging.getLogger('basicLogger')
+
+logger.info("App Conf File: %s" % app_conf_file)
+logger.info("Log Conf File: %s" % log_conf_file)
+
 DB_ENGINE = create_engine(f"mysql+pymysql://{app_config['datastore']['user']}:{app_config['datastore']['password']}@{app_config['datastore']['hostname']}:{app_config['datastore']['port']}/{app_config['datastore']['db']}", pool_size= 6, pool_recycle= 300, pool_pre_ping= True)
 Base.metadata.bind = DB_ENGINE
 DB_SESSION = sessionmaker(bind=DB_ENGINE)
