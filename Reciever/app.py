@@ -27,6 +27,14 @@ with open('log_conf.yml', 'r') as file2:
 # ------------------------------------------------------------------------------ #
 logger = logging.getLogger('basicLogger')
 
+
+def kafka_connection():        
+    client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
+    topic = client.topics[str.encode(app_config['events']['topic'])]
+    producer = topic.get_sync_producer()
+    return(producer)
+
+producer = kafka_connection()
 # ------------------------------------------------------------------------------------------------#
 # Post Events
 # ------------------------------------------------------------------------------------------------#
@@ -45,10 +53,6 @@ def energy_usage(body):
         
         logger.info(f"Received event energy_usage request with a trace id of {body['trace_id']}")
         #update_event(app_config['eventstore1']['url'], body)
-        
-        client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
-        topic = client.topics[str.encode(app_config['events']['topic'])]
-        producer = topic.get_sync_producer()
         
         msg = { "type": "energy",
                 "datetime": datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
@@ -74,10 +78,6 @@ def temperature_change(body):
         
         logger.info(f"Received event temperature_change request with a trace id of {body['trace_id']}")
         #update_event(app_config['eventstore2']['url'], body)
-        
-        client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
-        topic = client.topics[str.encode(app_config['events']['topic'])]
-        producer = topic.get_sync_producer()
         
         msg = { "type": "temperature",
                 "datetime": datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
