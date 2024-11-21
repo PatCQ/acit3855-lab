@@ -65,6 +65,7 @@ services:
       - TARGET_ENV=test
     volumes:
       - /home/azureuser/config/receiver:/config
+      - /home/azureuser/logs:/logs
     depends_on:
       kafka:
         condition: service_healthy
@@ -77,6 +78,7 @@ services:
       - TARGET_ENV=test
     volumes:
       - /home/azureuser/config/storage:/config
+      - /home/azureuser/logs:/logs
     depends_on:
       kafka:
         condition: service_healthy
@@ -91,6 +93,7 @@ services:
       - TARGET_ENV=test
     volumes:
       - /home/azureuser/config/processor:/config
+      - /home/azureuser/logs:/logs
     network_mode: "host"
     depends_on:
       - "storage"
@@ -103,6 +106,7 @@ services:
       - TARGET_ENV=test
     volumes:
       - /home/azureuser/config/analyzer:/config
+      - /home/azureuser/logs:/logs
     depends_on:
       - "kafka"
   
