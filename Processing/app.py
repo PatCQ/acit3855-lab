@@ -39,6 +39,7 @@ logger.info("Log Conf File: %s" % log_conf_file)
 # ---------------------------------------------------------------- #
 def get_stats():
     logger.info("Get request has started")
+    current_time = datetime.now()
     try:
         with open(app_config['datastore']['filename'], 'r') as data:
             stats = json.load(data)
@@ -46,9 +47,19 @@ def get_stats():
             logger.info("Get request has finished")
             code = 200
     except FileNotFoundError:
-        logger.error("Statistics do not exist")
-        stats = NoContent
-        code = 400
+        with open(app_config['datastore']['filename'], 'w') as data:
+            deafult = {
+            "num_ec_readings": 0,
+            "min_ec_reading": 1000000000,
+            "max_ec_reading": 0,
+            "num_temp_readings": 0,
+            "min_temp_reading": 1000000000,
+            "max_temp_reading": 0,
+            "last_updated": datetime.strftime(current_time, "%Y-%m-%d %H:%M:%S.%f")
+            }
+            json.dump(deafult, data, indent=4)
+            stats = deafult
+            code = 201
     return stats, code
 # ---------------------------------------------------------------- #
 # Periodic Processing
