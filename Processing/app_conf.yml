@@ -4,6 +4,6 @@ datastore:
 scheduler:
   period_sec: 5
 eventstore_energy:
-  url: http://localhost:8090/values/energy_usage
+  url: http://acit3855-kafka.eastus2.cloudapp.azure.com/storage
 eventstore_temperature:
-  url: http://localhost:8090/values/temperature_change
+  url: http://acit3855-kafka.eastus2.cloudapp.azure.com/storage
