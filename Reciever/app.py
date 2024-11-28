@@ -110,7 +110,7 @@ def temperature_change(body):
 # Application connection
 # ------------------------------------------------------------------------------------------------
 app = connexion.FlaskApp(__name__, specification_dir='')
-app.add_api('openapi.yml', strict_validation=True, validate_responses=True)
+app.add_api('openapi.yml', base_path="/receiver", strict_validation=True, validate_responses=True)
 
 if __name__ == "__main__":
     app.run(port=8080, host="0.0.0.0")  
