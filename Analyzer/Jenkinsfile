@@ -1,0 +1,8 @@
+@Library('ci_functions@main') _
+
+def serviceDetails = [
+    subdir: 'Analyzer'
+    dockerImage: 'pquach3/Analzyer:latest'
+]
+
+assignment3_pat(serviceDetails)

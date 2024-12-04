@@ -1,0 +1,8 @@
+@Library('ci_functions@main') _
+
+def serviceDetails = [
+    subdir: 'Processing'
+    dockerImage: 'pquach3/Processing:latest'
+]
+
+assignment3_pat(serviceDetails)
