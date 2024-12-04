@@ -1,7 +1,7 @@
 @Library('ci_functions@main') _
 
 def serviceDetails = [
-    subdir: 'Reciever'
+    subdir: 'Reciever',
     dockerImage: 'Reciever:latest'
 ]
 
