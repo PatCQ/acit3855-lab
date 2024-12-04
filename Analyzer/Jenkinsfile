@@ -2,7 +2,7 @@
 
 def serviceDetails = [
     subdir: 'Analyzer'
-    dockerImage: 'pquach3/Analzyer:latest'
+    dockerImage: 'Analzyer:latest'
 ]
 
 assignment3_pat(serviceDetails)

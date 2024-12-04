@@ -2,7 +2,7 @@
 
 def serviceDetails = [
     subdir: 'Processing'
-    dockerImage: 'pquach3/Processing:latest'
+    dockerImage: 'Processing:latest'
 ]
 
 assignment3_pat(serviceDetails)
