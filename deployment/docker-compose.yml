@@ -155,7 +155,6 @@ services:
       - "processor"
       - "analyzer"
       - "dashboard"
-      - ''
     ports:
       - "80:80"
     networks:
