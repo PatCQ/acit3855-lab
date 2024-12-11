@@ -1,0 +1,8 @@
+service:
+  RECEIVER_URL: http://acit3855-kafka.eastus2.cloudapp.azure.com/receiver
+  STORAGE_URL: http://acit3855-kafka.eastus2.cloudapp.azure.com/storage
+  PROCESSING_URL: http://acit3855-kafka.eastus2.cloudapp.azure.com/processing
+  ANALYZER_URL: http://acit3855-kafka.eastus2.cloudapp.azure.com/analyzer
+
+param:
+  TIMEOUT: 2
