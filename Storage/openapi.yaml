@@ -156,12 +156,12 @@ components:
 
     Stats:
       required:
-        - num_en
-        - num_tp
+        - num_ec_readings
+        - num_temp_readings
       properties:
-        num_en:
+        num_ec_readings:
           type: integer
           example: 100
-        num_hr:
+        num_temp_readings:
           type: integer
-          example: 100      
+          example: 101      

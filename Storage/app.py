@@ -131,6 +131,19 @@ def get_temperature_change_readings(start_timestamp, end_timestamp):
     logger.info("Query for temperature change readings after %s returns %d results" %
     (start_timestamp, len(results_list)))
     return results_list, 200
+
+def get_event_stats():
+    session = DB_SESSION()
+    
+    num_en = session.query(EnergyUsage).count()
+    num_tp = session.query(TemperatureChange).count()
+
+    stats = {"num_ec_readings": num_en, "num_temp_readings": num_tp }
+    
+    session.commit()
+            
+    return stats, 200
+
 # ---------------------------------------------------------------- #
 # Process
 # ---------------------------------------------------------------- #
