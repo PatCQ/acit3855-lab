@@ -52,6 +52,16 @@ paths:
           application/json:
             schema:
               $ref: "#/components/schemas/TemperatureChange"
+
+  /check:
+    get:
+      summary: Checks the health of the Receiver
+      operationId: app.get_check
+      description: Service is health if this service returns a responses
+      responses:
+        '200':
+          description: OK
+                    
 components:
   schemas:
     EnergyUsage:
