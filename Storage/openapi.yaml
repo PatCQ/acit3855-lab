@@ -91,6 +91,19 @@ paths:
                   message:
                     type: string
 
+  /stats:
+    get:
+      summary: Gets the event stats
+      operationId: app.get_event_stats
+      description: Gets teh stats of the history events
+      responses:
+        '200':
+          description: Successfully returned an event
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Stats'
+
 components:
   schemas:
     EnergyUsage:
@@ -140,3 +153,15 @@ components:
         timestamp:
           type: string
           example: '2024-10-10 16:12:46.046992'
+
+    Stats:
+      required:
+        - num_en
+        - num_tp
+      properties:
+        num_en:
+          type: integer
+          example: 100
+        num_hr:
+          type: integer
+          example: 100      
