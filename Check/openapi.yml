@@ -39,10 +39,10 @@ components:
           example: "Healthy"
         storage:
           type: string
-          example: "Storage has 6 BP and 4 HR events"
+          example: "Storage has 1919 Energy Readings and 1921 Temperature readings"
         processing:
           type: string
-          example: "Processing has 6 BP and 4 HR events"
+          example: "Processing has 1224 Energy Readings and 1232 Temperature readings"
         analyzer:
           type: string
-          example: "Analyzer has 10 BP and 4 HR events"
+          example: "Analyzer has 0 Energy Readings and 0 Temperature readings"

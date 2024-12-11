@@ -13,6 +13,7 @@ from starlette.middleware.cors import CORSMiddleware
 # ---------------------------------------------------------------- #
 # yml files & logger
 # ---------------------------------------------------------------- #
+
 if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
     print("In Test Environment")
     app_conf_file = "/config/app_conf.yml"
@@ -35,7 +36,7 @@ RECEIVER_URL = app_config['service']['RECEIVER_URL']
 STORAGE_URL = app_config['service']['STORAGE_URL']
 PROCESSING_URL = app_config['service']['PROCESSING_URL']
 ANALYZER_URL = app_config['service']['ANALYZER_URL']
-TIMEOUT = app_config['params']['TIMEOUT']
+TIMEOUT = app_config['param']['TIMEOUT']
 
 # ---------------------------------------------------------------- #
 # Periodic Function
@@ -104,7 +105,7 @@ def get_checks():
             code = 200
         logger.info("successfully opened data.json")
     except FileNotFoundError:
-        logger.info("File not found")
+        logger.debug("File not found")
         stats = {"Error": "File not found"}
         code = 404
     return stats, code
@@ -123,7 +124,7 @@ def init_scheduler():
 # App run
 # ---------------------------------------------------------------- #
 app = connexion.FlaskApp(__name__, specification_dir='')
-app.add_api('openapi.yaml', base_path="/processing", strict_validation=True, validate_responses=True)
+app.add_api('openapi.yml', base_path="/Check", strict_validation=True, validate_responses=True)
 
 if "TARGET_ENV" not in os.environ or os.environ["TARGET_ENV"] != "test":
     app.add_middleware(

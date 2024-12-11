@@ -1,0 +1,391 @@
+2024-12-11 11:49:04,085 - basicLogger - INFO - Receiver returning non-200 response
+2024-12-11 11:49:04,330 - basicLogger - INFO - Storage returning non-200 response
+2024-12-11 11:49:04,574 - basicLogger - INFO - Processing returning non-200 response
+2024-12-11 11:49:04,814 - basicLogger - INFO - Analyzer returning non-200 response
+2024-12-11 11:49:16,064 - basicLogger - INFO - Receiver returning non-200 response
+2024-12-11 11:49:16,312 - basicLogger - INFO - Storage returning non-200 response
+2024-12-11 11:49:16,543 - basicLogger - INFO - Processing returning non-200 response
+2024-12-11 11:49:16,772 - basicLogger - INFO - Analyzer returning non-200 response
+2024-12-11 11:49:28,040 - basicLogger - INFO - Receiver returning non-200 response
+2024-12-11 11:49:28,268 - basicLogger - INFO - Storage returning non-200 response
+2024-12-11 11:49:28,521 - basicLogger - INFO - Processing returning non-200 response
+2024-12-11 11:49:28,749 - basicLogger - INFO - Analyzer returning non-200 response
+2024-12-11 11:49:40,051 - basicLogger - INFO - Receiver returning non-200 response
+2024-12-11 11:49:40,300 - basicLogger - INFO - Storage returning non-200 response
+2024-12-11 11:49:40,549 - basicLogger - INFO - Processing returning non-200 response
+2024-12-11 11:49:40,796 - basicLogger - INFO - Analyzer returning non-200 response
+2024-12-11 11:49:52,069 - basicLogger - INFO - Receiver returning non-200 response
+2024-12-11 11:49:52,297 - basicLogger - INFO - Storage returning non-200 response
+2024-12-11 11:49:52,523 - basicLogger - INFO - Processing returning non-200 response
+2024-12-11 11:49:52,750 - basicLogger - INFO - Analyzer returning non-200 response
+2024-12-11 11:50:04,050 - basicLogger - INFO - Receiver returning non-200 response
+2024-12-11 11:50:04,280 - basicLogger - INFO - Storage returning non-200 response
+2024-12-11 11:50:04,506 - basicLogger - INFO - Processing returning non-200 response
+2024-12-11 11:50:04,733 - basicLogger - INFO - Analyzer returning non-200 response
+2024-12-11 11:50:16,063 - basicLogger - INFO - Receiver returning non-200 response
+2024-12-11 11:50:16,291 - basicLogger - INFO - Storage returning non-200 response
+2024-12-11 11:50:16,531 - basicLogger - INFO - Processing returning non-200 response
+2024-12-11 11:50:16,780 - basicLogger - INFO - Analyzer returning non-200 response
+2024-12-11 11:50:28,056 - basicLogger - INFO - Receiver returning non-200 response
+2024-12-11 11:50:28,308 - basicLogger - INFO - Storage returning non-200 response
+2024-12-11 11:50:28,555 - basicLogger - INFO - Processing returning non-200 response
+2024-12-11 11:50:28,806 - basicLogger - INFO - Analyzer returning non-200 response
+2024-12-11 11:50:40,014 - basicLogger - INFO - Receiver returning non-200 response
+2024-12-11 11:50:40,263 - basicLogger - INFO - Storage returning non-200 response
+2024-12-11 11:50:40,496 - basicLogger - INFO - Processing returning non-200 response
+2024-12-11 11:50:40,734 - basicLogger - INFO - Analyzer returning non-200 response
+2024-12-11 11:50:52,018 - basicLogger - INFO - Receiver returning non-200 response
+2024-12-11 11:50:52,261 - basicLogger - INFO - Storage returning non-200 response
+2024-12-11 11:50:52,508 - basicLogger - INFO - Processing returning non-200 response
+2024-12-11 11:50:52,731 - basicLogger - INFO - Analyzer returning non-200 response
+2024-12-11 11:51:04,061 - basicLogger - INFO - Receiver returning non-200 response
+2024-12-11 11:51:04,292 - basicLogger - INFO - Storage returning non-200 response
+2024-12-11 11:51:04,521 - basicLogger - INFO - Processing returning non-200 response
+2024-12-11 11:51:04,763 - basicLogger - INFO - Analyzer returning non-200 response
+2024-12-11 11:51:16,281 - basicLogger - INFO - Receiver returning non-200 response
+2024-12-11 11:51:16,536 - basicLogger - INFO - Storage returning non-200 response
+2024-12-11 11:51:16,759 - basicLogger - INFO - Processing returning non-200 response
+2024-12-11 11:51:17,101 - basicLogger - INFO - Analyzer returning non-200 response
+2024-12-11 11:51:28,069 - basicLogger - INFO - Receiver returning non-200 response
+2024-12-11 11:51:28,297 - basicLogger - INFO - Storage returning non-200 response
+2024-12-11 11:51:28,535 - basicLogger - INFO - Processing returning non-200 response
+2024-12-11 11:51:28,760 - basicLogger - INFO - Analyzer returning non-200 response
+2024-12-11 11:53:02,248 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:53:02,414 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:53:02,568 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:53:03,774 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:53:03,778 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:53:14,259 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:53:14,440 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:53:14,614 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:53:15,812 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:53:15,815 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:53:26,220 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:53:26,379 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:53:26,550 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:53:27,746 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:53:27,749 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:53:38,219 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:53:38,494 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:53:38,704 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:53:39,879 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:53:39,880 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:53:50,242 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:53:50,424 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:53:50,599 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:53:51,776 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:53:51,777 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:54:02,234 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:54:02,393 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:54:02,546 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:54:03,754 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:54:03,757 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:54:14,219 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:54:14,385 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:54:14,549 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:54:15,746 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:54:15,749 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:54:26,255 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:54:26,414 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:54:26,566 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:54:27,748 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:54:27,751 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:54:38,242 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:54:38,428 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:54:38,581 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:54:39,757 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:54:39,760 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:54:50,226 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:54:50,399 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:54:50,561 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:54:51,732 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:54:51,736 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:55:02,225 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:55:02,381 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:55:02,533 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:55:03,710 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:55:03,713 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:55:14,248 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:55:14,493 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:55:14,757 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:55:15,937 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:55:15,939 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:55:26,238 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:55:26,397 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:55:26,551 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:55:27,744 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:55:27,745 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:55:38,199 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:55:38,364 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:55:38,542 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:55:39,720 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:55:39,723 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:55:50,233 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:55:50,413 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:55:50,564 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:55:51,777 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:55:51,780 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:56:02,231 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:56:02,423 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:56:02,597 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:56:03,803 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:56:03,805 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:56:14,211 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:56:14,376 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:56:14,537 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:56:15,715 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:56:15,718 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:56:26,254 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:56:26,416 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:56:26,585 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:56:27,762 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:56:27,765 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:56:38,205 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:56:38,363 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:56:38,528 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:56:39,724 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:56:39,726 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:56:50,211 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:56:50,373 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:56:50,532 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:56:51,707 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:56:51,709 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:57:02,228 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:57:02,389 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:57:02,543 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:57:03,737 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:57:03,739 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:57:14,439 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:57:14,616 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:57:14,770 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:57:16,005 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:57:16,007 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:57:39,260 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:57:39,431 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:57:39,600 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:57:40,770 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:57:40,772 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:57:51,236 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:57:51,421 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:57:51,598 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:57:52,792 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:57:52,794 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:58:03,286 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:58:03,444 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:58:03,618 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:58:04,793 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:58:04,795 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:58:15,258 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:58:15,441 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:58:15,592 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:58:16,781 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:58:16,784 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:58:27,345 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:58:27,527 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:58:27,710 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:58:28,909 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:58:28,912 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:58:39,287 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:58:39,467 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:58:39,630 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:58:40,811 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:58:40,814 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:58:51,271 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:58:51,450 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:58:51,618 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:58:52,809 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:58:52,811 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:59:03,259 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:59:03,424 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:59:03,574 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:59:04,760 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:59:04,762 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:59:15,389 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:59:15,602 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:59:15,801 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:59:17,043 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:59:17,043 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:59:27,274 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:59:27,430 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:59:27,580 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:59:28,747 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:59:28,749 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:59:39,263 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:59:39,444 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:59:39,596 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:59:40,791 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:59:40,794 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 11:59:51,363 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 11:59:51,568 - basicLogger - INFO - Storage is Healthy
+2024-12-11 11:59:51,787 - basicLogger - INFO - Processing is Healthy
+2024-12-11 11:59:53,099 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 11:59:53,101 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 12:00:03,269 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 12:00:03,498 - basicLogger - INFO - Storage is Healthy
+2024-12-11 12:00:03,724 - basicLogger - INFO - Processing is Healthy
+2024-12-11 12:00:04,903 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 12:00:04,905 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 12:00:24,137 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 12:00:24,296 - basicLogger - INFO - Storage is Healthy
+2024-12-11 12:00:24,466 - basicLogger - INFO - Processing is Healthy
+2024-12-11 12:00:25,640 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 12:00:25,642 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 12:00:36,128 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 12:00:36,285 - basicLogger - INFO - Storage is Healthy
+2024-12-11 12:00:36,436 - basicLogger - INFO - Processing is Healthy
+2024-12-11 12:00:37,634 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 12:00:37,636 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 12:00:51,730 - basicLogger - INFO - Get request has started
+2024-12-11 12:00:51,734 - basicLogger - DEBUG - Stats: 
+{'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 12:00:51,736 - basicLogger - INFO - successfully opened data.json
+2024-12-11 12:00:54,934 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 12:00:55,091 - basicLogger - INFO - Storage is Healthy
+2024-12-11 12:00:55,254 - basicLogger - INFO - Processing is Healthy
+2024-12-11 12:00:56,433 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 12:00:56,435 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 12:02:12,379 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 12:02:12,550 - basicLogger - INFO - Storage is Healthy
+2024-12-11 12:02:12,749 - basicLogger - INFO - Processing is Healthy
+2024-12-11 12:02:13,950 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 12:02:13,952 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 12:02:24,359 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 12:02:24,517 - basicLogger - INFO - Storage is Healthy
+2024-12-11 12:02:24,668 - basicLogger - INFO - Processing is Healthy
+2024-12-11 12:02:25,841 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 12:02:25,845 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 12:02:27,043 - basicLogger - INFO - Get request has started
+2024-12-11 12:02:27,045 - basicLogger - DEBUG - Stats: 
+{'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 12:02:27,046 - basicLogger - INFO - successfully opened data.json
+2024-12-11 12:02:36,390 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 12:02:36,552 - basicLogger - INFO - Storage is Healthy
+2024-12-11 12:02:36,704 - basicLogger - INFO - Processing is Healthy
+2024-12-11 12:02:37,918 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 12:02:37,921 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 12:02:48,386 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 12:02:48,549 - basicLogger - INFO - Storage is Healthy
+2024-12-11 12:02:48,700 - basicLogger - INFO - Processing is Healthy
+2024-12-11 12:02:49,896 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 12:02:49,899 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 12:03:00,368 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 12:03:00,530 - basicLogger - INFO - Storage is Healthy
+2024-12-11 12:03:00,689 - basicLogger - INFO - Processing is Healthy
+2024-12-11 12:03:01,861 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 12:03:01,862 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 12:03:12,351 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 12:03:12,511 - basicLogger - INFO - Storage is Healthy
+2024-12-11 12:03:12,661 - basicLogger - INFO - Processing is Healthy
+2024-12-11 12:03:13,853 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 12:03:13,855 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 12:03:24,565 - basicLogger - INFO - Receiver is Healthy
+2024-12-11 12:03:24,846 - basicLogger - INFO - Storage is Healthy
+2024-12-11 12:03:25,179 - basicLogger - INFO - Processing is Healthy
+2024-12-11 12:03:26,358 - basicLogger - INFO - Analyzer is Healthy
+2024-12-11 12:03:26,361 - basicLogger - DEBUG - {'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 12:03:38,232 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:03:40,245 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:03:42,269 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:03:44,281 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:03:50,240 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:03:52,252 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:03:54,264 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:03:56,277 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:04:02,232 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:04:04,240 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:04:06,256 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:04:08,268 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:04:14,261 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:04:16,277 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:04:18,299 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:04:20,322 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:05:14,246 - basicLogger - INFO - Get request has started
+2024-12-11 12:05:14,247 - basicLogger - DEBUG - File not found
+2024-12-11 12:05:16,481 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:05:18,495 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:05:20,516 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:05:22,533 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:05:28,497 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:05:30,525 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:05:32,539 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:05:34,548 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:05:40,520 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:05:42,530 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:05:44,542 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:05:46,564 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:05:52,507 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:05:54,526 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:05:56,534 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:05:58,546 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:06:04,535 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:06:06,554 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:06:08,567 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:06:10,588 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:06:16,517 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:06:18,528 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:06:20,556 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:06:22,569 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:06:28,475 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:06:30,483 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:06:32,509 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:06:34,516 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:06:40,549 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:06:42,568 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:06:44,577 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:06:46,160 - basicLogger - INFO - Get request has started
+2024-12-11 12:06:46,162 - basicLogger - DEBUG - Stats: 
+{'receiver': 'Healthy', 'storage': 'Storage has 1919 Energy Readings and 1921 Temperature readings', 'processing': 'Processing has 1224 Energy Readings and 1232 Temperature readings', 'analyzer': 'Analyzer has 0 Energy Readings and 0 Temperature readings'}
+2024-12-11 12:06:46,163 - basicLogger - INFO - successfully opened data.json
+2024-12-11 12:06:46,593 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:06:52,504 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:06:54,525 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:06:56,529 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:06:58,540 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:07:04,491 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:07:06,506 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:07:08,520 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:07:10,549 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:07:16,530 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:07:18,544 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:07:20,559 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:07:22,568 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:07:28,509 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:07:30,528 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:07:32,537 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:07:34,548 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:07:40,483 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:07:42,496 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:07:44,518 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:07:46,536 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:07:52,492 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:07:54,501 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:07:56,514 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:07:58,525 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:08:04,490 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:08:06,501 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:08:08,521 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:08:10,535 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:08:16,482 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:08:18,497 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:08:20,525 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:08:22,545 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:08:28,522 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:08:30,543 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:08:32,553 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:08:34,563 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:08:40,524 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:08:42,543 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:08:44,562 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:08:46,576 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:08:52,481 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:08:54,499 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:08:56,530 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:08:58,548 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:09:04,478 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:09:06,490 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:09:08,505 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:09:10,520 - basicLogger - INFO - Analyzer is Not Available
+2024-12-11 12:09:16,595 - basicLogger - INFO - Receiver is Not Available
+2024-12-11 12:09:18,617 - basicLogger - INFO - Storage is Not Available
+2024-12-11 12:09:20,630 - basicLogger - INFO - Processing is Not Available
+2024-12-11 12:09:22,646 - basicLogger - INFO - Analyzer is Not Available

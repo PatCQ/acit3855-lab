@@ -128,6 +128,23 @@ services:
       - "processor"
       - "analyzer"
 
+  check:
+    image: check:latest
+    ports:
+      - "8130"
+    networks:
+      - "api.network"
+    environment:
+      - TARGET_ENV=test
+    volumes:
+      - /home/azureuser/config/check:/config
+      - /home/azureuser/logs:/logs
+    depends_on:
+      - "receiver"
+      - "storage"
+      - "processor"
+      - "analyzer"
+    
   nginx:
     image: nginx:latest
     volumes:
@@ -138,10 +155,13 @@ services:
       - "processor"
       - "analyzer"
       - "dashboard"
+      - ''
     ports:
       - "80:80"
     networks:
       - "api.network"
+  
+
 
 volumes:
   my-db:
